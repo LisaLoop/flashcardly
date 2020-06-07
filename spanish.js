@@ -1,3 +1,6 @@
+const getWords = () => {
+    return a
+}
 var a = [];
 a.push({"front":"absoluto (adj)","back":"absolute"});
 a.push({"front":"actual (adj)","back":"current (adj)"});
@@ -5002,7 +5005,5 @@ a.push({"front":"vislumbrar (v)","back":"to glimpse"});
 a.push({"front":"Key to Abbreviations","back":"art - article"});
 
 console.log(a.length  + " loaded");
-var r = Math.floor(Math.random() * (a.length-1));
 
-console.log(a[r].front);
 
