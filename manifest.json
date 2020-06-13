@@ -1,11 +1,11 @@
 {
-    "name": "Flashcardly",
+    "name": "SpanishTab",
     "options_page": "options.html",
     "chrome_url_overrides" : {
         "newtab": "index.html"
       },
     "version": "1.0",
-    "description": "Study flashcards while browsing the web!",
+    "description": "Study Spanish while browsing the web!",
     "permissions": [
         "storage","declarativeContent","activeTab","tabs"
     ],

@@ -1,4 +1,4 @@
-const getWords = () => {
+const getSpanishWords = () => {
     return a
 }
 var a = [];
@@ -5003,7 +5003,5 @@ a.push({"front":"vengar (v)","back":"to take revenge, avenge"});
 a.push({"front":"verter (v)","back":"to pour, spill, shed"});
 a.push({"front":"vislumbrar (v)","back":"to glimpse"});
 a.push({"front":"Key to Abbreviations","back":"art - article"});
-
-console.log(a.length  + " loaded");
 
 
