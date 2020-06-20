@@ -1,5 +1,20 @@
+body * {
+    font-family: raleway, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 44pt;
+}
+.logo {
+    font-family: copal-std-decorated,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 0;
+    padding-left: .25em;
+    color: rgb(230,230,230);
+}
+
 .scene {
-    width: 600px;
+    width: 500px;
     height: 400px;
     perspective: 1000px;
     margin:0 auto;
@@ -32,15 +47,17 @@
     backface-visibility: hidden;
   }
 .card__face--front {
-    background-image: url('./images/card.png'); 
-    background-position: center center;
-    background-size: cover;
+    /* background-image: url('./images/card.png');  */
+    /* background-position: center center; */
+    /* background-size: cover; */
+    background-color: rgb(230,230,230);
 }
   
 .card__face--back {
-    background-image: url('./images/card.png'); 
-    background-position: center center;
-    background-size: cover;
+    /* background-image: url('./images/card.png');  */
+    /* background-position: center center; */
+    /* background-size: cover; */
+    background-color: rgb(230,230,230);
     transform: rotateY( 180deg );
 }
 

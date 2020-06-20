@@ -19,10 +19,20 @@ const languageDecks = ["ES", "FR"];
     }
   }
   
-constructOptions(languageDecks)
 function getDecksFromSettings(callback){
   chrome.storage.sync.get(['language'], function(result) {
-    callback([result.language]);
+    if(chrome.runtime.lastError) {
+      console.log("chrome.runtime.lastError: ", chrome.runtime.lastError)
+      callback([languageDecks[0]])
+    } else {
+      if('language' in result){
+        callback([result.language]);
+      } else {
+        callback([languageDecks[0]]);
+      }
+    }
   });
   return languageDecks
 }
+
+constructOptions(languageDecks)

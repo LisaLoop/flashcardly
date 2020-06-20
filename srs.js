@@ -36,9 +36,17 @@ const init = () => {
     
         let card = document.getElementById("card")
         card.addEventListener("click", flipCard)
+        document.body.style.backgroundColor = makeColor();
     });
-   
-    
+      
 }
+// 1-360 , 40, 60, 1
+const makeColor = () => {
+    let x = Math.floor(Math.random() * 360);
+    // console.log("x: ", x);
+    console.log(`hsla(${x},40%,60%,1)`);
+    return `hsla(${x},40%,60%,1)`
+}
+
 
 window.onload = init;

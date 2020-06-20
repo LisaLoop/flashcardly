@@ -9,7 +9,8 @@ const parseNotes =(notes)=> {
     let b = [];`)
     let lines = notes.split('\n')
     for(line of lines){
-        let t = line.split('\t')
+        let t = line.split('\t');
+        if(!t[1] || !t[2]){continue}
         let front = t[1].replace(/"/gi,"");
         let back = t[2].replace(/"/gi,"");
         console.log(`b.push({"front":"${front}","back":"${back}"});`);

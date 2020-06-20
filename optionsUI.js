@@ -1,3 +1,3 @@
 const optionsInit = () => {
     constructOptions(languageDecks);
-  }
+}

@@ -1,0 +1,704 @@
+ÊTRE	[Indicative Past Historic]	jetuil, ellefusfusfut/fy//fy//fy/nousvousils, ellesfûmesfûtesfurent/fym//fyt//fyʁ/	fus, fus, fut, fûmes, fûtes, furent	
+FAIRE	[Indicative Past Historic]	jetuil, ellefisfisfit/fi//fi//fi/nousvousils, ellesfîmesfîtesfirent/fim//fit//fiʁ/	fis, fis, fit, fîmes, fîtes, firent	
+DIRE	[Indicative Past Historic]	jetuil, elledisdisdit/di//di//di/nousvousils, ellesdîmesdîtesdirent/dim//dit//diʁ/	dis, dis, dit, dîmes, dîtes, dirent	
+VOIR	[Indicative Past Historic]	jetuil, ellevisvisvit/vi//vi//vi/nousvousils, ellesvîmesvîtesvirent/vim//vit//viʁ/	vis, vis, vit, vîmes, vîtes, virent	
+AVOIR	[Indicative Past Historic]	jetuil, elleeuseuseut/y//y//y/nousvousils, elleseûmeseûteseurent/ym//yt//yʁ/	eus, eus, eut, eûmes, eûtes, eurent	
+ALLER	[Indicative Past Historic]	jetuil, elleallaiallasalla/a.le//a.la//a.la/nousvousils, ellesallâmesallâtesallèrent/a.lam//a.lat//a.lɛʁ/	allai, allas, alla, allâmes, allâtes, allèrent	
+PRENDRE	[Indicative Past Historic]	jetuil, elleprisprisprit/pʁi//pʁi//pʁi/nousvousils, ellesprîmesprîtesprirent/pʁim//pʁit//pʁiʁ/	pris, pris, prit, prîmes, prîtes, prirent	
+SAVOIR	[Indicative Past Historic]	jetuil, ellesussussut/sy//sy//sy/nousvousils, ellessûmessûtessurent/sym//syt//syʁ/	sus, sus, sut, sûmes, sûtes, surent	
+PARTIR	[Indicative Past Historic]	jetuil, ellepartispartispartit/paʁ.ti//paʁ.ti//paʁ.ti/nousvousils, ellespartîmespartîtespartirent/paʁ.tim//paʁ.tit//paʁ.tiʁ/	partis, partis, partit, partîmes, partîtes, partirent	
+VENIR	[Indicative Past Historic]	jetuil, ellevinsvinsvint/vɛ̃//vɛ̃//vɛ̃/nousvousils, ellesvînmesvîntesvinrent/vɛ̃m//vɛ̃t//vɛ̃ʁ/	vins, vins, vint, vînmes, vîntes, vinrent	
+SORTIR	[Indicative Past Historic]	jetuil, ellesortissortissortit/sɔʁ.ti//sɔʁ.ti//sɔʁ.ti/nousvousils, ellessortîmessortîtessortirent/sɔʁ.tim//sɔʁ.tit//sɔʁ.tiʁ/	sortis, sortis, sortit, sortîmes, sortîtes, sortirent	
+METTRE	[Indicative Past Historic]	jetuil, ellemismismit/mi//mi//mi/nousvousils, ellesmîmesmîtesmirent/mim//mit//miʁ/	mis, mis, mit, mîmes, mîtes, mirent	
+MOURIR	[Indicative Past Historic]	jetuil, ellemourusmourusmourut/mu.ʁy//mu.ʁy//mu.ʁy/nousvousils, ellesmourûmesmourûtesmoururent/mu.ʁym//mu.ʁyt//mu.ʁyʁ/	mourus, mourus, mourut, mourûmes, mourûtes, moururent	
+POUVOIR	[Indicative Past Historic]	jetuil, ellepuspusput/py//py//py/nousvousils, ellespûmespûtespurent/pym//pyt//pyʁ/	pus, pus, put, pûmes, pûtes, purent	
+VIVRE	[Indicative Past Historic]	jetuil, ellevécusvécusvécut/ve.ky//ve.ky//ve.ky/nousvousils, ellesvécûmesvécûtesvécurent/ve.kym//ve.kyt//ve.kyʁ/	vécus, vécus, vécut, vécûmes, vécûtes, vécurent	
+CROIRE	[Indicative Past Historic]	jetuil, ellecruscruscrut/kʁy//kʁy//kʁy/nousvousils, ellescrûmescrûtescrurent/kʁym//kʁyt//kʁyʁ/	crus, crus, crut, crûmes, crûtes, crurent	
+BOIRE	[Indicative Past Historic]	jetuil, ellebusbusbut/by//by//by/nousvousils, ellesbûmesbûtesburent/bym//byt//byʁ/	bus, bus, but, bûmes, bûtes, burent	
+DORMIR	[Indicative Past Historic]	jetuil, elledormisdormisdormit/dɔʁ.mi//dɔʁ.mi//dɔʁ.mi/nousvousils, ellesdormîmesdormîtesdormirent/dɔʁ.mim//dɔʁ.mit//dɔʁ.miʁ/	dormis, dormis, dormit, dormîmes, dormîtes, dormirent	
+DEVENIR	[Indicative Past Historic]	jetuil, elledevinsdevinsdevint/də.vɛ̃//də.vɛ̃//də.vɛ̃/nousvousils, ellesdevînmesdevîntesdevinrent/də.vɛ̃m//də.vɛ̃t//də.vɛ̃ʁ/	devins, devins, devint, devînmes, devîntes, devinrent	
+DEVOIR	[Indicative Past Historic]	jetuil, elledusdusdut/dy//dy//dy/nousvousils, ellesdûmesdûtesdurent/dym//dyt//dyʁ/	dus, dus, dut, dûmes, dûtes, durent	
+APPRENDRE	[Indicative Past Historic]	jetuil, elleapprisapprisapprit/a.pʁi//a.pʁi//a.pʁi/nousvousils, ellesapprîmesapprîtesapprirent/a.pʁim//a.pʁit//a.pʁiʁ/	appris, appris, apprit, apprîmes, apprîtes, apprirent	
+REVENIR	[Indicative Past Historic]	jetuil, ellerevinsrevinsrevint/ʁə.vɛ̃//ʁə.vɛ̃//ʁə.vɛ̃/nousvousils, ellesrevînmesrevîntesrevinrent/ʁə.vɛ̃m//ʁə.vɛ̃t//ʁə.vɛ̃ʁ/	revins, revins, revint, revînmes, revîntes, revinrent	
+BATTRE	[Indicative Past Historic]	jetuil, ellebattisbattisbattit/ba.ti//ba.ti//ba.ti/nousvousils, ellesbattîmesbattîtesbattirent/ba.tim//ba.tit//ba.tiʁ/	battis, battis, battit, battîmes, battîtes, battirent	
+FOUTRE	[Indicative Past Historic]	jetuil, ellefoutisfoutisfoutit/fu.ti//fu.ti//fu.ti/nousvousils, ellesfoutîmesfoutîtesfoutirent/fu.tim//fu.tit//fu.tiʁ/	foutis, foutis, foutit, foutîmes, foutîtes, foutirent	
+LIRE	[Indicative Past Historic]	jetuil, ellelusluslut/ly//ly//ly/nousvousils, elleslûmeslûteslurent/lym//lyt//lyʁ/	lus, lus, lut, lûmes, lûtes, lurent	
+TENIR	[Indicative Past Historic]	jetuil, elletinstinstint/tɛ̃//tɛ̃//tɛ̃/nousvousils, ellestînmestîntestinrent/tɛ̃m//tɛ̃t//tɛ̃ʁ/	tins, tins, tint, tînmes, tîntes, tinrent	
+ÉCRIRE	[Indicative Past Historic]	jetuil, elleécrivisécrivisécrivit/e.kʁi.vi//e.kʁi.vi//e.kʁi.vi/nousvousils, ellesécrivîmesécrivîtesécrivirent/e.kʁi.vim//e.kʁi.vit//e.kʁi.viʁ/	écrivis, écrivis, écrivit, écrivîmes, écrivîtes, écrivirent	
+RIRE	[Indicative Past Historic]	jetuil, ellerisrisrit/ʁi//ʁi//ʁi/nousvousils, ellesrîmesrîtesrirent/ʁim//ʁit//ʁiʁ/	ris, ris, rit, rîmes, rîtes, rirent	
+OUVRIR	[Indicative Past Historic]	jetuil, elleouvrisouvrisouvrit/u.vʁi//u.vʁi//u.vʁi/nousvousils, ellesouvrîmesouvrîtesouvrirent/u.vʁim//u.vʁit//u.vʁiʁ/	ouvris, ouvris, ouvrit, ouvrîmes, ouvrîtes, ouvrirent	
+SERVIR	[Indicative Past Historic]	jetuil, elleservisservisservit/sɛʁ.vi//sɛʁ.vi//sɛʁ.vi/nousvousils, ellesservîmesservîtesservirent/sɛʁ.vim//sɛʁ.vit//sɛʁ.viʁ/	servis, servis, servit, servîmes, servîtes, servirent	
+VOULOIR	[Indicative Past Historic]	jetuil, ellevoulusvoulusvoulut/vu.ly//vu.ly//vu.ly/nousvousils, ellesvoulûmesvoulûtesvoulurent/vu.lym//vu.lyt//vu.lyʁ/	voulus, voulus, voulut, voulûmes, voulûtes, voulurent	
+ASSEOIR	[Indicative Past Historic]	jetuil, elleassisassisassit/a.si//a.si//a.si/nousvousils, ellesassîmesassîtesassirent/a.sim//a.sit//a.siʁ/	assis, assis, assit, assîmes, assîtes, assirent	
+CONDUIRE	[Indicative Past Historic]	jetuil, elleconduisisconduisisconduisit/kɔ̃.dɥi.zi//kɔ̃.dɥi.zi//kɔ̃.dɥi.zi/nousvousils, ellesconduisîmesconduisîtesconduisirent/kɔ̃.dɥi.zim//kɔ̃.dɥi.zit//kɔ̃.dɥi.ziʁ/	conduisis, conduisis, conduisit, conduisîmes, conduisîtes, conduisirent	
+SENTIR	[Indicative Past Historic]	jetuil, ellesentissentissentit/sɑ̃.ti//sɑ̃.ti//sɑ̃.ti/nousvousils, ellessentîmessentîtessentirent/sɑ̃.tim//sɑ̃.tit//sɑ̃.tiʁ/	sentis, sentis, sentit, sentîmes, sentîtes, sentirent	
+SOUVENIR	[Indicative Past Historic]	jetuil, ellesouvinssouvinssouvint/mə su.vɛ̃//tə su.vɛ̃//sə su.vɛ̃/nousvousils, ellessouvînmessouvîntessouvinrent/nu su.vɛ̃m//vu su.vɛ̃t//sə su.vɛ̃ʁ/	souvins, souvins, souvint, souvînmes, souvîntes, souvinrent	
+REMETTRE	[Indicative Past Historic]	jetuil, elleremisremisremit/ʁə.mi//ʁə.mi//ʁə.mi/nousvousils, ellesremîmesremîtesremirent/ʁə.mim//ʁə.mit//ʁə.miʁ/	remis, remis, remit, remîmes, remîtes, remirent	
+OBTENIR	[Indicative Past Historic]	jetuil, elleobtinsobtinsobtint/ɔp.tɛ̃//ɔp.tɛ̃//ɔp.tɛ̃/nousvousils, ellesobtînmesobtîntesobtinrent/ɔp.tɛ̃m//ɔp.tɛ̃t//ɔp.tɛ̃ʁ/	obtins, obtins, obtint, obtînmes, obtîntes, obtinrent	
+RECEVOIR	[Indicative Past Historic]	jetuil, ellereçusreçusreçut/ʁə.sy//ʁə.sy//ʁə.sy/nousvousils, ellesreçûmesreçûtesreçurent/ʁə.sym//ʁə.syt//ʁə.syʁ/	reçus, reçus, reçut, reçûmes, reçûtes, reçurent	
+REPRENDRE	[Indicative Past Historic]	jetuil, ellereprisreprisreprit/ʁə.pʁi//ʁə.pʁi//ʁə.pʁi/nousvousils, ellesreprîmesreprîtesreprirent/ʁə.pʁim//ʁə.pʁit//ʁə.pʁiʁ/	repris, repris, reprit, reprîmes, reprîtes, reprirent	
+JOINDRE	[Indicative Past Historic]	jetuil, ellejoignisjoignisjoignit/ʒwa.ɲi//ʒwa.ɲi//ʒwa.ɲi/nousvousils, ellesjoignîmesjoignîtesjoignirent/ʒwa.ɲim//ʒwa.ɲit//ʒwa.ɲiʁ/	joignis, joignis, joignit, joignîmes, joignîtes, joignirent	
+MENTIR	[Indicative Past Historic]	jetuil, ellementismentismentit/mɑ̃.ti//mɑ̃.ti//mɑ̃.ti/nousvousils, ellesmentîmesmentîtesmentirent/mɑ̃.tim//mɑ̃.tit//mɑ̃.tiʁ/	mentis, mentis, mentit, mentîmes, mentîtes, mentirent	
+FUIR	[Indicative Past Historic]	jetuil, ellefuisfuisfuit/fɥi//fɥi//fɥi/nousvousils, ellesfuîmesfuîtesfuirent/fɥim//fɥit//fɥiʁ/	fuis, fuis, fuit, fuîmes, fuîtes, fuirent	
+PERMETTRE	[Indicative Past Historic]	jetuil, ellepermispermispermit/pɛʁ.mi//pɛʁ.mi//pɛʁ.mi/nousvousils, ellespermîmespermîtespermirent/pɛʁ.mim//pɛʁ.mit//pɛʁ.miʁ/	permis, permis, permit, permîmes, permîtes, permirent	
+TAIRE	[Indicative Past Historic]	jetuil, elletustustut/ty//ty//ty/nousvousils, ellestûmestûtesturent/tym//tyt//tyʁ/	tus, tus, tut, tûmes, tûtes, turent	
+SURVIVRE	[Indicative Past Historic]	jetuil, ellesurvécussurvécussurvécut/syʁ.ve.ky//syʁ.ve.ky//syʁ.ve.ky/nousvousils, ellessurvécûmessurvécûtessurvécurent/syʁ.ve.kym//syʁ.ve.kyt//syʁ.ve.kyʁ/	survécus, survécus, survécut, survécûmes, survécûtes, survécurent	
+CONSTRUIRE	[Indicative Past Historic]	jetuil, elleconstruisisconstruisisconstruisit/kɔ̃s.tʁɥi.zi//kɔ̃s.tʁɥi.zi//kɔ̃s.tʁɥi.zi/nousvousils, ellesconstruisîmesconstruisîtesconstruisirent/kɔ̃s.tʁɥi.zim//kɔ̃s.tʁɥi.zit//kɔ̃s.tʁɥi.ziʁ/	construisis, construisis, construisit, construisîmes, construisîtes, construisirent	
+DISPARAÎTRE	[Indicative Past Historic]	jetuil, elledisparusdisparusdisparut/dis.pa.ʁy//dis.pa.ʁy//dis.pa.ʁy/nousvousils, ellesdisparûmesdisparûtesdisparurent/dis.pa.ʁym//dis.pa.ʁyt//dis.pa.ʁyʁ/	disparus, disparus, disparut, disparûmes, disparûtes, disparurent	
+ÊTRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellefussefussesfût/fys//fys//fy/que nousque vousqu'ils, qu'ellesfussionsfussiezfussent/fy.sjɔ̃//fy.sje//fys/	fusse, fusses, fût, fussions, fussiez, fussent	
+FAIRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellefissefissesfît/fis//fis//fi/que nousque vousqu'ils, qu'ellesfissionsfissiezfissent/fi.sjɔ̃//fi.sje//fis/	fisse, fisses, fît, fissions, fissiez, fissent	
+DIRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elledissedissesdît/dis//dis//di/que nousque vousqu'ils, qu'ellesdissionsdissiezdissent/di.sjɔ̃//di.sje//dis/	disse, disses, dît, dissions, dissiez, dissent	
+VOIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellevissevissesvît/vis//vis//vi/que nousque vousqu'ils, qu'ellesvissionsvissiezvissent/vi.sjɔ̃//vi.sje//vis/	visse, visses, vît, vissions, vissiez, vissent	
+AVOIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elleeusseeusseseût/ys//ys//y/que nousque vousqu'ils, qu'elleseussionseussiezeussent/y.sjɔ̃//y.sje//ys/	eusse, eusses, eût, eussions, eussiez, eussent	
+ALLER	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elleallasseallassesallât/a.las//a.las//a.la/que nousque vousqu'ils, qu'ellesallassionsallassiezallassent/a.la.sjɔ̃//a.la.sje//a.las/	allasse, allasses, allât, allassions, allassiez, allassent	
+PRENDRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elleprisseprissesprît/pʁis//pʁis//pʁi/que nousque vousqu'ils, qu'ellesprissionsprissiezprissent/pʁi.sjɔ̃//pʁi.sje//pʁis/	prisse, prisses, prît, prissions, prissiez, prissent	
+SAVOIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellesussesussessût/sys//sys//sy/que nousque vousqu'ils, qu'ellessussionssussiezsussent/sy.sjɔ̃//sy.sje//sys/	susse, susses, sût, sussions, sussiez, sussent	
+PARTIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellepartissepartissespartît/paʁ.tis//paʁ.tis//paʁ.ti/que nousque vousqu'ils, qu'ellespartissionspartissiezpartissent/paʁ.ti.sjɔ̃//paʁ.ti.sje//paʁ.tis/	partisse, partisses, partît, partissions, partissiez, partissent	
+VENIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellevinssevinssesvînt/vɛ̃s//vɛ̃s//vɛ̃/que nousque vousqu'ils, qu'ellesvinssionsvinssiezvinssent/vɛ̃.sjɔ̃//vɛ̃.sje//vɛ̃s/	vinsse, vinsses, vînt, vinssions, vinssiez, vinssent	
+SORTIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellesortissesortissessortît/sɔʁ.tis//sɔʁ.tis//sɔʁ.ti/que nousque vousqu'ils, qu'ellessortissionssortissiezsortissent/sɔʁ.ti.sjɔ̃//sɔʁ.ti.sje//sɔʁ.tis/	sortisse, sortisses, sortît, sortissions, sortissiez, sortissent	
+METTRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellemissemissesmît/mis//mis//mi/que nousque vousqu'ils, qu'ellesmissionsmissiezmissent/mi.sjɔ̃//mi.sje//mis/	misse, misses, mît, missions, missiez, missent	
+MOURIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellemourussemourussesmourût/mu.ʁys//mu.ʁys//mu.ʁy/que nousque vousqu'ils, qu'ellesmourussionsmourussiezmourussent/mu.ʁy.sjɔ̃//mu.ʁy.sje//mu.ʁys/	mourusse, mourusses, mourût, mourussions, mourussiez, mourussent	
+POUVOIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellepussepussespût/pys//pys//py/que nousque vousqu'ils, qu'ellespussionspussiezpussent/py.sjɔ̃//py.sje//pys/	pusse, pusses, pût, pussions, pussiez, pussent	
+VIVRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellevécussevécussesvécût/ve.kys//ve.kys//ve.ky/que nousque vousqu'ils, qu'ellesvécussionsvécussiezvécussent/ve.ky.sjɔ̃//ve.ky.sje//ve.kys/	vécusse, vécusses, vécût, vécussions, vécussiez, vécussent	
+CROIRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellecrussecrussescrût/kʁys//kʁys//kʁy/que nousque vousqu'ils, qu'ellescrussionscrussiezcrussent/kʁy.sjɔ̃//kʁy.sje//kʁys/	crusse, crusses, crût, crussions, crussiez, crussent	
+BOIRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellebussebussesbût/bys//bys//by/que nousque vousqu'ils, qu'ellesbussionsbussiezbussent/by.sjɔ̃//by.sje//bys/	busse, busses, bût, bussions, bussiez, bussent	
+DORMIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elledormissedormissesdormît/dɔʁ.mis//dɔʁ.mis//dɔʁ.mi/que nousque vousqu'ils, qu'ellesdormissionsdormissiezdormissent/dɔʁ.mi.sjɔ̃//dɔʁ.mi.sje//dɔʁ.mis/	dormisse, dormisses, dormît, dormissions, dormissiez, dormissent	
+DEVENIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elledevinssedevinssesdevînt/də.vɛ̃s//də.vɛ̃s//də.vɛ̃/que nousque vousqu'ils, qu'ellesdevinssionsdevinssiezdevinssent/də.vɛ̃.sjɔ̃//də.vɛ̃.sje//də.vɛ̃s/	devinsse, devinsses, devînt, devinssions, devinssiez, devinssent	
+DEVOIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elledussedussesdût/dys//dys//dy/que nousque vousqu'ils, qu'ellesdussionsdussiezdussent/dy.sjɔ̃//dy.sje//dys/	dusse, dusses, dût, dussions, dussiez, dussent	
+APPRENDRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elleapprisseapprissesapprît/a.pʁis//a.pʁis//a.pʁi/que nousque vousqu'ils, qu'ellesapprissionsapprissiezapprissent/a.pʁi.sjɔ̃//a.pʁi.sje//a.pʁis/	apprisse, apprisses, apprît, apprissions, apprissiez, apprissent	
+REVENIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellerevinsserevinssesrevînt/ʁə.vɛ̃s//ʁə.vɛ̃s//ʁə.vɛ̃/que nousque vousqu'ils, qu'ellesrevinssionsrevinssiezrevinssent/ʁə.vɛ̃.sjɔ̃//ʁə.vɛ̃.sje//ʁə.vɛ̃s/	revinsse, revinsses, revînt, revinssions, revinssiez, revinssent	
+BATTRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellebattissebattissesbattît/ba.tis//ba.tis//ba.ti/que nousque vousqu'ils, qu'ellesbattissionsbattissiezbattissent/ba.ti.sjɔ̃//ba.ti.sje//ba.tis/	battisse, battisses, battît, battissions, battissiez, battissent	
+FOUTRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellefoutissefoutissesfoutît/fu.tis//fu.tis//fu.ti/que nousque vousqu'ils, qu'ellesfoutissionsfoutissiezfoutissent/fu.ti.sjɔ̃//fu.ti.sje//fu.tis/	foutisse, foutisses, foutît, foutissions, foutissiez, foutissent	
+LIRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellelusselusseslût/lys//lys//ly/que nousque vousqu'ils, qu'elleslussionslussiezlussent/ly.sjɔ̃//ly.sje//lys/	lusse, lusses, lût, lussions, lussiez, lussent	
+TENIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elletinssetinssestînt/tɛ̃s//tɛ̃s//tɛ̃/que nousque vousqu'ils, qu'ellestinssionstinssieztinssent/tɛ̃.sjɔ̃//tɛ̃.sje//tɛ̃s/	tinsse, tinsses, tînt, tinssions, tinssiez, tinssent	
+ÉCRIRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elleécrivisseécrivissesécrivît/e.kʁi.vis//e.kʁi.vis//e.kʁi.vi/que nousque vousqu'ils, qu'ellesécrivissionsécrivissiezécrivissent/e.kʁi.vi.sjɔ̃//e.kʁi.vi.sje//e.kʁi.vis/	écrivisse, écrivisses, écrivît, écrivissions, écrivissiez, écrivissent	
+RIRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellerisserissesrît/ʁis//ʁis//ʁi/que nousque vousqu'ils, qu'ellesrissionsrissiezrissent/ʁi.sjɔ̃//ʁi.sje//ʁis/	risse, risses, rît, rissions, rissiez, rissent	
+OUVRIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elleouvrisseouvrissesouvrît/u.vʁis//u.vʁis//u.vʁi/que nousque vousqu'ils, qu'ellesouvrissionsouvrissiezouvrissent/u.vʁi.sjɔ̃//u.vʁi.sje//u.vʁis/	ouvrisse, ouvrisses, ouvrît, ouvrissions, ouvrissiez, ouvrissent	
+SERVIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elleservisseservissesservît/sɛʁ.vis//sɛʁ.vis//sɛʁ.vi/que nousque vousqu'ils, qu'ellesservissionsservissiezservissent/sɛʁ.vi.sjɔ̃//sɛʁ.vi.sje//sɛʁ.vis/	servisse, servisses, servît, servissions, servissiez, servissent	
+VOULOIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellevoulussevoulussesvoulût/vu.lys//vu.lys//vu.ly/que nousque vousqu'ils, qu'ellesvoulussionsvoulussiezvoulussent/vu.ly.sjɔ̃//vu.ly.sje//vu.lys/	voulusse, voulusses, voulût, voulussions, voulussiez, voulussent	
+ASSEOIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elleassisseassissesassît/a.sis//a.sis//a.si/que nousque vousqu'ils, qu'ellesassissionsassissiezassissent/a.si.sjɔ̃//a.si.sje//a.sis/	assisse, assisses, assît, assissions, assissiez, assissent	
+CONDUIRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elleconduisisseconduisissesconduisît/kɔ̃.dɥi.zis//kɔ̃.dɥi.zis//kɔ̃.dɥi.zi/que nousque vousqu'ils, qu'ellesconduisissionsconduisissiezconduisissent/kɔ̃.dɥi.zi.sjɔ̃//kɔ̃.dɥi.zi.sje//kɔ̃.dɥi.zis/	conduisisse, conduisisses, conduisît, conduisissions, conduisissiez, conduisissent	
+SENTIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellesentissesentissessentît/sɑ̃.tis//sɑ̃.tis//sɑ̃.ti/que nousque vousqu'ils, qu'ellessentissionssentissiezsentissent/sɑ̃.ti.sjɔ̃//sɑ̃.ti.sje//sɑ̃.tis/	sentisse, sentisses, sentît, sentissions, sentissiez, sentissent	
+SOUVENIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellesouvinssesouvinssessouvînt/mə su.vɛ̃s//tə su.vɛ̃s//sə su.vɛ̃/que nousque vousqu'ils, qu'ellessouvinssionssouvinssiezsouvinssent/nu su.vɛ̃.sjɔ̃//vu su.vɛ̃.sje//sə su.vɛ̃s/	souvinsse, souvinsses, souvînt, souvinssions, souvinssiez, souvinssent	
+REMETTRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elleremisseremissesremît/ʁə.mis//ʁə.mis//ʁə.mi/que nousque vousqu'ils, qu'ellesremissionsremissiezremissent/ʁə.mi.sjɔ̃//ʁə.mi.sje//ʁə.mis/	remisse, remisses, remît, remissions, remissiez, remissent	
+OBTENIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elleobtinsseobtinssesobtînt/ɔp.tɛ̃s//ɔp.tɛ̃s//ɔp.tɛ̃/que nousque vousqu'ils, qu'ellesobtinssionsobtinssiezobtinssent/ɔp.tɛ̃.sjɔ̃//ɔp.tɛ̃.sje//ɔp.tɛ̃s/	obtinsse, obtinsses, obtînt, obtinssions, obtinssiez, obtinssent	
+RECEVOIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellereçussereçussesreçût/ʁə.sys//ʁə.sys//ʁə.sy/que nousque vousqu'ils, qu'ellesreçussionsreçussiezreçussent/ʁə.sy.sjɔ̃//ʁə.sy.sje//ʁə.sys/	reçusse, reçusses, reçût, reçussions, reçussiez, reçussent	
+REPRENDRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellereprissereprissesreprît/ʁə.pʁis//ʁə.pʁis//ʁə.pʁi/que nousque vousqu'ils, qu'ellesreprissionsreprissiezreprissent/ʁə.pʁi.sjɔ̃//ʁə.pʁi.sje//ʁə.pʁis/	reprisse, reprisses, reprît, reprissions, reprissiez, reprissent	
+JOINDRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellejoignissejoignissesjoignît/ʒwa.ɲis//ʒwa.ɲis//ʒwa.ɲi/que nousque vousqu'ils, qu'ellesjoignissionsjoignissiezjoignissent/ʒwa.ɲi.sjɔ̃//ʒwa.ɲi.sje//ʒwa.ɲis/	joignisse, joignisses, joignît, joignissions, joignissiez, joignissent	
+MENTIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellementissementissesmentît/mɑ̃.tis//mɑ̃.tis//mɑ̃.ti/que nousque vousqu'ils, qu'ellesmentissionsmentissiezmentissent/mɑ̃.ti.sjɔ̃//mɑ̃.ti.sje//mɑ̃.tis/	mentisse, mentisses, mentît, mentissions, mentissiez, mentissent	
+FUIR	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellefuissefuissesfuît/fɥis//fɥis//fɥi/que nousque vousqu'ils, qu'ellesfuissionsfuissiezfuissent/fɥi.sjɔ̃//fɥi.sje//fɥis/	fuisse, fuisses, fuît, fuissions, fuissiez, fuissent	
+PERMETTRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellepermissepermissespermît/pɛʁ.mis//pɛʁ.mis//pɛʁ.mi/que nousque vousqu'ils, qu'ellespermissionspermissiezpermissent/pɛʁ.mi.sjɔ̃//pɛʁ.mi.sje//pɛʁ.mis/	permisse, permisses, permît, permissions, permissiez, permissent	
+TAIRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elletussetussestût/tys//tys//ty/que nousque vousqu'ils, qu'ellestussionstussieztussent/ty.sjɔ̃//ty.sje//tys/	tusse, tusses, tût, tussions, tussiez, tussent	
+SURVIVRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'ellesurvécussesurvécussessurvécût/syʁ.ve.kys//syʁ.ve.kys//syʁ.ve.ky/que nousque vousqu'ils, qu'ellessurvécussionssurvécussiezsurvécussent/syʁ.ve.ky.sjɔ̃//syʁ.ve.ky.sje//syʁ.ve.kys/	survécusse, survécusses, survécût, survécussions, survécussiez, survécussent	
+CONSTRUIRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elleconstruisisseconstruisissesconstruisît/kɔ̃s.tʁɥi.zis//kɔ̃s.tʁɥi.zis//kɔ̃s.tʁɥi.zi/que nousque vousqu'ils, qu'ellesconstruisissionsconstruisissiezconstruisissent/kɔ̃s.tʁɥi.zi.sjɔ̃//kɔ̃s.tʁɥi.zi.sje//kɔ̃s.tʁɥi.zis/	construisisse, construisisses, construisît, construisissions, construisissiez, construisissent	
+DISPARAÎTRE	[Subjunctive Imperfect]	que jeque tuqu'il, qu'elledisparussedisparussesdisparût/dis.pa.ʁys//dis.pa.ʁys//dis.pa.ʁy/que nousque vousqu'ils, qu'ellesdisparussionsdisparussiezdisparussent/dis.pa.ʁy.sjɔ̃//dis.pa.ʁy.sje//dis.pa.ʁys/	disparusse, disparusses, disparût, disparussions, disparussiez, disparussent	
+DEVOIR	[Present Participle / Gerund]	devant		
+VIVRE	[Present Participle / Gerund]	vivant		
+ÊTRE	[Present Participle / Gerund]	étant		
+FAIRE	[Present Participle / Gerund]	faisant		
+DIRE	[Present Participle / Gerund]	disant		
+AVOIR	[Present Participle / Gerund]	ayant		
+VENIR	[Present Participle / Gerund]	venant		
+VOIR	[Present Participle / Gerund]	voyant		
+SAVOIR	[Present Participle / Gerund]	sachant		
+PARTIR	[Present Participle / Gerund]	partant		
+SORTIR	[Present Participle / Gerund]	sortant		
+ALLER	[Present Participle / Gerund]	allant		
+MOURIR	[Present Participle / Gerund]	mourant		
+PRENDRE	[Present Participle / Gerund]	prenant		
+METTRE	[Present Participle / Gerund]	mettant		
+CROIRE	[Present Participle / Gerund]	croyant		
+SURVIVRE	[Present Participle / Gerund]	survivant		
+TENIR	[Present Participle / Gerund]	tenant		
+DORMIR	[Present Participle / Gerund]	dormant		
+VOULOIR	[Present Participle / Gerund]	voulant		
+REVENIR	[Present Participle / Gerund]	revenant		
+BATTRE	[Present Participle / Gerund]	battant		
+POUVOIR	[Present Participle / Gerund]	pouvant		
+SERVIR	[Present Participle / Gerund]	servant		
+LIRE	[Present Participle / Gerund]	lisant		
+PERMETTRE	[Present Participle / Gerund]	permettant		
+APPRENDRE	[Present Participle / Gerund]	apprenant		
+BOIRE	[Present Participle / Gerund]	buvant		
+CONDUIRE	[Present Participle / Gerund]	conduisant		
+OUVRIR	[Present Participle / Gerund]	ouvrant		
+DEVENIR	[Present Participle / Gerund]	devenant		
+RIRE	[Present Participle / Gerund]	riant		
+FUIR	[Present Participle / Gerund]	fuyant		
+SENTIR	[Present Participle / Gerund]	sentant		
+ÉCRIRE	[Present Participle / Gerund]	écrivant		
+MENTIR	[Present Participle / Gerund]	mentant		
+RECEVOIR	[Present Participle / Gerund]	recevant		
+CONSTRUIRE	[Present Participle / Gerund]	construisant		
+REPRENDRE	[Present Participle / Gerund]	reprenant		
+REMETTRE	[Present Participle / Gerund]	remettant		
+DISPARAÎTRE	[Present Participle / Gerund]	disparaissant		
+OBTENIR	[Present Participle / Gerund]	obtenant		
+SOUVENIR	[Present Participle / Gerund]	souvenant		
+JOINDRE	[Present Participle / Gerund]	joignant		
+FOUTRE	[Present Participle / Gerund]	foutant		
+ASSEOIR	[Present Participle / Gerund]	assoyant		
+TAIRE	[Present Participle / Gerund]	taisant		
+FAIRE	[Past Participle]	fait		
+DIRE	[Past Participle]	dit		
+VOIR	[Past Participle]	vu		
+AVOIR	[Past Participle]	eu		
+MOURIR	[Past Participle]	mort		
+DEVOIR	[Past Participle]	dû		
+PRENDRE	[Past Participle]	pris		
+POUVOIR	[Past Participle]	pu		
+VENIR	[Past Participle]	venu		
+METTRE	[Past Participle]	mis		
+PARTIR	[Past Participle]	parti		
+VOULOIR	[Past Participle]	voulu		
+ALLER	[Past Participle]	allé		
+APPRENDRE	[Past Participle]	appris		
+ÉCRIRE	[Past Participle]	écrit		
+RECEVOIR	[Past Participle]	reçu		
+CROIRE	[Past Participle]	cru		
+DISPARAÎTRE	[Past Participle]	disparu		
+SORTIR	[Past Participle]	sorti		
+SAVOIR	[Past Participle]	su		
+DEVENIR	[Past Participle]	devenu		
+LIRE	[Past Participle]	lu		
+ASSEOIR	[Past Participle]	assis		
+MENTIR	[Past Participle]	menti		
+OUVRIR	[Past Participle]	ouvert		
+REVENIR	[Past Participle]	revenu		
+BOIRE	[Past Participle]	bu		
+VIVRE	[Past Participle]	vécu		
+PERMETTRE	[Past Participle]	permis		
+FOUTRE	[Past Participle]	foutu		
+CONDUIRE	[Past Participle]	conduit		
+SERVIR	[Past Participle]	servi		
+SENTIR	[Past Participle]	senti		
+DORMIR	[Past Participle]	dormi		
+BATTRE	[Past Participle]	battu		
+OBTENIR	[Past Participle]	obtenu		
+TENIR	[Past Participle]	tenu		
+CONSTRUIRE	[Past Participle]	construit		
+SURVIVRE	[Past Participle]	survécu		
+REMETTRE	[Past Participle]	remis		
+REPRENDRE	[Past Participle]	repris		
+FUIR	[Past Participle]	fui		
+JOINDRE	[Past Participle]	joint		
+RIRE	[Past Participle]	ri		
+SOUVENIR	[Past Participle]	souvenu		
+TAIRE	[Past Participle]	tu		
+ALLER	[Imperative Simple]	tuvousnousvaallonsallez/va//a.lɔ̃//a.le/	va, allons, allez	
+DEVOIR	[Imperative Simple]	tuvousnousdoisdevonsdevez/dwa//də.vɔ̃//də.ve/	dois, devons, devez	
+VOIR	[Imperative Simple]	tuvousnousvoisvoyonsvoyez/vwa//vwa.jɔ̃//vwa.je/	vois, voyons, voyez	
+FAIRE	[Imperative Simple]	tuvousnousfaisfaisonsfaites/fɛ//fə.zɔ̃//fɛt/	fais, faisons, faites	
+DIRE	[Imperative Simple]	tuvousnousdisdisonsdites/di//di.zɔ̃//dit/	dis, disons, dites	
+PARTIR	[Imperative Simple]	tuvousnousparspartonspartez/paʁ//paʁ.tɔ̃//paʁ.te/	pars, partons, partez	
+ÊTRE	[Imperative Simple]	tuvousnoussoissoyonssoyez/swa//swa.jɔ̃//swa.je/	sois, soyons, soyez	
+PRENDRE	[Imperative Simple]	tuvousnousprendsprenonsprenez/pʁɑ̃//pʁə.nɔ̃//pʁə.ne/	prends, prenons, prenez	
+VENIR	[Imperative Simple]	tuvousnousviensvenonsvenez/vjɛ̃//və.nɔ̃//və.ne/	viens, venons, venez	
+VOULOIR	[Imperative Simple]	tuvousnousveuxveuillevoulonsveuillonsvoulezveuillez	veux, veuille, voulons	
+SORTIR	[Imperative Simple]	tuvousnoussorssortonssortez/sɔʁ//sɔʁ.tɔ̃//sɔʁ.te/	sors, sortons, sortez	
+AVOIR	[Imperative Simple]	tuvousnousaieayonsayez/ɛ//ɛ.jɔ̃//ɛ.je/	aie, ayons, ayez	
+METTRE	[Imperative Simple]	tuvousnousmetsmettonsmettez/mɛ//mɛ.tɔ̃//mɛ.te/	mets, mettons, mettez	
+VIVRE	[Imperative Simple]	tuvousnousvisvivonsvivez/vi//vi.vɔ̃//vi.ve/	vis, vivons, vivez	
+BOIRE	[Imperative Simple]	tuvousnousboisbuvonsbuvez/bwa//by.vɔ̃//by.ve/	bois, buvons, buvez	
+REVENIR	[Imperative Simple]	tuvousnousreviensrevenonsrevenez/ʁə.vjɛ̃//ʁə.v(ə).nɔ̃//ʁə.v(ə).ne/	reviens, revenons, revenez	
+CROIRE	[Imperative Simple]	tuvousnouscroiscroyonscroyez/kʁwa//kʁwa.jɔ̃//kʁwa.je/	crois, croyons, croyez	
+REPRENDRE	[Imperative Simple]	tuvousnousreprendsreprenonsreprenez/ʁə.pʁɑ̃//ʁə.pʁə.nɔ̃//ʁə.pʁə.ne/	reprends, reprenons, reprenez	
+TENIR	[Imperative Simple]	tuvousnoustienstenonstenez/tjɛ̃//tə.nɔ̃//tə.ne/	tiens, tenons, tenez	
+OUVRIR	[Imperative Simple]	tuvousnousouvreouvronsouvrez/uvʁ//u.vʁɔ̃//u.vʁe/	ouvre, ouvrons, ouvrez	
+RECEVOIR	[Imperative Simple]	tuvousnousreçoisrecevonsrecevez/ʁə.swa//ʁə.s(ə).vɔ̃//ʁə.s(ə).ve/	reçois, recevons, recevez	
+BATTRE	[Imperative Simple]	tuvousnousbatsbattonsbattez/ba//ba.tɔ̃//ba.te/	bats, battons, battez	
+FUIR	[Imperative Simple]	tuvousnousfuisfuyonsfuyez/fɥi//fɥi.jɔ̃//fɥi.je/	fuis, fuyons, fuyez	
+FOUTRE	[Imperative Simple]	tuvousnousfousfoutonsfoutez/fu//fu.tɔ̃//fu.te/	fous, foutons, foutez	
+APPRENDRE	[Imperative Simple]	tuvousnousapprendsapprenonsapprenez/a.pʁɑ̃//a.pʁə.nɔ̃//a.pʁə.ne/	apprends, apprenons, apprenez	
+REMETTRE	[Imperative Simple]	tuvousnousremetsremettonsremettez/ʁə.mɛ//ʁə.mɛ.tɔ̃//ʁə.mɛ.te/	remets, remettons, remettez	
+DEVENIR	[Imperative Simple]	tuvousnousdeviensdevenonsdevenez/də.vjɛ̃//də.v(ə).nɔ̃//də.v(ə).ne/	deviens, devenons, devenez	
+OBTENIR	[Imperative Simple]	tuvousnousobtiensobtenonsobtenez/ɔp.tjɛ̃//ɔp.tə.nɔ̃//ɔp.tə.ne/	obtiens, obtenons, obtenez	
+MOURIR	[Imperative Simple]	tuvousnousmeursmouronsmourez/mœʁ//mu.ʁɔ̃//mu.ʁe/	meurs, mourons, mourez	
+DORMIR	[Imperative Simple]	tuvousnousdorsdormonsdormez/dɔʁ//dɔʁ.mɔ̃//dɔʁ.me/	dors, dormons, dormez	
+SENTIR	[Imperative Simple]	tuvousnoussenssentonssentez/sɑ̃//sɑ̃.tɔ̃//sɑ̃.te/	sens, sentons, sentez	
+SERVIR	[Imperative Simple]	tuvousnoussersservonsservez/sɛʁ//sɛʁ.vɔ̃//sɛʁ.ve/	sers, servons, servez	
+CONSTRUIRE	[Imperative Simple]	tuvousnousconstruisconstruisonsconstruisez/kɔ̃s.tʁɥi//kɔ̃s.tʁɥi.zɔ̃//kɔ̃s.tʁɥi.ze/	construis, construisons, construisez	
+LIRE	[Imperative Simple]	tuvousnouslislisonslisez/li//li.zɔ̃//li.ze/	lis, lisons, lisez	
+ÉCRIRE	[Imperative Simple]	tuvousnousécrisécrivonsécrivez/e.kʁi//e.kʁi.vɔ̃//e.kʁi.ve/	écris, écrivons, écrivez	
+MENTIR	[Imperative Simple]	tuvousnousmensmentonsmentez/mɑ̃//mɑ̃.tɔ̃//mɑ̃.te/	mens, mentons, mentez	
+RIRE	[Imperative Simple]	tuvousnousrisrionsriez/ʁi//ʁjɔ̃//ʁje/	ris, rions, riez	
+SURVIVRE	[Imperative Simple]	tuvousnoussurvissurvivonssurvivez/syʁ.vi//syʁ.vi.vɔ̃//syʁ.vi.ve/	survis, survivons, survivez	
+CONDUIRE	[Imperative Simple]	tuvousnousconduisconduisonsconduisez/kɔ̃.dɥi//kɔ̃.dɥi.zɔ̃//kɔ̃.dɥi.ze/	conduis, conduisons, conduisez	
+PERMETTRE	[Imperative Simple]	tuvousnouspermetspermettonspermettez/pɛʁ.mɛ//pɛʁ.mɛ.tɔ̃//pɛʁ.mɛ.te/	permets, permettons, permettez	
+SOUVENIR	[Imperative Simple]	tuvousnoussouvienssouvenonssouvenez/su.vjɛ̃.twa//suv.nɔ̃.nu//suv.ne.vu/	souviens, souvenons, souvenez	
+SAVOIR	[Imperative Simple]	tuvousnoussachesachonssachez/saʃ//sa.ʃɔ̃//sa.ʃe/	sache, sachons, sachez	
+POUVOIR	[Imperative Simple]	null		
+ASSEOIR	[Imperative Simple]	tuvousnousassoisassiedsassoyonsasseyonsassoyezasseyez	assois, assieds, assoyons	
+JOINDRE	[Imperative Simple]	tuvousnousjoinsjoignonsjoignez/ʒwɛ̃//ʒwa.ɲɔ̃//ʒwa.ɲe/	joins, joignons, joignez	
+TAIRE	[Imperative Simple]	tuvousnoustaistaisonstaisez/tɛ//tɛ.zɔ̃//tɛ.ze/	tais, taisons, taisez	
+DISPARAÎTRE	[Imperative Simple]	tuvousnousdisparaisdisparaissonsdisparaissez/dis.pa.ʁɛ//dis.pa.ʁɛ.sɔ̃//dis.pa.ʁɛ.se/	disparais, disparaissons, disparaissez	
+AVOIR	[Indicative Present]	jetuil, elleaiasa/e//a//a/nousvousils, ellesavonsavezont/a.vɔ̃//a.ve//ɔ̃/	ai, as, a, avons, avez, ont	
+ÊTRE	[Indicative Present]	jetuil, ellesuisesest/sɥi//ɛ//ɛ/nousvousils, ellessommesêtessont/sɔm//ɛt//sɔ̃/	suis, es, est, sommes, êtes, sont	
+ALLER	[Indicative Present]	jetuil, ellevaisvasva/vɛ//vɑ//va/nousvousils, ellesallonsallezvont/a.lɔ̃//a.le//vɔ̃/	vais, vas, va, allons, allez, vont	
+POUVOIR	[Indicative Present]	jetuil, ellepeuxpeuxpeut/pø//pø//pø/nousvousils, ellespouvonspouvezpeuvent/pu.vɔ̃//pu.ve//pœv/	peux, peux, peut, pouvons, pouvez, peuvent	
+DEVOIR	[Indicative Present]	jetuil, elledoisdoisdoit/dwa//dwa//dwa/nousvousils, ellesdevonsdevezdoivent/də.vɔ̃//də.ve//dwav/	dois, dois, doit, devons, devez, doivent	
+FAIRE	[Indicative Present]	jetuil, ellefaisfaisfait/fɛ//fɛ//fɛ/nousvousils, ellesfaisonsfaitesfont/fə.zɔ̃//fɛt//fɔ̃/	fais, fais, fait, faisons, faites, font	
+ÊTRE	[Indicative Imperfect]	jetuil, elleétaisétaisétait/e.tɛ//e.tɛ//e.tɛ/nousvousils, ellesétionsétiezétaient/e.tjɔ̃//e.tje//e.tɛ/	étais, étais, était, étions, étiez, étaient	
+AVOIR	[Indicative Imperfect]	jetuil, elleavaisavaisavait/a.vɛ//a.vɛ//a.vɛ/nousvousils, ellesavionsaviezavaient/a.vjɔ̃//a.vje//a.vɛ/	avais, avais, avait, avions, aviez, avaient	
+SAVOIR	[Indicative Present]	jetuil, ellesaissaissait/sɛ//sɛ//sɛ/nousvousils, ellessavonssavezsavent/sa.vɔ̃//sa.ve//sav/	sais, sais, sait, savons, savez, savent	
+DIRE	[Indicative Present]	jetuil, elledisdisdit/di//di//di/nousvousils, ellesdisonsditesdisent/di.zɔ̃//dit//diz/	dis, dis, dit, disons, dites, disent	
+VOULOIR	[Indicative Present]	jetuil, elleveuxveuxveut/vø//vø//vø/nousvousils, ellesvoulonsvoulezveulent/vu.lɔ̃//vu.le//vœl/	veux, veux, veut, voulons, voulez, veulent	
+ÊTRE	[Indicative Future]	jetuil, elleseraiserassera/sə.ʁe//sə.ʁa//sə.ʁa/nousvousils, ellesseronsserezseront/sə.ʁɔ̃//sə.ʁe//sə.ʁɔ̃/	serai, seras, sera, serons, serez, seront	
+DEVOIR	[Indicative Conditional]	jetuil, elledevraisdevraisdevrait/də.vʁɛ//də.vʁɛ//də.vʁɛ/nousvousils, ellesdevrionsdevriezdevraient/də.vʁi.jɔ̃//də.vʁi.je//də.vʁɛ/	devrais, devrais, devrait, devrions, devriez, devraient	
+POUVOIR	[Indicative Conditional]	jetuil, ellepourraispourraispourrait/pu.ʁɛ//pu.ʁɛ//pu.ʁɛ/nousvousils, ellespourrionspourriezpourraient/pu.ʁjɔ̃//pu.ʁje//pu.ʁɛ/	pourrais, pourrais, pourrait, pourrions, pourriez, pourraient	
+ÊTRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellesoissoissoit/swa//swa//swa/que nousque vousqu'ils, qu'ellessoyonssoyezsoient/swa.jɔ̃//swa.je//swa/	sois, sois, soit, soyons, soyez, soient	
+AVOIR	[Indicative Future]	jetuil, elleauraiaurasaura/o.ʁe//o.ʁa//o.ʁa/nousvousils, ellesauronsaurezauront/o.ʁɔ̃//o.ʁe//o.ʁɔ̃/	aurai, auras, aura, aurons, aurez, auront	
+VOIR	[Indicative Present]	jetuil, ellevoisvoisvoit/vwa//vwa//vwa/nousvousils, ellesvoyonsvoyezvoient/vwa.jɔ̃//vwa.je//vwa/	vois, vois, voit, voyons, voyez, voient	
+PRENDRE	[Indicative Present]	jetuil, elleprendsprendsprend/pʁɑ̃//pʁɑ̃//pʁɑ̃/nousvousils, ellesprenonsprenezprennent/pʁə.nɔ̃//pʁə.ne//pʁɛn/	prends, prends, prend, prenons, prenez, prennent	
+FAIRE	[Indicative Future]	jetuil, elleferaiferasfera/fə.ʁe//fə.ʁa//fə.ʁa/nousvousils, ellesferonsferezferont/fə.ʁɔ̃//fə.ʁe//fə.ʁɔ̃/	ferai, feras, fera, ferons, ferez, feront	
+AVOIR	[Indicative Conditional]	jetuil, elleauraisauraisaurait/o.ʁɛ//o.ʁɛ//o.ʁɛ/nousvousils, ellesaurionsauriezauraient/o.ʁjɔ̃//o.ʁje//o.ʁɛ/	aurais, aurais, aurait, aurions, auriez, auraient	
+VENIR	[Indicative Present]	jetuil, elleviensviensvient/vjɛ̃//vjɛ̃//vjɛ̃/nousvousils, ellesvenonsvenezviennent/və.nɔ̃//və.ne//vjɛn/	viens, viens, vient, venons, venez, viennent	
+SORTIR	[Indicative Present]	jetuil, ellesorssorssort/sɔʁ//sɔʁ//sɔʁ/nousvousils, ellessortonssortezsortent/sɔʁ.tɔ̃//sɔʁ.te//sɔʁt/	sors, sors, sort, sortons, sortez, sortent	
+POUVOIR	[Indicative Future]	jetuil, ellepourraipourraspourra/pu.ʁe//pu.ʁa//pu.ʁa/nousvousils, ellespourronspourrezpourront/pu.ʁɔ̃//pu.ʁe//pu.ʁɔ̃/	pourrai, pourras, pourra, pourrons, pourrez, pourront	
+AVOIR	[Subjunctive Present]	que jeque tuqu'il, qu'elleaieaiesait/ɛ//ɛ//ɛ/que nousque vousqu'ils, qu'ellesayonsayezaient/ɛ.jɔ̃//ɛ.je//ɛ/	aie, aies, ait, ayons, ayez, aient	
+PARTIR	[Indicative Present]	jetuil, elleparsparspart/paʁ//paʁ//paʁ/nousvousils, ellespartonspartezpartent/paʁ.tɔ̃//paʁ.te//paʁt/	pars, pars, part, partons, partez, partent	
+METTRE	[Indicative Present]	jetuil, ellemetsmetsmet/mɛ//mɛ//mɛ/nousvousils, ellesmettonsmettezmettent/mɛ.tɔ̃//mɛ.te//mɛt/	mets, mets, met, mettons, mettez, mettent	
+ALLER	[Indicative Imperfect]	jetuil, elleallaisallaisallait/a.lɛ//a.lɛ//a.lɛ/nousvousils, ellesallionsalliezallaient/a.ljɔ̃//a.lje//a.lɛ/	allais, allais, allait, allions, alliez, allaient	
+VIVRE	[Indicative Present]	jetuil, ellevisvisvit/vi//vi//vi/nousvousils, ellesvivonsvivezvivent/vi.vɔ̃//vi.ve//viv/	vis, vis, vit, vivons, vivez, vivent	
+ÊTRE	[Indicative Conditional]	jetuil, elleseraisseraisserait/sə.ʁɛ//sə.ʁɛ//sə.ʁɛ/nousvousils, ellesserionsseriezseraient/sə.ʁjɔ̃//sə.ʁje//sə.ʁɛ/	serais, serais, serait, serions, seriez, seraient	
+VOULOIR	[Indicative Imperfect]	jetuil, ellevoulaisvoulaisvoulait/vu.lɛ//vu.lɛ//vu.lɛ/nousvousils, ellesvoulionsvouliezvoulaient/vu.ljɔ̃//vu.lje//vu.lɛ/	voulais, voulais, voulait, voulions, vouliez, voulaient	
+ALLER	[Indicative Future]	jetuil, elleiraiirasira/i.ʁe//i.ʁa//i.ʁa/nousvousils, ellesironsireziront/i.ʁɔ̃//i.ʁe//i.ʁɔ̃/	irai, iras, ira, irons, irez, iront	
+REVENIR	[Indicative Present]	jetuil, ellereviensreviensrevient/ʁə.vjɛ̃//ʁə.vjɛ̃//ʁə.vjɛ̃/nousvousils, ellesrevenonsrevenezreviennent/ʁə.v(ə).nɔ̃//ʁə.v(ə).ne//ʁə.vjɛn/	reviens, reviens, revient, revenons, revenez, reviennent	
+VOIR	[Indicative Future]	jetuil, elleverraiverrasverra/vɛ.ʁe//vɛ.ʁa//vɛ.ʁa/nousvousils, ellesverronsverrezverront/vɛ.ʁɔ̃//vɛ.ʁe//vɛ.ʁɔ̃/	verrai, verras, verra, verrons, verrez, verront	
+POUVOIR	[Indicative Imperfect]	jetuil, ellepouvaispouvaispouvait/pu.vɛ//pu.vɛ//pu.vɛ/nousvousils, ellespouvionspouviezpouvaient/pu.vjɔ̃//pu.vje//pu.vɛ/	pouvais, pouvais, pouvait, pouvions, pouviez, pouvaient	
+DEVOIR	[Indicative Imperfect]	jetuil, elledevaisdevaisdevait/də.vɛ//də.vɛ//də.vɛ/nousvousils, ellesdevionsdeviezdevaient/də.vjɔ̃//də.vje//də.vɛ/	devais, devais, devait, devions, deviez, devaient	
+POUVOIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellepuissepuissespuisse/pɥis//pɥis//pɥis/que nousque vousqu'ils, qu'ellespuissionspuissiezpuissent/pɥi.sjɔ̃//pɥi.sje//pɥis/	puisse, puisses, puisse, puissions, puissiez, puissent	
+DEVOIR	[Indicative Future]	jetuil, elledevraidevrasdevra/də.vʁe//də.vʁa//də.vʁa/nousvousils, ellesdevronsdevrezdevront/də.vʁɔ̃//də.vʁe//də.vʁɔ̃/	devrai, devras, devra, devrons, devrez, devront	
+SAVOIR	[Indicative Imperfect]	jetuil, ellesavaissavaissavait/sa.vɛ//sa.vɛ//sa.vɛ/nousvousils, ellessavionssaviezsavaient/sa.vjɔ̃//sa.vje//sa.vɛ/	savais, savais, savait, savions, saviez, savaient	
+ALLER	[Subjunctive Present]	que jeque tuqu'il, qu'elleailleaillesaille/aj//aj//aj/que nousque vousqu'ils, qu'ellesallionsalliezaillent/a.ljɔ̃//a.lje//aj/	aille, ailles, aille, allions, alliez, aillent	
+CROIRE	[Indicative Present]	jetuil, ellecroiscroiscroit/kʁwa//kʁwa//kʁwa/nousvousils, ellescroyonscroyezcroient/kʁwa.jɔ̃//kʁwa.je//kʁwa/	crois, crois, croit, croyons, croyez, croient	
+FAIRE	[Indicative Imperfect]	jetuil, ellefaisaisfaisaisfaisait/fə.zɛ//fə.zɛ//fə.zɛ/nousvousils, ellesfaisionsfaisiezfaisaient/fə.zjɔ̃//fə.zje//fə.zɛ/	faisais, faisais, faisait, faisions, faisiez, faisaient	
+BOIRE	[Indicative Present]	jetuil, elleboisboisboit/bwa//bwa//bwa/nousvousils, ellesbuvonsbuvezboivent/by.vɔ̃//by.ve//bwav/	bois, bois, boit, buvons, buvez, boivent	
+PRENDRE	[Indicative Future]	jetuil, elleprendraiprendrasprendra/pʁɑ̃.dʁe//pʁɑ̃.dʁa//pʁɑ̃.dʁa/nousvousils, ellesprendronsprendrezprendront/pʁɑ̃.dʁɔ̃//pʁɑ̃.dʁe//pʁɑ̃.dʁɔ̃/	prendrai, prendras, prendra, prendrons, prendrez, prendront	
+VOULOIR	[Indicative Conditional]	jetuil, ellevoudraisvoudraisvoudrait/vu.dʁɛ//vu.dʁɛ//vu.dʁɛ/nousvousils, ellesvoudrionsvoudriezvoudraient/vu.dʁi.jɔ̃//vu.dʁi.je//vu.dʁɛ/	voudrais, voudrais, voudrait, voudrions, voudriez, voudraient	
+SAVOIR	[Indicative Future]	jetuil, ellesauraisaurassaura/sɔ.ʁe//sɔ.ʁa//sɔ.ʁa/nousvousils, ellessauronssaurezsauront/sɔ.ʁɔ̃//sɔ.ʁe//sɔ.ʁɔ̃/	saurai, sauras, saura, saurons, saurez, sauront	
+TENIR	[Indicative Present]	jetuil, elletienstienstient/tjɛ̃//tjɛ̃//tjɛ̃/nousvousils, ellestenonsteneztiennent/tə.nɔ̃//tə.ne//tjɛn/	tiens, tiens, tient, tenons, tenez, tiennent	
+FAIRE	[Indicative Conditional]	jetuil, elleferaisferaisferait/fə.ʁɛ//fə.ʁɛ//fə.ʁɛ/nousvousils, ellesferionsferiezferaient/fə.ʁjɔ̃//fə.ʁje//fə.ʁɛ/	ferais, ferais, ferait, ferions, feriez, feraient	
+REVENIR	[Indicative Future]	jetuil, ellereviendraireviendrasreviendra/ʁə.vjɛ̃.dʁe//ʁə.vjɛ̃.dʁa//ʁə.vjɛ̃.dʁa/nousvousils, ellesreviendronsreviendrezreviendront/ʁə.vjɛ̃.dʁɔ̃//ʁə.vjɛ̃.dʁe//ʁə.vjɛ̃.dʁɔ̃/	reviendrai, reviendras, reviendra, reviendrons, reviendrez, reviendront	
+MOURIR	[Indicative Future]	jetuil, ellemourraimourrasmourra/muʁ.ʁe//muʁ.ʁa//muʁ.ʁa/nousvousils, ellesmourronsmourrezmourront/muʁ.ʁɔ̃//muʁ.ʁe//muʁ.ʁɔ̃/	mourrai, mourras, mourra, mourrons, mourrez, mourront	
+ASSEOIR	[Indicative Present]	jetuil, elleassoisassiedsassoisassoyonsasseyonsassoyeznousvousils, ellesassiedsassoitassiedasseyezassoientasseyent	assois, assieds, assois, assieds, assoit, assied	
+OUVRIR	[Indicative Present]	jetuil, elleouvreouvresouvre/uvʁ//uvʁ//uvʁ/nousvousils, ellesouvronsouvrezouvrent/u.vʁɔ̃//u.vʁe//uvʁ/	ouvre, ouvres, ouvre, ouvrons, ouvrez, ouvrent	
+RECEVOIR	[Indicative Present]	jetuil, ellereçoisreçoisreçoit/ʁə.swa//ʁə.swa//ʁə.swa/nousvousils, ellesrecevonsrecevezreçoivent/ʁə.s(ə).vɔ̃//ʁə.s(ə).ve//ʁə.swav/	reçois, reçois, reçoit, recevons, recevez, reçoivent	
+DIRE	[Indicative Future]	jetuil, ellediraidirasdira/di.ʁe//di.ʁa//di.ʁa/nousvousils, ellesdironsdirezdiront/di.ʁɔ̃//di.ʁe//di.ʁɔ̃/	dirai, diras, dira, dirons, direz, diront	
+REPRENDRE	[Indicative Present]	jetuil, ellereprendsreprendsreprend/ʁə.pʁɑ̃//ʁə.pʁɑ̃//ʁə.pʁɑ̃/nousvousils, ellesreprenonsreprenezreprennent/ʁə.pʁə.nɔ̃//ʁə.pʁə.ne//ʁə.pʁɛn/	reprends, reprends, reprend, reprenons, reprenez, reprennent	
+BATTRE	[Indicative Present]	jetuil, ellebatsbatsbat/ba//ba//ba/nousvousils, ellesbattonsbattezbattent/ba.tɔ̃//ba.te//bat/	bats, bats, bat, battons, battez, battent	
+PARTIR	[Indicative Future]	jetuil, ellepartiraipartiraspartira/paʁ.ti.ʁe//paʁ.ti.ʁa//paʁ.ti.ʁa/nousvousils, ellespartironspartirezpartiront/paʁ.ti.ʁɔ̃//paʁ.ti.ʁe//paʁ.ti.ʁɔ̃/	partirai, partiras, partira, partirons, partirez, partiront	
+VIVRE	[Indicative Imperfect]	jetuil, ellevivaisvivaisvivait/vi.vɛ//vi.vɛ//vi.vɛ/nousvousils, ellesvivionsviviezvivaient/vi.vjɔ̃//vi.vje//vi.vɛ/	vivais, vivais, vivait, vivions, viviez, vivaient	
+VIVRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellevivevivesvive/viv//viv//viv/que nousque vousqu'ils, qu'ellesvivionsviviezvivent/vi.vjɔ̃//vi.vje//viv/	vive, vives, vive, vivions, viviez, vivent	
+FAIRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellefassefassesfasse/fas//fas//fas/que nousque vousqu'ils, qu'ellesfassionsfassiezfassent/fa.sjɔ̃//fa.sje//fas/	fasse, fasses, fasse, fassions, fassiez, fassent	
+FUIR	[Indicative Present]	jetuil, ellefuisfuisfuit/fɥi//fɥi//fɥi/nousvousils, ellesfuyonsfuyezfuient/fɥi.jɔ̃//fɥi.je//fɥi/	fuis, fuis, fuit, fuyons, fuyez, fuient	
+DEVOIR	[Subjunctive Present]	que jeque tuqu'il, qu'elledoivedoivesdoive/dwav//dwav//dwav/que nousque vousqu'ils, qu'ellesdevionsdeviezdoivent/də.vjɔ̃//də.vje//dwav/	doive, doives, doive, devions, deviez, doivent	
+METTRE	[Indicative Future]	jetuil, ellemettraimettrasmettra/mɛ.tʁe//mɛ.tʁa//mɛ.tʁa/nousvousils, ellesmettronsmettrezmettront/mɛ.tʁɔ̃//mɛ.tʁe//mɛ.tʁɔ̃/	mettrai, mettras, mettra, mettrons, mettrez, mettront	
+FOUTRE	[Indicative Present]	jetuil, ellefousfousfout/fu//fu//fu/nousvousils, ellesfoutonsfoutezfoutent/fu.tɔ̃//fu.te//fut/	fous, fous, fout, foutons, foutez, foutent	
+APPRENDRE	[Indicative Present]	jetuil, elleapprendsapprendsapprend/a.pʁɑ̃//a.pʁɑ̃//a.pʁɑ̃/nousvousils, ellesapprenonsapprenezapprennent/a.pʁə.nɔ̃//a.pʁə.ne//a.pʁɛn/	apprends, apprends, apprend, apprenons, apprenez, apprennent	
+SORTIR	[Indicative Future]	jetuil, ellesortiraisortirassortira/sɔʁ.ti.ʁe//sɔʁ.ti.ʁa//sɔʁ.ti.ʁa/nousvousils, ellessortironssortirezsortiront/sɔʁ.ti.ʁɔ̃//sɔʁ.ti.ʁe//sɔʁ.ti.ʁɔ̃/	sortirai, sortiras, sortira, sortirons, sortirez, sortiront	
+VENIR	[Indicative Imperfect]	jetuil, ellevenaisvenaisvenait/və.nɛ//və.nɛ//və.nɛ/nousvousils, ellesvenionsveniezvenaient/və.njɔ̃//və.nje//və.nɛ/	venais, venais, venait, venions, veniez, venaient	
+VENIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellevienneviennesvienne/vjɛn//vjɛn//vjɛn/que nousque vousqu'ils, qu'ellesvenionsveniezviennent/və.njɔ̃//və.nje//vjɛn/	vienne, viennes, vienne, venions, veniez, viennent	
+REMETTRE	[Indicative Present]	jetuil, elleremetsremetsremet/ʁə.mɛ//ʁə.mɛ//ʁə.mɛ/nousvousils, ellesremettonsremettezremettent/ʁə.mɛ.tɔ̃//ʁə.mɛ.te//ʁə.mɛt/	remets, remets, remet, remettons, remettez, remettent	
+TENIR	[Indicative Future]	jetuil, elletiendraitiendrastiendra/tjɛ̃.dʁe//tjɛ̃.dʁa//tjɛ̃.dʁa/nousvousils, ellestiendronstiendreztiendront/tjɛ̃.dʁɔ̃//tjɛ̃.dʁe//tjɛ̃.dʁɔ̃/	tiendrai, tiendras, tiendra, tiendrons, tiendrez, tiendront	
+DEVENIR	[Indicative Present]	jetuil, elledeviensdeviensdevient/də.vjɛ̃//də.vjɛ̃//də.vjɛ̃/nousvousils, ellesdevenonsdevenezdeviennent/də.v(ə).nɔ̃//də.v(ə).ne//də.vjɛn/	deviens, deviens, devient, devenons, devenez, deviennent	
+OBTENIR	[Indicative Present]	jetuil, elleobtiensobtiensobtient/ɔp.tjɛ̃//ɔp.tjɛ̃//ɔp.tjɛ̃/nousvousils, ellesobtenonsobtenezobtiennent/ɔp.tə.nɔ̃//ɔp.tə.ne//ɔp.tjɛn/	obtiens, obtiens, obtient, obtenons, obtenez, obtiennent	
+PARTIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellepartepartesparte/paʁt//paʁt//paʁt/que nousque vousqu'ils, qu'ellespartionspartiezpartent/paʁ.tjɔ̃//paʁ.tje//paʁt/	parte, partes, parte, partions, partiez, partent	
+MOURIR	[Indicative Present]	jetuil, ellemeursmeursmeurt/mœʁ//mœʁ//mœʁ/nousvousils, ellesmouronsmourezmeurent/mu.ʁɔ̃//mu.ʁe//mœʁ/	meurs, meurs, meurt, mourons, mourez, meurent	
+PRENDRE	[Indicative Imperfect]	jetuil, elleprenaisprenaisprenait/pʁə.nɛ//pʁə.nɛ//pʁə.nɛ/nousvousils, ellesprenionspreniezprenaient/pʁə.njɔ̃//pʁə.nje//pʁə.nɛ/	prenais, prenais, prenait, prenions, preniez, prenaient	
+PRENDRE	[Subjunctive Present]	que jeque tuqu'il, qu'elleprenneprennesprenne/pʁɛn//pʁɛn//pʁɛn/que nousque vousqu'ils, qu'ellesprenionspreniezprennent/pʁə.njɔ̃//pʁə.nje//pʁɛn/	prenne, prennes, prenne, prenions, preniez, prennent	
+SAVOIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellesachesachessache/saʃ//saʃ//saʃ/que nousque vousqu'ils, qu'ellessachionssachiezsachent/sa.ʃjɔ̃//sa.ʃje//saʃ/	sache, saches, sache, sachions, sachiez, sachent	
+VOULOIR	[Subjunctive Present]	que jeque tuqu'il, qu'elleveuilleveuillesveuille/vœj//vœj//vœj/que nousque vousqu'ils, qu'ellesvoulionsvouliezveuillent/vu.ljɔ̃//vu.lje//vœj/	veuille, veuilles, veuille, voulions, vouliez, veuillent	
+VIVRE	[Indicative Future]	jetuil, ellevivraivivrasvivra/vi.vʁe//vi.vʁa//vi.vʁa/nousvousils, ellesvivronsvivrezvivront/vi.vʁɔ̃//vi.vʁe//vi.vʁɔ̃/	vivrai, vivras, vivra, vivrons, vivrez, vivront	
+VENIR	[Indicative Future]	jetuil, elleviendraiviendrasviendra/vjɛ̃.dʁe//vjɛ̃.dʁa//vjɛ̃.dʁa/nousvousils, ellesviendronsviendrezviendront/vjɛ̃.dʁɔ̃//vjɛ̃.dʁe//vjɛ̃.dʁɔ̃/	viendrai, viendras, viendra, viendrons, viendrez, viendront	
+PARTIR	[Indicative Imperfect]	jetuil, ellepartaispartaispartait/paʁ.tɛ//paʁ.tɛ//paʁ.tɛ/nousvousils, ellespartionspartiezpartaient/paʁ.tjɔ̃//paʁ.tje//paʁ.tɛ/	partais, partais, partait, partions, partiez, partaient	
+DORMIR	[Indicative Present]	jetuil, elledorsdorsdort/dɔʁ//dɔʁ//dɔʁ/nousvousils, ellesdormonsdormezdorment/dɔʁ.mɔ̃//dɔʁ.me//dɔʁm/	dors, dors, dort, dormons, dormez, dorment	
+DIRE	[Indicative Imperfect]	jetuil, elledisaisdisaisdisait/di.zɛ//di.zɛ//di.zɛ/nousvousils, ellesdisionsdisiezdisaient/di.zjɔ̃//di.zje//di.zɛ/	disais, disais, disait, disions, disiez, disaient	
+DIRE	[Subjunctive Present]	que jeque tuqu'il, qu'elledisedisesdise/diz//diz//diz/que nousque vousqu'ils, qu'ellesdisionsdisiezdisent/di.zjɔ̃//di.zje//diz/	dise, dises, dise, disions, disiez, disent	
+SENTIR	[Indicative Present]	jetuil, ellesenssenssent/sɑ̃//sɑ̃//sɑ̃/nousvousils, ellessentonssentezsentent/sɑ̃.tɔ̃//sɑ̃.te//sɑ̃t/	sens, sens, sent, sentons, sentez, sentent	
+SERVIR	[Indicative Present]	jetuil, ellesersserssert/sɛʁ//sɛʁ//sɛʁ/nousvousils, ellesservonsservezservent/sɛʁ.vɔ̃//sɛʁ.ve//sɛʁv/	sers, sers, sert, servons, servez, servent	
+SORTIR	[Indicative Imperfect]	jetuil, ellesortaissortaissortait/sɔʁ.tɛ//sɔʁ.tɛ//sɔʁ.tɛ/nousvousils, ellessortionssortiezsortaient/sɔʁ.tjɔ̃//sɔʁ.tje//sɔʁ.tɛ/	sortais, sortais, sortait, sortions, sortiez, sortaient	
+SORTIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellesortesortessorte/sɔʁt//sɔʁt//sɔʁt/que nousque vousqu'ils, qu'ellessortionssortiezsortent/sɔʁ.tjɔ̃//sɔʁ.tje//sɔʁt/	sorte, sortes, sorte, sortions, sortiez, sortent	
+CONSTRUIRE	[Indicative Present]	jetuil, elleconstruisconstruisconstruit/kɔ̃s.tʁɥi//kɔ̃s.tʁɥi//kɔ̃s.tʁɥi/nousvousils, ellesconstruisonsconstruisezconstruisent/kɔ̃s.tʁɥi.zɔ̃//kɔ̃s.tʁɥi.ze//kɔ̃s.tʁɥiz/	construis, construis, construit, construisons, construisez, construisent	
+ALLER	[Indicative Conditional]	jetuil, elleiraisiraisirait/i.ʁɛ//i.ʁɛ//i.ʁɛ/nousvousils, ellesirionsirieziraient/i.ʁjɔ̃//i.ʁje//i.ʁɛ/	irais, irais, irait, irions, iriez, iraient	
+LIRE	[Indicative Present]	jetuil, ellelislislit/li//li//li/nousvousils, elleslisonslisezlisent/li.zɔ̃//li.ze//liz/	lis, lis, lit, lisons, lisez, lisent	
+DEVENIR	[Indicative Future]	jetuil, elledeviendraideviendrasdeviendra/də.vjɛ̃.dʁe//də.vjɛ̃.dʁa//də.vjɛ̃.dʁa/nousvousils, ellesdeviendronsdeviendrezdeviendront/də.vjɛ̃.dʁɔ̃//də.vjɛ̃.dʁe//də.vjɛ̃.dʁɔ̃/	deviendrai, deviendras, deviendra, deviendrons, deviendrez, deviendront	
+CROIRE	[Indicative Imperfect]	jetuil, ellecroyaiscroyaiscroyait/kʁwa.jɛ//kʁwa.jɛ//kʁwa.jɛ/nousvousils, ellescroyionscroyiezcroyaient/kʁwaj.jɔ̃//kʁwaj.je//kʁwa.jɛ/	croyais, croyais, croyait, croyions, croyiez, croyaient	
+CROIRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellecroiecroiescroie/kʁwa//kʁwa//kʁwa/que nousque vousqu'ils, qu'ellescroyionscroyiezcroient/kʁwaj.jɔ̃//kʁwaj.je//kʁwa/	croie, croies, croie, croyions, croyiez, croient	
+REPRENDRE	[Indicative Future]	jetuil, ellereprendraireprendrasreprendra/ʁə.pʁɑ̃.dʁe//ʁə.pʁɑ̃.dʁa//ʁə.pʁɑ̃.dʁa/nousvousils, ellesreprendronsreprendrezreprendront/ʁə.pʁɑ̃.dʁɔ̃//ʁə.pʁɑ̃.dʁe//ʁə.pʁɑ̃.dʁɔ̃/	reprendrai, reprendras, reprendra, reprendrons, reprendrez, reprendront	
+VOIR	[Indicative Imperfect]	jetuil, ellevoyaisvoyaisvoyait/vwa.jɛ//vwa.jɛ//vwa.jɛ/nousvousils, ellesvoyionsvoyiezvoyaient/vwaj.jɔ̃//vwaj.je//vwa.jɛ/	voyais, voyais, voyait, voyions, voyiez, voyaient	
+VOIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellevoievoiesvoie/vwa//vwa//vwa/que nousque vousqu'ils, qu'ellesvoyionsvoyiezvoient/vwaj.jɔ̃//vwaj.je//vwa/	voie, voies, voie, voyions, voyiez, voient	
+ÉCRIRE	[Indicative Present]	jetuil, elleécrisécrisécrit/e.kʁi//e.kʁi//e.kʁi/nousvousils, ellesécrivonsécrivezécrivent/e.kʁi.vɔ̃//e.kʁi.ve//e.kʁiv/	écris, écris, écrit, écrivons, écrivez, écrivent	
+TENIR	[Indicative Imperfect]	jetuil, elletenaistenaistenait/tə.nɛ//tə.nɛ//tə.nɛ/nousvousils, ellestenionstenieztenaient/tə.njɔ̃//tə.nje//tə.nɛ/	tenais, tenais, tenait, tenions, teniez, tenaient	
+TENIR	[Subjunctive Present]	que jeque tuqu'il, qu'elletiennetiennestienne/tjɛn//tjɛn//tjɛn/que nousque vousqu'ils, qu'ellestenionstenieztiennent/tə.njɔ̃//tə.nje//tjɛn/	tienne, tiennes, tienne, tenions, teniez, tiennent	
+SAVOIR	[Indicative Conditional]	jetuil, ellesauraissauraissaurait/sɔ.ʁɛ//sɔ.ʁɛ//sɔ.ʁɛ/nousvousils, ellessaurionssauriezsauraient/sɔ.ʁjɔ̃//sɔ.ʁje//sɔ.ʁɛ/	saurais, saurais, saurait, saurions, sauriez, sauraient	
+MENTIR	[Indicative Present]	jetuil, ellemensmensment/mɑ̃//mɑ̃//mɑ̃/nousvousils, ellesmentonsmentezmentent/mɑ̃.tɔ̃//mɑ̃.te//mɑ̃t/	mens, mens, ment, mentons, mentez, mentent	
+SURVIVRE	[Indicative Future]	jetuil, ellesurvivraisurvivrassurvivra/syʁ.vi.vʁe//syʁ.vi.vʁa//syʁ.vi.vʁa/nousvousils, ellessurvivronssurvivrezsurvivront/syʁ.vi.vʁɔ̃//syʁ.vi.vʁe//syʁ.vi.vʁɔ̃/	survivrai, survivras, survivra, survivrons, survivrez, survivront	
+OBTENIR	[Indicative Future]	jetuil, elleobtiendraiobtiendrasobtiendra/ɔp.tjɛ̃.dʁe//ɔp.tjɛ̃.dʁa//ɔp.tjɛ̃.dʁa/nousvousils, ellesobtiendronsobtiendrezobtiendront/ɔp.tjɛ̃.dʁɔ̃//ɔp.tjɛ̃.dʁe//ɔp.tjɛ̃.dʁɔ̃/	obtiendrai, obtiendras, obtiendra, obtiendrons, obtiendrez, obtiendront	
+METTRE	[Indicative Imperfect]	jetuil, ellemettaismettaismettait/mɛ.tɛ//mɛ.tɛ//mɛ.tɛ/nousvousils, ellesmettionsmettiezmettaient/mɛ.tjɔ̃//mɛ.tje//mɛ.tɛ/	mettais, mettais, mettait, mettions, mettiez, mettaient	
+METTRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellemettemettesmette/mɛt//mɛt//mɛt/que nousque vousqu'ils, qu'ellesmettionsmettiezmettent/mɛ.tjɔ̃//mɛ.tje//mɛt/	mette, mettes, mette, mettions, mettiez, mettent	
+BATTRE	[Indicative Future]	jetuil, ellebattraibattrasbattra/ba.tʁe//ba.tʁa//ba.tʁa/nousvousils, ellesbattronsbattrezbattront/ba.tʁɔ̃//ba.tʁe//ba.tʁɔ̃/	battrai, battras, battra, battrons, battrez, battront	
+APPRENDRE	[Indicative Future]	jetuil, elleapprendraiapprendrasapprendra/a.pʁɑ̃.dʁe//a.pʁɑ̃.dʁa//a.pʁɑ̃.dʁa/nousvousils, ellesapprendronsapprendrezapprendront/a.pʁɑ̃.dʁɔ̃//a.pʁɑ̃.dʁe//a.pʁɑ̃.dʁɔ̃/	apprendrai, apprendras, apprendra, apprendrons, apprendrez, apprendront	
+RECEVOIR	[Indicative Future]	jetuil, ellerecevrairecevrasrecevra/ʁə.sə.vʁe//ʁə.sə.vʁa//ʁə.sə.vʁa/nousvousils, ellesrecevronsrecevrezrecevront/ʁə.sə.vʁɔ̃//ʁə.sə.vʁe//ʁə.sə.vʁɔ̃/	recevrai, recevras, recevra, recevrons, recevrez, recevront	
+RIRE	[Indicative Present]	jetuil, ellerisrisrit/ʁi//ʁi//ʁi/nousvousils, ellesrionsriezrient/ʁjɔ̃//ʁje//ʁi/	ris, ris, rit, rions, riez, rient	
+OUVRIR	[Indicative Future]	jetuil, elleouvriraiouvrirasouvrira/u.vʁi.ʁe//u.vʁi.ʁa//u.vʁi.ʁa/nousvousils, ellesouvrironsouvrirezouvriront/u.vʁi.ʁɔ̃//u.vʁi.ʁe//u.vʁi.ʁɔ̃/	ouvrirai, ouvriras, ouvrira, ouvrirons, ouvrirez, ouvriront	
+SURVIVRE	[Indicative Present]	jetuil, ellesurvissurvissurvit/syʁ.vi//syʁ.vi//syʁ.vi/nousvousils, ellessurvivonssurvivezsurvivent/syʁ.vi.vɔ̃//syʁ.vi.ve//syʁ.viv/	survis, survis, survit, survivons, survivez, survivent	
+REVENIR	[Indicative Imperfect]	jetuil, ellerevenaisrevenaisrevenait/ʁə.v(ə).nɛ//ʁə.v(ə).nɛ//ʁə.v(ə).nɛ/nousvousils, ellesrevenionsreveniezrevenaient/ʁə.və.njɔ̃//ʁə.və.nje//ʁə.v(ə).nɛ/	revenais, revenais, revenait, revenions, reveniez, revenaient	
+REVENIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellereviennereviennesrevienne/ʁə.vjɛn//ʁə.vjɛn//ʁə.vjɛn/que nousque vousqu'ils, qu'ellesrevenionsreveniezreviennent/ʁə.və.njɔ̃//ʁə.və.nje//ʁə.vjɛn/	revienne, reviennes, revienne, revenions, reveniez, reviennent	
+DORMIR	[Indicative Imperfect]	jetuil, elledormaisdormaisdormait/dɔʁ.mɛ//dɔʁ.mɛ//dɔʁ.mɛ/nousvousils, ellesdormionsdormiezdormaient/dɔʁ.mjɔ̃//dɔʁ.mje//dɔʁ.mɛ/	dormais, dormais, dormait, dormions, dormiez, dormaient	
+DORMIR	[Subjunctive Present]	que jeque tuqu'il, qu'elledormedormesdorme/dɔʁm//dɔʁm//dɔʁm/que nousque vousqu'ils, qu'ellesdormionsdormiezdorment/dɔʁ.mjɔ̃//dɔʁ.mje//dɔʁm/	dorme, dormes, dorme, dormions, dormiez, dorment	
+SENTIR	[Indicative Imperfect]	jetuil, ellesentaissentaissentait/sɑ̃.tɛ//sɑ̃.tɛ//sɑ̃.tɛ/nousvousils, ellessentionssentiezsentaient/sɑ̃.tjɔ̃//sɑ̃.tje//sɑ̃.tɛ/	sentais, sentais, sentait, sentions, sentiez, sentaient	
+SENTIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellesentesentessente/sɑ̃t//sɑ̃t//sɑ̃t/que nousque vousqu'ils, qu'ellessentionssentiezsentent/sɑ̃.tjɔ̃//sɑ̃.tje//sɑ̃t/	sente, sentes, sente, sentions, sentiez, sentent	
+SERVIR	[Indicative Future]	jetuil, elleserviraiservirasservira/sɛʁ.vi.ʁe//sɛʁ.vi.ʁa//sɛʁ.vi.ʁa/nousvousils, ellesservironsservirezserviront/sɛʁ.vi.ʁɔ̃//sɛʁ.vi.ʁe//sɛʁ.vi.ʁɔ̃/	servirai, serviras, servira, servirons, servirez, serviront	
+SOUVENIR	[Indicative Future]	jetuil, ellesouviendraisouviendrassouviendra/mə su.vjɛ̃.dʁe//tə su.vjɛ̃.dʁa//sə su.vjɛ̃.dʁa/nousvousils, ellessouviendronssouviendrezsouviendront/nu su.vjɛ̃.dʁɔ̃//vu su.vjɛ̃.dʁe//sə su.vjɛ̃.dʁɔ̃/	souviendrai, souviendras, souviendra, souviendrons, souviendrez, souviendront	
+BATTRE	[Indicative Imperfect]	jetuil, ellebattaisbattaisbattait/ba.tɛ//ba.tɛ//ba.tɛ/nousvousils, ellesbattionsbattiezbattaient/ba.tjɔ̃//ba.tje//ba.tɛ/	battais, battais, battait, battions, battiez, battaient	
+BATTRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellebattebattesbatte/bat//bat//bat/que nousque vousqu'ils, qu'ellesbattionsbattiezbattent/ba.tjɔ̃//ba.tje//bat/	batte, battes, batte, battions, battiez, battent	
+REMETTRE	[Indicative Future]	jetuil, elleremettrairemettrasremettra/ʁə.mɛ.tʁe//ʁə.mɛ.tʁa//ʁə.mɛ.tʁa/nousvousils, ellesremettronsremettrezremettront/ʁə.mɛ.tʁɔ̃//ʁə.mɛ.tʁe//ʁə.mɛ.tʁɔ̃/	remettrai, remettras, remettra, remettrons, remettrez, remettront	
+CONDUIRE	[Indicative Present]	jetuil, elleconduisconduisconduit/kɔ̃.dɥi//kɔ̃.dɥi//kɔ̃.dɥi/nousvousils, ellesconduisonsconduisezconduisent/kɔ̃.dɥi.zɔ̃//kɔ̃.dɥi.ze//kɔ̃.dɥiz/	conduis, conduis, conduit, conduisons, conduisez, conduisent	
+DEVENIR	[Indicative Imperfect]	jetuil, elledevenaisdevenaisdevenait/də.v(ə).nɛ//də.v(ə).nɛ//də.v(ə).nɛ/nousvousils, ellesdevenionsdeveniezdevenaient/də.və.njɔ̃//də.və.nje//də.v(ə).nɛ/	devenais, devenais, devenait, devenions, deveniez, devenaient	
+DEVENIR	[Subjunctive Present]	que jeque tuqu'il, qu'elledeviennedeviennesdevienne/də.vjɛn//də.vjɛn//də.vjɛn/que nousque vousqu'ils, qu'ellesdevenionsdeveniezdeviennent/də.və.njɔ̃//də.və.nje//də.vjɛn/	devienne, deviennes, devienne, devenions, deveniez, deviennent	
+DORMIR	[Indicative Future]	jetuil, elledormiraidormirasdormira/dɔʁ.mi.ʁe//dɔʁ.mi.ʁa//dɔʁ.mi.ʁa/nousvousils, ellesdormironsdormirezdormiront/dɔʁ.mi.ʁɔ̃//dɔʁ.mi.ʁe//dɔʁ.mi.ʁɔ̃/	dormirai, dormiras, dormira, dormirons, dormirez, dormiront	
+PERMETTRE	[Indicative Present]	jetuil, ellepermetspermetspermet/pɛʁ.mɛ//pɛʁ.mɛ//pɛʁ.mɛ/nousvousils, ellespermettonspermettezpermettent/pɛʁ.mɛ.tɔ̃//pɛʁ.mɛ.te//pɛʁ.mɛt/	permets, permets, permet, permettons, permettez, permettent	
+SOUVENIR	[Indicative Present]	jetuil, ellesouvienssouvienssouvient/mə su.vjɛ̃//tə su.vjɛ̃//sə su.vjɛ̃/nousvousils, ellessouvenonssouvenezsouviennent/nu suv.nɔ̃//vu suv.ne//sə su.vjɛn/	souviens, souviens, souvient, souvenons, souvenez, souviennent	
+VOULOIR	[Indicative Future]	jetuil, ellevoudraivoudrasvoudra/vu.dʁe//vu.dʁa//vu.dʁa/nousvousils, ellesvoudronsvoudrezvoudront/vu.dʁɔ̃//vu.dʁe//vu.dʁɔ̃/	voudrai, voudras, voudra, voudrons, voudrez, voudront	
+APPRENDRE	[Indicative Imperfect]	jetuil, elleapprenaisapprenaisapprenait/a.pʁə.nɛ//a.pʁə.nɛ//a.pʁə.nɛ/nousvousils, ellesapprenionsappreniezapprenaient/a.pʁə.njɔ̃//a.pʁə.nje//a.pʁə.nɛ/	apprenais, apprenais, apprenait, apprenions, appreniez, apprenaient	
+APPRENDRE	[Subjunctive Present]	que jeque tuqu'il, qu'elleapprenneapprennesapprenne/a.pʁɛn//a.pʁɛn//a.pʁɛn/que nousque vousqu'ils, qu'ellesapprenionsappreniezapprennent/a.pʁə.njɔ̃//a.pʁə.nje//a.pʁɛn/	apprenne, apprennes, apprenne, apprenions, appreniez, apprennent	
+BOIRE	[Indicative Imperfect]	jetuil, ellebuvaisbuvaisbuvait/by.vɛ//by.vɛ//by.vɛ/nousvousils, ellesbuvionsbuviezbuvaient/by.vjɔ̃//by.vje//by.vɛ/	buvais, buvais, buvait, buvions, buviez, buvaient	
+BOIRE	[Subjunctive Present]	que jeque tuqu'il, qu'elleboiveboivesboive/bwav//bwav//bwav/que nousque vousqu'ils, qu'ellesbuvionsbuviezboivent/by.vjɔ̃//by.vje//bwav/	boive, boives, boive, buvions, buviez, boivent	
+DISPARAÎTRE	[Indicative Present]	jetuil, elledisparaisdisparaisdisparaît/dis.pa.ʁɛ//dis.pa.ʁɛ//dis.pa.ʁɛ/nousvousils, ellesdisparaissonsdisparaissezdisparaissent/dis.pa.ʁɛ.sɔ̃//dis.pa.ʁɛ.se//dis.pa.ʁɛs/	disparais, disparais, disparaît, disparaissons, disparaissez, disparaissent	
+JOINDRE	[Indicative Present]	jetuil, ellejoinsjoinsjoint/ʒwɛ̃//ʒwɛ̃//ʒwɛ̃/nousvousils, ellesjoignonsjoignezjoignent/ʒwa.ɲɔ̃//ʒwa.ɲe//ʒwaɲ/	joins, joins, joint, joignons, joignez, joignent	
+MENTIR	[Indicative Imperfect]	jetuil, ellementaismentaismentait/mɑ̃.tɛ//mɑ̃.tɛ//mɑ̃.tɛ/nousvousils, ellesmentionsmentiezmentaient/mɑ̃.tjɔ̃//mɑ̃.tje//mɑ̃.tɛ/	mentais, mentais, mentait, mentions, mentiez, mentaient	
+MENTIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellementementesmente/mɑ̃t//mɑ̃t//mɑ̃t/que nousque vousqu'ils, qu'ellesmentionsmentiezmentent/mɑ̃.tjɔ̃//mɑ̃.tje//mɑ̃t/	mente, mentes, mente, mentions, mentiez, mentent	
+MOURIR	[Indicative Conditional]	jetuil, ellemourraismourraismourrait/muʁ.ʁɛ//muʁ.ʁɛ//muʁ.ʁɛ/nousvousils, ellesmourrionsmourriezmourraient/muʁ.ʁjɔ̃//muʁ.ʁje//muʁ.ʁɛ/	mourrais, mourrais, mourrait, mourrions, mourriez, mourraient	
+PRENDRE	[Indicative Conditional]	jetuil, elleprendraisprendraisprendrait/pʁɑ̃.dʁɛ//pʁɑ̃.dʁɛ//pʁɑ̃.dʁɛ/nousvousils, ellesprendrionsprendriezprendraient/pʁɑ̃.dʁi.jɔ̃//pʁɑ̃.dʁi.je//pʁɑ̃.dʁɛ/	prendrais, prendrais, prendrait, prendrions, prendriez, prendraient	
+CONDUIRE	[Indicative Future]	jetuil, elleconduiraiconduirasconduira/kɔ̃.dɥi.ʁe//kɔ̃.dɥi.ʁa//kɔ̃.dɥi.ʁa/nousvousils, ellesconduironsconduirezconduiront/kɔ̃.dɥi.ʁɔ̃//kɔ̃.dɥi.ʁe//kɔ̃.dɥi.ʁɔ̃/	conduirai, conduiras, conduira, conduirons, conduirez, conduiront	
+BOIRE	[Indicative Future]	jetuil, elleboiraiboirasboira/bwa.ʁe//bwa.ʁa//bwa.ʁa/nousvousils, ellesboironsboirezboiront/bwa.ʁɔ̃//bwa.ʁe//bwa.ʁɔ̃/	boirai, boiras, boira, boirons, boirez, boiront	
+RECEVOIR	[Indicative Imperfect]	jetuil, ellerecevaisrecevaisrecevait/ʁə.s(ə).vɛ//ʁə.s(ə).vɛ//ʁə.s(ə).vɛ/nousvousils, ellesrecevionsreceviezrecevaient/ʁə.sə.vjɔ̃//ʁə.sə.vje//ʁə.s(ə).vɛ/	recevais, recevais, recevait, recevions, receviez, recevaient	
+ÉCRIRE	[Indicative Future]	jetuil, elleécriraiécrirasécrira/e.kʁi.ʁe//e.kʁi.ʁa//e.kʁi.ʁa/nousvousils, ellesécrironsécrirezécriront/e.kʁi.ʁɔ̃//e.kʁi.ʁe//e.kʁi.ʁɔ̃/	écrirai, écriras, écrira, écrirons, écrirez, écriront	
+RIRE	[Indicative Future]	jetuil, ellerirairirasrira/ʁi.ʁe//ʁi.ʁa//ʁi.ʁa/nousvousils, ellesrironsrirezriront/ʁi.ʁɔ̃//ʁi.ʁe//ʁi.ʁɔ̃/	rirai, riras, rira, rirons, rirez, riront	
+RECEVOIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellereçoivereçoivesreçoive/ʁə.swav//ʁə.swav//ʁə.swav/que nousque vousqu'ils, qu'ellesrecevionsreceviezreçoivent/ʁə.sə.vjɔ̃//ʁə.sə.vje//ʁə.swav/	reçoive, reçoives, reçoive, recevions, receviez, reçoivent	
+REPRENDRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellereprennereprennesreprenne/ʁə.pʁɛn//ʁə.pʁɛn//ʁə.pʁɛn/que nousque vousqu'ils, qu'ellesreprenionsrepreniezreprennent/ʁə.pʁə.njɔ̃//ʁə.pʁə.nje//ʁə.pʁɛn/	reprenne, reprennes, reprenne, reprenions, repreniez, reprennent	
+VOIR	[Indicative Conditional]	jetuil, elleverraisverraisverrait/vɛ.ʁɛ//vɛ.ʁɛ//vɛ.ʁɛ/nousvousils, ellesverrionsverriezverraient/vɛ.ʁjɔ̃//vɛ.ʁje//vɛ.ʁɛ/	verrais, verrais, verrait, verrions, verriez, verraient	
+MOURIR	[Indicative Imperfect]	jetuil, ellemouraismouraismourait/mu.ʁɛ//mu.ʁɛ//mu.ʁɛ/nousvousils, ellesmourionsmouriezmouraient/mu.ʁjɔ̃//mu.ʁje//mu.ʁɛ/	mourais, mourais, mourait, mourions, mouriez, mouraient	
+MOURIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellemeuremeuresmeure/mœʁ//mœʁ//mœʁ/que nousque vousqu'ils, qu'ellesmourionsmouriezmeurent/mu.ʁjɔ̃//mu.ʁje//mœʁ/	meure, meures, meure, mourions, mouriez, meurent	
+OBTENIR	[Subjunctive Present]	que jeque tuqu'il, qu'elleobtienneobtiennesobtienne/ɔp.tjɛn//ɔp.tjɛn//ɔp.tjɛn/que nousque vousqu'ils, qu'ellesobtenionsobteniezobtiennent/ɔp.tə.njɔ̃//ɔp.tə.nje//ɔp.tjɛn/	obtienne, obtiennes, obtienne, obtenions, obteniez, obtiennent	
+DISPARAÎTRE	[Indicative Future]	jetuil, elledisparaîtraidisparaîtrasdisparaîtra/dis.pa.ʁɛ.tʁe//dis.pa.ʁɛ.tʁa//dis.pa.ʁɛ.tʁa/nousvousils, ellesdisparaîtronsdisparaîtrezdisparaîtront/dis.pa.ʁɛ.tʁɔ̃//dis.pa.ʁɛ.tʁe//dis.pa.ʁɛ.tʁɔ̃/	disparaîtrai, disparaîtras, disparaîtra, disparaîtrons, disparaîtrez, disparaîtront	
+LIRE	[Indicative Future]	jetuil, ellelirailiraslira/li.ʁe//li.ʁa//li.ʁa/nousvousils, elleslironslirezliront/li.ʁɔ̃//li.ʁe//li.ʁɔ̃/	lirai, liras, lira, lirons, lirez, liront	
+REPRENDRE	[Indicative Imperfect]	jetuil, ellereprenaisreprenaisreprenait/ʁə.pʁə.nɛ//ʁə.pʁə.nɛ//ʁə.pʁə.nɛ/nousvousils, ellesreprenionsrepreniezreprenaient/ʁə.pʁə.njɔ̃//ʁə.pʁə.nje//ʁə.pʁə.nɛ/	reprenais, reprenais, reprenait, reprenions, repreniez, reprenaient	
+PARTIR	[Indicative Conditional]	jetuil, ellepartiraispartiraispartirait/paʁ.ti.ʁɛ//paʁ.ti.ʁɛ//paʁ.ti.ʁɛ/nousvousils, ellespartirionspartiriezpartiraient/paʁ.ti.ʁjɔ̃//paʁ.ti.ʁje//paʁ.ti.ʁɛ/	partirais, partirais, partirait, partirions, partiriez, partiraient	
+LIRE	[Indicative Imperfect]	jetuil, ellelisaislisaislisait/li.zɛ//li.zɛ//li.zɛ/nousvousils, elleslisionslisiezlisaient/li.zjɔ̃//li.zje//li.zɛ/	lisais, lisais, lisait, lisions, lisiez, lisaient	
+LIRE	[Subjunctive Present]	que jeque tuqu'il, qu'elleliseliseslise/liz//liz//liz/que nousque vousqu'ils, qu'elleslisionslisiezlisent/li.zjɔ̃//li.zje//liz/	lise, lises, lise, lisions, lisiez, lisent	
+DIRE	[Indicative Conditional]	jetuil, ellediraisdiraisdirait/di.ʁɛ//di.ʁɛ//di.ʁɛ/nousvousils, ellesdirionsdiriezdiraient/di.ʁjɔ̃//di.ʁje//di.ʁɛ/	dirais, dirais, dirait, dirions, diriez, diraient	
+SENTIR	[Indicative Future]	jetuil, ellesentiraisentirassentira/sɑ̃.ti.ʁe//sɑ̃.ti.ʁa//sɑ̃.ti.ʁa/nousvousils, ellessentironssentirezsentiront/sɑ̃.ti.ʁɔ̃//sɑ̃.ti.ʁe//sɑ̃.ti.ʁɔ̃/	sentirai, sentiras, sentira, sentirons, sentirez, sentiront	
+ÉCRIRE	[Indicative Imperfect]	jetuil, elleécrivaisécrivaisécrivait/e.kʁi.vɛ//e.kʁi.vɛ//e.kʁi.vɛ/nousvousils, ellesécrivionsécriviezécrivaient/e.kʁi.vjɔ̃//e.kʁi.vje//e.kʁi.vɛ/	écrivais, écrivais, écrivait, écrivions, écriviez, écrivaient	
+ÉCRIRE	[Subjunctive Present]	que jeque tuqu'il, qu'elleécriveécrivesécrive/e.kʁiv//e.kʁiv//e.kʁiv/que nousque vousqu'ils, qu'ellesécrivionsécriviezécrivent/e.kʁi.vjɔ̃//e.kʁi.vje//e.kʁiv/	écrive, écrives, écrive, écrivions, écriviez, écrivent	
+OBTENIR	[Indicative Imperfect]	jetuil, elleobtenaisobtenaisobtenait/ɔp.tə.nɛ//ɔp.tə.nɛ//ɔp.tə.nɛ/nousvousils, ellesobtenionsobteniezobtenaient/ɔp.tə.njɔ̃//ɔp.tə.nje//ɔp.tə.nɛ/	obtenais, obtenais, obtenait, obtenions, obteniez, obtenaient	
+ASSEOIR	[Subjunctive Present]	que jeque tuqu'il, qu'elleassoieasseyeassoiesassoyionsasseyionsassoyiezque nousque vousqu'ils, qu'ellesasseyesassoieasseyeasseyiezassoientasseyent	assoie, asseye, assoies, asseyes, assoie, asseye	
+VIVRE	[Indicative Conditional]	jetuil, ellevivraisvivraisvivrait/vi.vʁɛ//vi.vʁɛ//vi.vʁɛ/nousvousils, ellesvivrionsvivriezvivraient/vi.vʁi.jɔ̃//vi.vʁi.je//vi.vʁɛ/	vivrais, vivrais, vivrait, vivrions, vivriez, vivraient	
+FUIR	[Indicative Imperfect]	jetuil, ellefuyaisfuyaisfuyait/fɥi.jɛ//fɥi.jɛ//fɥi.jɛ/nousvousils, ellesfuyionsfuyiezfuyaient/fɥij.jɔ̃//fɥij.je//fɥi.jɛ/	fuyais, fuyais, fuyait, fuyions, fuyiez, fuyaient	
+FUIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellefuiefuiesfuie/fɥi//fɥi//fɥi/que nousque vousqu'ils, qu'ellesfuyionsfuyiezfuient/fɥij.jɔ̃//fɥij.je//fɥi/	fuie, fuies, fuie, fuyions, fuyiez, fuient	
+PERMETTRE	[Indicative Future]	jetuil, ellepermettraipermettraspermettra/pɛʁ.mɛ.tʁe//pɛʁ.mɛ.tʁa//pɛʁ.mɛ.tʁa/nousvousils, ellespermettronspermettrezpermettront/pɛʁ.mɛ.tʁɔ̃//pɛʁ.mɛ.tʁe//pɛʁ.mɛ.tʁɔ̃/	permettrai, permettras, permettra, permettrons, permettrez, permettront	
+CONSTRUIRE	[Indicative Imperfect]	jetuil, elleconstruisaisconstruisaisconstruisait/kɔ̃s.tʁɥi.zɛ//kɔ̃s.tʁɥi.zɛ//kɔ̃s.tʁɥi.zɛ/nousvousils, ellesconstruisionsconstruisiezconstruisaient/kɔ̃s.tʁɥi.zjɔ̃//kɔ̃s.tʁɥi.zje//kɔ̃s.tʁɥi.zɛ/	construisais, construisais, construisait, construisions, construisiez, construisaient	
+CONDUIRE	[Indicative Imperfect]	jetuil, elleconduisaisconduisaisconduisait/kɔ̃.dɥi.zɛ//kɔ̃.dɥi.zɛ//kɔ̃.dɥi.zɛ/nousvousils, ellesconduisionsconduisiezconduisaient/kɔ̃.dɥi.zjɔ̃//kɔ̃.dɥi.zje//kɔ̃.dɥi.zɛ/	conduisais, conduisais, conduisait, conduisions, conduisiez, conduisaient	
+CONDUIRE	[Subjunctive Present]	que jeque tuqu'il, qu'elleconduiseconduisesconduise/kɔ̃.dɥiz//kɔ̃.dɥiz//kɔ̃.dɥiz/que nousque vousqu'ils, qu'ellesconduisionsconduisiezconduisent/kɔ̃.dɥi.zjɔ̃//kɔ̃.dɥi.zje//kɔ̃.dɥiz/	conduise, conduises, conduise, conduisions, conduisiez, conduisent	
+CROIRE	[Indicative Future]	jetuil, ellecroiraicroirascroira/kʁwa.ʁe//kʁwa.ʁa//kʁwa.ʁa/nousvousils, ellescroironscroirezcroiront/kʁwa.ʁɔ̃//kʁwa.ʁe//kʁwa.ʁɔ̃/	croirai, croiras, croira, croirons, croirez, croiront	
+OUVRIR	[Indicative Imperfect]	jetuil, elleouvraisouvraisouvrait/u.vʁɛ//u.vʁɛ//u.vʁɛ/nousvousils, ellesouvrionsouvriezouvraient/u.vʁi.jɔ̃//u.vʁi.je//u.vʁɛ/	ouvrais, ouvrais, ouvrait, ouvrions, ouvriez, ouvraient	
+OUVRIR	[Subjunctive Present]	que jeque tuqu'il, qu'elleouvreouvresouvre/uvʁ//uvʁ//uvʁ/que nousque vousqu'ils, qu'ellesouvrionsouvriezouvrent/u.vʁi.jɔ̃//u.vʁi.je//uvʁ/	ouvre, ouvres, ouvre, ouvrions, ouvriez, ouvrent	
+SORTIR	[Indicative Conditional]	jetuil, ellesortiraissortiraissortirait/sɔʁ.ti.ʁɛ//sɔʁ.ti.ʁɛ//sɔʁ.ti.ʁɛ/nousvousils, ellessortirionssortiriezsortiraient/sɔʁ.ti.ʁjɔ̃//sɔʁ.ti.ʁje//sɔʁ.ti.ʁɛ/	sortirais, sortirais, sortirait, sortirions, sortiriez, sortiraient	
+SERVIR	[Indicative Imperfect]	jetuil, elleservaisservaisservait/sɛʁ.vɛ//sɛʁ.vɛ//sɛʁ.vɛ/nousvousils, ellesservionsserviezservaient/sɛʁ.vjɔ̃//sɛʁ.vje//sɛʁ.vɛ/	servais, servais, servait, servions, serviez, servaient	
+SERVIR	[Subjunctive Present]	que jeque tuqu'il, qu'elleserveservesserve/sɛʁv//sɛʁv//sɛʁv/que nousque vousqu'ils, qu'ellesservionsserviezservent/sɛʁ.vjɔ̃//sɛʁ.vje//sɛʁv/	serve, serves, serve, servions, serviez, servent	
+REMETTRE	[Indicative Imperfect]	jetuil, elleremettaisremettaisremettait/ʁə.mɛ.tɛ//ʁə.mɛ.tɛ//ʁə.mɛ.tɛ/nousvousils, ellesremettionsremettiezremettaient/ʁə.mɛ.tjɔ̃//ʁə.mɛ.tje//ʁə.mɛ.tɛ/	remettais, remettais, remettait, remettions, remettiez, remettaient	
+REMETTRE	[Subjunctive Present]	que jeque tuqu'il, qu'elleremetteremettesremette/ʁə.mɛt//ʁə.mɛt//ʁə.mɛt/que nousque vousqu'ils, qu'ellesremettionsremettiezremettent/ʁə.mɛ.tjɔ̃//ʁə.mɛ.tje//ʁə.mɛt/	remette, remettes, remette, remettions, remettiez, remettent	
+CONSTRUIRE	[Indicative Future]	jetuil, elleconstruiraiconstruirasconstruira/kɔ̃s.tʁɥi.ʁe//kɔ̃s.tʁɥi.ʁa//kɔ̃s.tʁɥi.ʁa/nousvousils, ellesconstruironsconstruirezconstruiront/kɔ̃s.tʁɥi.ʁɔ̃//kɔ̃s.tʁɥi.ʁe//kɔ̃s.tʁɥi.ʁɔ̃/	construirai, construiras, construira, construirons, construirez, construiront	
+CONSTRUIRE	[Subjunctive Present]	que jeque tuqu'il, qu'elleconstruiseconstruisesconstruise/kɔ̃s.tʁɥiz//kɔ̃s.tʁɥiz//kɔ̃s.tʁɥiz/que nousque vousqu'ils, qu'ellesconstruisionsconstruisiezconstruisent/kɔ̃s.tʁɥi.zjɔ̃//kɔ̃s.tʁɥi.zje//kɔ̃s.tʁɥiz/	construise, construises, construise, construisions, construisiez, construisent	
+DEVENIR	[Indicative Conditional]	jetuil, elledeviendraisdeviendraisdeviendrait/də.vjɛ̃.dʁɛ//də.vjɛ̃.dʁɛ//də.vjɛ̃.dʁɛ/nousvousils, ellesdeviendrionsdeviendriezdeviendraient/də.vjɛ̃.dʁi.jɔ̃//də.vjɛ̃.dʁi.je//də.vjɛ̃.dʁɛ/	deviendrais, deviendrais, deviendrait, deviendrions, deviendriez, deviendraient	
+FUIR	[Indicative Future]	jetuil, ellefuiraifuirasfuira/fɥi.ʁe//fɥi.ʁa//fɥi.ʁa/nousvousils, ellesfuironsfuirezfuiront/fɥi.ʁɔ̃//fɥi.ʁe//fɥi.ʁɔ̃/	fuirai, fuiras, fuira, fuirons, fuirez, fuiront	
+METTRE	[Indicative Conditional]	jetuil, ellemettraismettraismettrait/mɛ.tʁɛ//mɛ.tʁɛ//mɛ.tʁɛ/nousvousils, ellesmettrionsmettriezmettraient/mɛ.tʁi.jɔ̃//mɛ.tʁi.je//mɛ.tʁɛ/	mettrais, mettrais, mettrait, mettrions, mettriez, mettraient	
+RIRE	[Indicative Imperfect]	jetuil, elleriaisriaisriait/ʁjɛ//ʁjɛ//ʁjɛ/nousvousils, ellesriionsriiezriaient/ʁi.jɔ̃//ʁi.je//ʁjɛ/	riais, riais, riait, riions, riiez, riaient	
+RIRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellerieriesrie/ʁi//ʁi//ʁi/que nousque vousqu'ils, qu'ellesriionsriiezrient/ʁi.jɔ̃//ʁi.je//ʁi/	rie, ries, rie, riions, riiez, rient	
+JOINDRE	[Indicative Future]	jetuil, ellejoindraijoindrasjoindra/ʒwɛ̃.dʁe//ʒwɛ̃.dʁa//ʒwɛ̃.dʁa/nousvousils, ellesjoindronsjoindrezjoindront/ʒwɛ̃.dʁɔ̃//ʒwɛ̃.dʁe//ʒwɛ̃.dʁɔ̃/	joindrai, joindras, joindra, joindrons, joindrez, joindront	
+VENIR	[Indicative Conditional]	jetuil, elleviendraisviendraisviendrait/vjɛ̃.dʁɛ//vjɛ̃.dʁɛ//vjɛ̃.dʁɛ/nousvousils, ellesviendrionsviendriezviendraient/vjɛ̃.dʁi.jɔ̃//vjɛ̃.dʁi.je//vjɛ̃.dʁɛ/	viendrais, viendrais, viendrait, viendrions, viendriez, viendraient	
+DORMIR	[Indicative Conditional]	jetuil, elledormiraisdormiraisdormirait/dɔʁ.mi.ʁɛ//dɔʁ.mi.ʁɛ//dɔʁ.mi.ʁɛ/nousvousils, ellesdormirionsdormiriezdormiraient/dɔʁ.mi.ʁjɔ̃//dɔʁ.mi.ʁje//dɔʁ.mi.ʁɛ/	dormirais, dormirais, dormirait, dormirions, dormiriez, dormiraient	
+TAIRE	[Indicative Future]	jetuil, elletairaitairastaira/tɛ.ʁe//tɛ.ʁa//tɛ.ʁa/nousvousils, ellestaironstaireztairont/tɛ.ʁɔ̃//tɛ.ʁe//tɛ.ʁɔ̃/	tairai, tairas, taira, tairons, tairez, tairont	
+SURVIVRE	[Indicative Imperfect]	jetuil, ellesurvivaissurvivaissurvivait/syʁ.vi.vɛ//syʁ.vi.vɛ//syʁ.vi.vɛ/nousvousils, ellessurvivionssurviviezsurvivaient/syʁ.vi.vjɔ̃//syʁ.vi.vje//syʁ.vi.vɛ/	survivais, survivais, survivait, survivions, surviviez, survivaient	
+SURVIVRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellesurvivesurvivessurvive/syʁ.viv//syʁ.viv//syʁ.viv/que nousque vousqu'ils, qu'ellessurvivionssurviviezsurvivent/syʁ.vi.vjɔ̃//syʁ.vi.vje//syʁ.viv/	survive, survives, survive, survivions, surviviez, survivent	
+DISPARAÎTRE	[Indicative Imperfect]	jetuil, elledisparaissaisdisparaissaisdisparaissait/dis.pa.ʁɛ.sɛ//dis.pa.ʁɛ.sɛ//dis.pa.ʁɛ.sɛ/nousvousils, ellesdisparaissionsdisparaissiezdisparaissaient/dis.pa.ʁɛ.sjɔ̃//dis.pa.ʁɛ.sje//dis.pa.ʁɛ.sɛ/	disparaissais, disparaissais, disparaissait, disparaissions, disparaissiez, disparaissaient	
+DISPARAÎTRE	[Subjunctive Present]	que jeque tuqu'il, qu'elledisparaissedisparaissesdisparaisse/dis.pa.ʁɛs//dis.pa.ʁɛs//dis.pa.ʁɛs/que nousque vousqu'ils, qu'ellesdisparaissionsdisparaissiezdisparaissent/dis.pa.ʁɛ.sjɔ̃//dis.pa.ʁɛ.sje//dis.pa.ʁɛs/	disparaisse, disparaisses, disparaisse, disparaissions, disparaissiez, disparaissent	
+SENTIR	[Indicative Conditional]	jetuil, ellesentiraissentiraissentirait/sɑ̃.ti.ʁɛ//sɑ̃.ti.ʁɛ//sɑ̃.ti.ʁɛ/nousvousils, ellessentirionssentiriezsentiraient/sɑ̃.ti.ʁjɔ̃//sɑ̃.ti.ʁje//sɑ̃.ti.ʁɛ/	sentirais, sentirais, sentirait, sentirions, sentiriez, sentiraient	
+REVENIR	[Indicative Conditional]	jetuil, ellereviendraisreviendraisreviendrait/ʁə.vjɛ̃.dʁɛ//ʁə.vjɛ̃.dʁɛ//ʁə.vjɛ̃.dʁɛ/nousvousils, ellesreviendrionsreviendriezreviendraient/ʁə.vjɛ̃.dʁi.jɔ̃//ʁə.vjɛ̃.dʁi.je//ʁə.vjɛ̃.dʁɛ/	reviendrais, reviendrais, reviendrait, reviendrions, reviendriez, reviendraient	
+TAIRE	[Indicative Present]	jetuil, elletaistaistait/tɛ//tɛ//tɛ/nousvousils, ellestaisonstaiseztaisent/tɛ.zɔ̃//tɛ.ze//tɛz/	tais, tais, tait, taisons, taisez, taisent	
+APPRENDRE	[Indicative Conditional]	jetuil, elleapprendraisapprendraisapprendrait/a.pʁɑ̃.dʁɛ//a.pʁɑ̃.dʁɛ//a.pʁɑ̃.dʁɛ/nousvousils, ellesapprendrionsapprendriezapprendraient/a.pʁɑ̃.dʁi.jɔ̃//a.pʁɑ̃.dʁi.je//a.pʁɑ̃.dʁɛ/	apprendrais, apprendrais, apprendrait, apprendrions, apprendriez, apprendraient	
+TENIR	[Indicative Conditional]	jetuil, elletiendraistiendraistiendrait/tjɛ̃.dʁɛ//tjɛ̃.dʁɛ//tjɛ̃.dʁɛ/nousvousils, ellestiendrionstiendrieztiendraient/tjɛ̃.dʁi.jɔ̃//tjɛ̃.dʁi.je//tjɛ̃.dʁɛ/	tiendrais, tiendrais, tiendrait, tiendrions, tiendriez, tiendraient	
+OBTENIR	[Indicative Conditional]	jetuil, elleobtiendraisobtiendraisobtiendrait/ɔp.tjɛ̃.dʁɛ//ɔp.tjɛ̃.dʁɛ//ɔp.tjɛ̃.dʁɛ/nousvousils, ellesobtiendrionsobtiendriezobtiendraient/ɔp.tjɛ̃.dʁi.jɔ̃//ɔp.tjɛ̃.dʁi.je//ɔp.tjɛ̃.dʁɛ/	obtiendrais, obtiendrais, obtiendrait, obtiendrions, obtiendriez, obtiendraient	
+JOINDRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellejoignejoignesjoigne/ʒwaɲ//ʒwaɲ//ʒwaɲ/que nousque vousqu'ils, qu'ellesjoignionsjoigniezjoignent/ʒwa.ɲjɔ̃//ʒwa.ɲje//ʒwaɲ/	joigne, joignes, joigne, joignions, joigniez, joignent	
+ASSEOIR	[Indicative Conditional]	jetuil, elleassoiraisassiéraisassoiraisassoirionsassiérionsassoirieznousvousils, ellesassiéraisassoiraitassiéraitassiériezassoiraientassiéraient	assoirais, assiérais, assoirais, assiérais, assoirait, assiérait	
+ASSEOIR	[Indicative Future]	jetuil, elleassoiraiassiéraiassoirasassoironsassiéronsassoireznousvousils, ellesassiérasassoiraassiéraassiérezassoirontassiéront	assoirai, assiérai, assoiras, assiéras, assoira, assiéra	
+JOINDRE	[Indicative Imperfect]	jetuil, ellejoignaisjoignaisjoignait/ʒwa.ɲɛ//ʒwa.ɲɛ//ʒwa.ɲɛ/nousvousils, ellesjoignionsjoigniezjoignaient/ʒwa.ɲjɔ̃//ʒwa.ɲje//ʒwa.ɲɛ/	joignais, joignais, joignait, joignions, joigniez, joignaient	
+REPRENDRE	[Indicative Conditional]	jetuil, ellereprendraisreprendraisreprendrait/ʁə.pʁɑ̃.dʁɛ//ʁə.pʁɑ̃.dʁɛ//ʁə.pʁɑ̃.dʁɛ/nousvousils, ellesreprendrionsreprendriezreprendraient/ʁə.pʁɑ̃.dʁi.jɔ̃//ʁə.pʁɑ̃.dʁi.je//ʁə.pʁɑ̃.dʁɛ/	reprendrais, reprendrais, reprendrait, reprendrions, reprendriez, reprendraient	
+MENTIR	[Indicative Future]	jetuil, ellementiraimentirasmentira/mɑ̃.ti.ʁe//mɑ̃.ti.ʁa//mɑ̃.ti.ʁa/nousvousils, ellesmentironsmentirezmentiront/mɑ̃.ti.ʁɔ̃//mɑ̃.ti.ʁe//mɑ̃.ti.ʁɔ̃/	mentirai, mentiras, mentira, mentirons, mentirez, mentiront	
+FOUTRE	[Indicative Future]	jetuil, ellefoutraifoutrasfoutra/fu.tʁe//fu.tʁa//fu.tʁa/nousvousils, ellesfoutronsfoutrezfoutront/fu.tʁɔ̃//fu.tʁe//fu.tʁɔ̃/	foutrai, foutras, foutra, foutrons, foutrez, foutront	
+SOUVENIR	[Indicative Imperfect]	jetuil, ellesouvenaissouvenaissouvenait/mə suv.nɛ//tə suv.nɛ//sə suv.nɛ/nousvousils, ellessouvenionssouveniezsouvenaient/nu su.və.njɔ̃//vu su.və.nje//sə suv.nɛ/	souvenais, souvenais, souvenait, souvenions, souveniez, souvenaient	
+SOUVENIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellesouviennesouviennessouvienne/mə su.vjɛn//tə su.vjɛn//sə su.vjɛn/que nousque vousqu'ils, qu'ellessouvenionssouveniezsouviennent/nu su.və.njɔ̃//vu su.və.nje//sə su.vjɛn/	souvienne, souviennes, souvienne, souvenions, souveniez, souviennent	
+BOIRE	[Indicative Conditional]	jetuil, elleboiraisboiraisboirait/bwa.ʁɛ//bwa.ʁɛ//bwa.ʁɛ/nousvousils, ellesboirionsboiriezboiraient/bwa.ʁjɔ̃//bwa.ʁje//bwa.ʁɛ/	boirais, boirais, boirait, boirions, boiriez, boiraient	
+REMETTRE	[Indicative Conditional]	jetuil, elleremettraisremettraisremettrait/ʁə.mɛ.tʁɛ//ʁə.mɛ.tʁɛ//ʁə.mɛ.tʁɛ/nousvousils, ellesremettrionsremettriezremettraient/ʁə.mɛ.tʁi.jɔ̃//ʁə.mɛ.tʁi.je//ʁə.mɛ.tʁɛ/	remettrais, remettrais, remettrait, remettrions, remettriez, remettraient	
+BATTRE	[Indicative Conditional]	jetuil, ellebattraisbattraisbattrait/ba.tʁɛ//ba.tʁɛ//ba.tʁɛ/nousvousils, ellesbattrionsbattriezbattraient/ba.tʁi.jɔ̃//ba.tʁi.je//ba.tʁɛ/	battrais, battrais, battrait, battrions, battriez, battraient	
+SERVIR	[Indicative Conditional]	jetuil, elleserviraisserviraisservirait/sɛʁ.vi.ʁɛ//sɛʁ.vi.ʁɛ//sɛʁ.vi.ʁɛ/nousvousils, ellesservirionsserviriezserviraient/sɛʁ.vi.ʁjɔ̃//sɛʁ.vi.ʁje//sɛʁ.vi.ʁɛ/	servirais, servirais, servirait, servirions, serviriez, serviraient	
+PERMETTRE	[Indicative Imperfect]	jetuil, ellepermettaispermettaispermettait/pɛʁ.mɛ.tɛ//pɛʁ.mɛ.tɛ//pɛʁ.mɛ.tɛ/nousvousils, ellespermettionspermettiezpermettaient/pɛʁ.mɛ.tjɔ̃//pɛʁ.mɛ.tje//pɛʁ.mɛ.tɛ/	permettais, permettais, permettait, permettions, permettiez, permettaient	
+PERMETTRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellepermettepermettespermette/pɛʁ.mɛt//pɛʁ.mɛt//pɛʁ.mɛt/que nousque vousqu'ils, qu'ellespermettionspermettiezpermettent/pɛʁ.mɛ.tjɔ̃//pɛʁ.mɛ.tje//pɛʁ.mɛt/	permette, permettes, permette, permettions, permettiez, permettent	
+OUVRIR	[Indicative Conditional]	jetuil, elleouvriraisouvriraisouvrirait/u.vʁi.ʁɛ//u.vʁi.ʁɛ//u.vʁi.ʁɛ/nousvousils, ellesouvririonsouvririezouvriraient/u.vʁi.ʁjɔ̃//u.vʁi.ʁje//u.vʁi.ʁɛ/	ouvrirais, ouvrirais, ouvrirait, ouvririons, ouvririez, ouvriraient	
+LIRE	[Indicative Conditional]	jetuil, elleliraisliraislirait/li.ʁɛ//li.ʁɛ//li.ʁɛ/nousvousils, elleslirionsliriezliraient/li.ʁjɔ̃//li.ʁje//li.ʁɛ/	lirais, lirais, lirait, lirions, liriez, liraient	
+RIRE	[Indicative Conditional]	jetuil, elleriraisriraisrirait/ʁi.ʁɛ//ʁi.ʁɛ//ʁi.ʁɛ/nousvousils, ellesririonsririezriraient/ʁi.ʁjɔ̃//ʁi.ʁje//ʁi.ʁɛ/	rirais, rirais, rirait, ririons, ririez, riraient	
+FUIR	[Indicative Conditional]	jetuil, ellefuiraisfuiraisfuirait/fɥi.ʁɛ//fɥi.ʁɛ//fɥi.ʁɛ/nousvousils, ellesfuirionsfuiriezfuiraient/fɥi.ʁjɔ̃//fɥi.ʁje//fɥi.ʁɛ/	fuirais, fuirais, fuirait, fuirions, fuiriez, fuiraient	
+TAIRE	[Indicative Conditional]	jetuil, elletairaistairaistairait/tɛ.ʁɛ//tɛ.ʁɛ//tɛ.ʁɛ/nousvousils, ellestairionstairieztairaient/tɛ.ʁjɔ̃//tɛ.ʁje//tɛ.ʁɛ/	tairais, tairais, tairait, tairions, tairiez, tairaient	
+CROIRE	[Indicative Conditional]	jetuil, ellecroiraiscroiraiscroirait/kʁwa.ʁɛ//kʁwa.ʁɛ//kʁwa.ʁɛ/nousvousils, ellescroirionscroiriezcroiraient/kʁwa.ʁjɔ̃//kʁwa.ʁje//kʁwa.ʁɛ/	croirais, croirais, croirait, croirions, croiriez, croiraient	
+FOUTRE	[Indicative Conditional]	jetuil, ellefoutraisfoutraisfoutrait/fu.tʁɛ//fu.tʁɛ//fu.tʁɛ/nousvousils, ellesfoutrionsfoutriezfoutraient/fu.tʁi.jɔ̃//fu.tʁi.je//fu.tʁɛ/	foutrais, foutrais, foutrait, foutrions, foutriez, foutraient	
+ÉCRIRE	[Indicative Conditional]	jetuil, elleécriraisécriraisécrirait/e.kʁi.ʁɛ//e.kʁi.ʁɛ//e.kʁi.ʁɛ/nousvousils, ellesécririonsécririezécriraient/e.kʁi.ʁjɔ̃//e.kʁi.ʁje//e.kʁi.ʁɛ/	écrirais, écrirais, écrirait, écririons, écririez, écriraient	
+RECEVOIR	[Indicative Conditional]	jetuil, ellerecevraisrecevraisrecevrait/ʁə.sə.vʁɛ//ʁə.sə.vʁɛ//ʁə.sə.vʁɛ/nousvousils, ellesrecevrionsrecevriezrecevraient/ʁə.sə.vʁi.jɔ̃//ʁə.sə.vʁi.je//ʁə.sə.vʁɛ/	recevrais, recevrais, recevrait, recevrions, recevriez, recevraient	
+JOINDRE	[Indicative Conditional]	jetuil, ellejoindraisjoindraisjoindrait/ʒwɛ̃.dʁɛ//ʒwɛ̃.dʁɛ//ʒwɛ̃.dʁɛ/nousvousils, ellesjoindrionsjoindriezjoindraient/ʒwɛ̃.dʁi.jɔ̃//ʒwɛ̃.dʁi.je//ʒwɛ̃.dʁɛ/	joindrais, joindrais, joindrait, joindrions, joindriez, joindraient	
+MENTIR	[Indicative Conditional]	jetuil, ellementiraismentiraismentirait/mɑ̃.ti.ʁɛ//mɑ̃.ti.ʁɛ//mɑ̃.ti.ʁɛ/nousvousils, ellesmentirionsmentiriezmentiraient/mɑ̃.ti.ʁjɔ̃//mɑ̃.ti.ʁje//mɑ̃.ti.ʁɛ/	mentirais, mentirais, mentirait, mentirions, mentiriez, mentiraient	
+CONDUIRE	[Indicative Conditional]	jetuil, elleconduiraisconduiraisconduirait/kɔ̃.dɥi.ʁɛ//kɔ̃.dɥi.ʁɛ//kɔ̃.dɥi.ʁɛ/nousvousils, ellesconduirionsconduiriezconduiraient/kɔ̃.dɥi.ʁjɔ̃//kɔ̃.dɥi.ʁje//kɔ̃.dɥi.ʁɛ/	conduirais, conduirais, conduirait, conduirions, conduiriez, conduiraient	
+SURVIVRE	[Indicative Conditional]	jetuil, ellesurvivraissurvivraissurvivrait/syʁ.vi.vʁɛ//syʁ.vi.vʁɛ//syʁ.vi.vʁɛ/nousvousils, ellessurvivrionssurvivriezsurvivraient/syʁ.vi.vʁi.jɔ̃//syʁ.vi.vʁi.je//syʁ.vi.vʁɛ/	survivrais, survivrais, survivrait, survivrions, survivriez, survivraient	
+PERMETTRE	[Indicative Conditional]	jetuil, ellepermettraispermettraispermettrait/pɛʁ.mɛ.tʁɛ//pɛʁ.mɛ.tʁɛ//pɛʁ.mɛ.tʁɛ/nousvousils, ellespermettrionspermettriezpermettraient/pɛʁ.mɛ.tʁi.jɔ̃//pɛʁ.mɛ.tʁi.je//pɛʁ.mɛ.tʁɛ/	permettrais, permettrais, permettrait, permettrions, permettriez, permettraient	
+SOUVENIR	[Indicative Conditional]	jetuil, ellesouviendraissouviendraissouviendrait/mə su.vjɛ̃.dʁɛ//tə su.vjɛ̃.dʁɛ//sə su.vjɛ̃.dʁɛ/nousvousils, ellessouviendrionssouviendriezsouviendraient/nu su.vjɛ̃.dʁi.jɔ̃//vu su.vjɛ̃.dʁi.je//sə su.vjɛ̃.dʁɛ/	souviendrais, souviendrais, souviendrait, souviendrions, souviendriez, souviendraient	
+CONSTRUIRE	[Indicative Conditional]	jetuil, elleconstruiraisconstruiraisconstruirait/kɔ̃s.tʁɥi.ʁɛ//kɔ̃s.tʁɥi.ʁɛ//kɔ̃s.tʁɥi.ʁɛ/nousvousils, ellesconstruirionsconstruiriezconstruiraient/kɔ̃s.tʁɥi.ʁjɔ̃//kɔ̃s.tʁɥi.ʁje//kɔ̃s.tʁɥi.ʁɛ/	construirais, construirais, construirait, construirions, construiriez, construiraient	
+DISPARAÎTRE	[Indicative Conditional]	jetuil, elledisparaîtraisdisparaîtraisdisparaîtrait/dis.pa.ʁɛ.tʁɛ//dis.pa.ʁɛ.tʁɛ//dis.pa.ʁɛ.tʁɛ/nousvousils, ellesdisparaîtrionsdisparaîtriezdisparaîtraient/dis.pa.ʁɛ.tʁi.jɔ̃//dis.pa.ʁɛ.tʁi.je//dis.pa.ʁɛ.tʁɛ/	disparaîtrais, disparaîtrais, disparaîtrait, disparaîtrions, disparaîtriez, disparaîtraient	
+FOUTRE	[Indicative Imperfect]	jetuil, ellefoutaisfoutaisfoutait/fu.tɛ//fu.tɛ//fu.tɛ/nousvousils, ellesfoutionsfoutiezfoutaient/fu.tjɔ̃//fu.tje//fu.tɛ/	foutais, foutais, foutait, foutions, foutiez, foutaient	
+TAIRE	[Indicative Imperfect]	jetuil, elletaisaistaisaistaisait/tɛ.zɛ//tɛ.zɛ//tɛ.zɛ/nousvousils, ellestaisionstaisieztaisaient/tɛ.zjɔ̃//tɛ.zje//tɛ.zɛ/	taisais, taisais, taisait, taisions, taisiez, taisaient	
+ASSEOIR	[Indicative Imperfect]	jetuil, elleassoyaisasseyaisassoyaisassoyionsasseyionsassoyieznousvousils, ellesasseyaisassoyaitasseyaitasseyiezassoyaientasseyaient	assoyais, asseyais, assoyais, asseyais, assoyait, asseyait	
+FOUTRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellefoutefoutesfoute/fut//fut//fut/que nousque vousqu'ils, qu'ellesfoutionsfoutiezfoutent/fu.tjɔ̃//fu.tje//fut/	foute, foutes, foute, foutions, foutiez, foutent	
+TAIRE	[Subjunctive Present]	que jeque tuqu'il, qu'elletaisetaisestaise/tɛz//tɛz//tɛz/que nousque vousqu'ils, qu'ellestaisionstaisieztaisent/tɛ.zjɔ̃//tɛ.zje//tɛz/	taise, taises, taise, taisions, taisiez, taisent	
+ÊTRE	[Indicative Present]	jetuil, ellesuisesest/sɥi//ɛ//ɛ/nousvousils, ellessommesêtessont/sɔm//ɛt//sɔ̃/	suis, es, est, sommes, êtes, sont	
+ÊTRE	[Indicative Imperfect]	jetuil, elleétaisétaisétait/e.tɛ//e.tɛ//e.tɛ/nousvousils, ellesétionsétiezétaient/e.tjɔ̃//e.tje//e.tɛ/	étais, étais, était, étions, étiez, étaient	
+ÊTRE	[Indicative Future]	jetuil, elleseraiserassera/sə.ʁe//sə.ʁa//sə.ʁa/nousvousils, ellesseronsserezseront/sə.ʁɔ̃//sə.ʁe//sə.ʁɔ̃/	serai, seras, sera, serons, serez, seront	
+ÊTRE	[Indicative Conditional]	jetuil, elleseraisseraisserait/sə.ʁɛ//sə.ʁɛ//sə.ʁɛ/nousvousils, ellesserionsseriezseraient/sə.ʁjɔ̃//sə.ʁje//sə.ʁɛ/	serais, serais, serait, serions, seriez, seraient	
+ÊTRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellesoissoissoit/swa//swa//swa/que nousque vousqu'ils, qu'ellessoyonssoyezsoient/swa.jɔ̃//swa.je//swa/	sois, sois, soit, soyons, soyez, soient	
+FAIRE	[Indicative Present]	jetuil, ellefaisfaisfait/fɛ//fɛ//fɛ/nousvousils, ellesfaisonsfaitesfont/fə.zɔ̃//fɛt//fɔ̃/	fais, fais, fait, faisons, faites, font	
+FAIRE	[Indicative Imperfect]	jetuil, ellefaisaisfaisaisfaisait/fə.zɛ//fə.zɛ//fə.zɛ/nousvousils, ellesfaisionsfaisiezfaisaient/fə.zjɔ̃//fə.zje//fə.zɛ/	faisais, faisais, faisait, faisions, faisiez, faisaient	
+FAIRE	[Indicative Future]	jetuil, elleferaiferasfera/fə.ʁe//fə.ʁa//fə.ʁa/nousvousils, ellesferonsferezferont/fə.ʁɔ̃//fə.ʁe//fə.ʁɔ̃/	ferai, feras, fera, ferons, ferez, feront	
+FAIRE	[Indicative Conditional]	jetuil, elleferaisferaisferait/fə.ʁɛ//fə.ʁɛ//fə.ʁɛ/nousvousils, ellesferionsferiezferaient/fə.ʁjɔ̃//fə.ʁje//fə.ʁɛ/	ferais, ferais, ferait, ferions, feriez, feraient	
+FAIRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellefassefassesfasse/fas//fas//fas/que nousque vousqu'ils, qu'ellesfassionsfassiezfassent/fa.sjɔ̃//fa.sje//fas/	fasse, fasses, fasse, fassions, fassiez, fassent	
+DIRE	[Indicative Present]	jetuil, elledisdisdit/di//di//di/nousvousils, ellesdisonsditesdisent/di.zɔ̃//dit//diz/	dis, dis, dit, disons, dites, disent	
+DIRE	[Indicative Imperfect]	jetuil, elledisaisdisaisdisait/di.zɛ//di.zɛ//di.zɛ/nousvousils, ellesdisionsdisiezdisaient/di.zjɔ̃//di.zje//di.zɛ/	disais, disais, disait, disions, disiez, disaient	
+DIRE	[Indicative Future]	jetuil, ellediraidirasdira/di.ʁe//di.ʁa//di.ʁa/nousvousils, ellesdironsdirezdiront/di.ʁɔ̃//di.ʁe//di.ʁɔ̃/	dirai, diras, dira, dirons, direz, diront	
+DIRE	[Indicative Conditional]	jetuil, ellediraisdiraisdirait/di.ʁɛ//di.ʁɛ//di.ʁɛ/nousvousils, ellesdirionsdiriezdiraient/di.ʁjɔ̃//di.ʁje//di.ʁɛ/	dirais, dirais, dirait, dirions, diriez, diraient	
+DIRE	[Subjunctive Present]	que jeque tuqu'il, qu'elledisedisesdise/diz//diz//diz/que nousque vousqu'ils, qu'ellesdisionsdisiezdisent/di.zjɔ̃//di.zje//diz/	dise, dises, dise, disions, disiez, disent	
+VOIR	[Indicative Present]	jetuil, ellevoisvoisvoit/vwa//vwa//vwa/nousvousils, ellesvoyonsvoyezvoient/vwa.jɔ̃//vwa.je//vwa/	vois, vois, voit, voyons, voyez, voient	
+VOIR	[Indicative Imperfect]	jetuil, ellevoyaisvoyaisvoyait/vwa.jɛ//vwa.jɛ//vwa.jɛ/nousvousils, ellesvoyionsvoyiezvoyaient/vwaj.jɔ̃//vwaj.je//vwa.jɛ/	voyais, voyais, voyait, voyions, voyiez, voyaient	
+VOIR	[Indicative Future]	jetuil, elleverraiverrasverra/vɛ.ʁe//vɛ.ʁa//vɛ.ʁa/nousvousils, ellesverronsverrezverront/vɛ.ʁɔ̃//vɛ.ʁe//vɛ.ʁɔ̃/	verrai, verras, verra, verrons, verrez, verront	
+VOIR	[Indicative Conditional]	jetuil, elleverraisverraisverrait/vɛ.ʁɛ//vɛ.ʁɛ//vɛ.ʁɛ/nousvousils, ellesverrionsverriezverraient/vɛ.ʁjɔ̃//vɛ.ʁje//vɛ.ʁɛ/	verrais, verrais, verrait, verrions, verriez, verraient	
+VOIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellevoievoiesvoie/vwa//vwa//vwa/que nousque vousqu'ils, qu'ellesvoyionsvoyiezvoient/vwaj.jɔ̃//vwaj.je//vwa/	voie, voies, voie, voyions, voyiez, voient	
+AVOIR	[Indicative Present]	jetuil, elleaiasa/e//a//a/nousvousils, ellesavonsavezont/a.vɔ̃//a.ve//ɔ̃/	ai, as, a, avons, avez, ont	
+AVOIR	[Indicative Imperfect]	jetuil, elleavaisavaisavait/a.vɛ//a.vɛ//a.vɛ/nousvousils, ellesavionsaviezavaient/a.vjɔ̃//a.vje//a.vɛ/	avais, avais, avait, avions, aviez, avaient	
+AVOIR	[Indicative Future]	jetuil, elleauraiaurasaura/o.ʁe//o.ʁa//o.ʁa/nousvousils, ellesauronsaurezauront/o.ʁɔ̃//o.ʁe//o.ʁɔ̃/	aurai, auras, aura, aurons, aurez, auront	
+AVOIR	[Indicative Conditional]	jetuil, elleauraisauraisaurait/o.ʁɛ//o.ʁɛ//o.ʁɛ/nousvousils, ellesaurionsauriezauraient/o.ʁjɔ̃//o.ʁje//o.ʁɛ/	aurais, aurais, aurait, aurions, auriez, auraient	
+AVOIR	[Subjunctive Present]	que jeque tuqu'il, qu'elleaieaiesait/ɛ//ɛ//ɛ/que nousque vousqu'ils, qu'ellesayonsayezaient/ɛ.jɔ̃//ɛ.je//ɛ/	aie, aies, ait, ayons, ayez, aient	
+ALLER	[Indicative Present]	jetuil, ellevaisvasva/vɛ//vɑ//va/nousvousils, ellesallonsallezvont/a.lɔ̃//a.le//vɔ̃/	vais, vas, va, allons, allez, vont	
+ALLER	[Indicative Imperfect]	jetuil, elleallaisallaisallait/a.lɛ//a.lɛ//a.lɛ/nousvousils, ellesallionsalliezallaient/a.ljɔ̃//a.lje//a.lɛ/	allais, allais, allait, allions, alliez, allaient	
+ALLER	[Indicative Future]	jetuil, elleiraiirasira/i.ʁe//i.ʁa//i.ʁa/nousvousils, ellesironsireziront/i.ʁɔ̃//i.ʁe//i.ʁɔ̃/	irai, iras, ira, irons, irez, iront	
+ALLER	[Indicative Conditional]	jetuil, elleiraisiraisirait/i.ʁɛ//i.ʁɛ//i.ʁɛ/nousvousils, ellesirionsirieziraient/i.ʁjɔ̃//i.ʁje//i.ʁɛ/	irais, irais, irait, irions, iriez, iraient	
+ALLER	[Subjunctive Present]	que jeque tuqu'il, qu'elleailleaillesaille/aj//aj//aj/que nousque vousqu'ils, qu'ellesallionsalliezaillent/a.ljɔ̃//a.lje//aj/	aille, ailles, aille, allions, alliez, aillent	
+PRENDRE	[Indicative Present]	jetuil, elleprendsprendsprend/pʁɑ̃//pʁɑ̃//pʁɑ̃/nousvousils, ellesprenonsprenezprennent/pʁə.nɔ̃//pʁə.ne//pʁɛn/	prends, prends, prend, prenons, prenez, prennent	
+PRENDRE	[Indicative Imperfect]	jetuil, elleprenaisprenaisprenait/pʁə.nɛ//pʁə.nɛ//pʁə.nɛ/nousvousils, ellesprenionspreniezprenaient/pʁə.njɔ̃//pʁə.nje//pʁə.nɛ/	prenais, prenais, prenait, prenions, preniez, prenaient	
+PRENDRE	[Indicative Future]	jetuil, elleprendraiprendrasprendra/pʁɑ̃.dʁe//pʁɑ̃.dʁa//pʁɑ̃.dʁa/nousvousils, ellesprendronsprendrezprendront/pʁɑ̃.dʁɔ̃//pʁɑ̃.dʁe//pʁɑ̃.dʁɔ̃/	prendrai, prendras, prendra, prendrons, prendrez, prendront	
+PRENDRE	[Indicative Conditional]	jetuil, elleprendraisprendraisprendrait/pʁɑ̃.dʁɛ//pʁɑ̃.dʁɛ//pʁɑ̃.dʁɛ/nousvousils, ellesprendrionsprendriezprendraient/pʁɑ̃.dʁi.jɔ̃//pʁɑ̃.dʁi.je//pʁɑ̃.dʁɛ/	prendrais, prendrais, prendrait, prendrions, prendriez, prendraient	
+PRENDRE	[Subjunctive Present]	que jeque tuqu'il, qu'elleprenneprennesprenne/pʁɛn//pʁɛn//pʁɛn/que nousque vousqu'ils, qu'ellesprenionspreniezprennent/pʁə.njɔ̃//pʁə.nje//pʁɛn/	prenne, prennes, prenne, prenions, preniez, prennent	
+SAVOIR	[Indicative Present]	jetuil, ellesaissaissait/sɛ//sɛ//sɛ/nousvousils, ellessavonssavezsavent/sa.vɔ̃//sa.ve//sav/	sais, sais, sait, savons, savez, savent	
+SAVOIR	[Indicative Imperfect]	jetuil, ellesavaissavaissavait/sa.vɛ//sa.vɛ//sa.vɛ/nousvousils, ellessavionssaviezsavaient/sa.vjɔ̃//sa.vje//sa.vɛ/	savais, savais, savait, savions, saviez, savaient	
+SAVOIR	[Indicative Future]	jetuil, ellesauraisaurassaura/sɔ.ʁe//sɔ.ʁa//sɔ.ʁa/nousvousils, ellessauronssaurezsauront/sɔ.ʁɔ̃//sɔ.ʁe//sɔ.ʁɔ̃/	saurai, sauras, saura, saurons, saurez, sauront	
+SAVOIR	[Indicative Conditional]	jetuil, ellesauraissauraissaurait/sɔ.ʁɛ//sɔ.ʁɛ//sɔ.ʁɛ/nousvousils, ellessaurionssauriezsauraient/sɔ.ʁjɔ̃//sɔ.ʁje//sɔ.ʁɛ/	saurais, saurais, saurait, saurions, sauriez, sauraient	
+SAVOIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellesachesachessache/saʃ//saʃ//saʃ/que nousque vousqu'ils, qu'ellessachionssachiezsachent/sa.ʃjɔ̃//sa.ʃje//saʃ/	sache, saches, sache, sachions, sachiez, sachent	
+PARTIR	[Indicative Present]	jetuil, elleparsparspart/paʁ//paʁ//paʁ/nousvousils, ellespartonspartezpartent/paʁ.tɔ̃//paʁ.te//paʁt/	pars, pars, part, partons, partez, partent	
+PARTIR	[Indicative Imperfect]	jetuil, ellepartaispartaispartait/paʁ.tɛ//paʁ.tɛ//paʁ.tɛ/nousvousils, ellespartionspartiezpartaient/paʁ.tjɔ̃//paʁ.tje//paʁ.tɛ/	partais, partais, partait, partions, partiez, partaient	
+PARTIR	[Indicative Future]	jetuil, ellepartiraipartiraspartira/paʁ.ti.ʁe//paʁ.ti.ʁa//paʁ.ti.ʁa/nousvousils, ellespartironspartirezpartiront/paʁ.ti.ʁɔ̃//paʁ.ti.ʁe//paʁ.ti.ʁɔ̃/	partirai, partiras, partira, partirons, partirez, partiront	
+PARTIR	[Indicative Conditional]	jetuil, ellepartiraispartiraispartirait/paʁ.ti.ʁɛ//paʁ.ti.ʁɛ//paʁ.ti.ʁɛ/nousvousils, ellespartirionspartiriezpartiraient/paʁ.ti.ʁjɔ̃//paʁ.ti.ʁje//paʁ.ti.ʁɛ/	partirais, partirais, partirait, partirions, partiriez, partiraient	
+PARTIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellepartepartesparte/paʁt//paʁt//paʁt/que nousque vousqu'ils, qu'ellespartionspartiezpartent/paʁ.tjɔ̃//paʁ.tje//paʁt/	parte, partes, parte, partions, partiez, partent	
+VENIR	[Indicative Present]	jetuil, elleviensviensvient/vjɛ̃//vjɛ̃//vjɛ̃/nousvousils, ellesvenonsvenezviennent/və.nɔ̃//və.ne//vjɛn/	viens, viens, vient, venons, venez, viennent	
+VENIR	[Indicative Imperfect]	jetuil, ellevenaisvenaisvenait/və.nɛ//və.nɛ//və.nɛ/nousvousils, ellesvenionsveniezvenaient/və.njɔ̃//və.nje//və.nɛ/	venais, venais, venait, venions, veniez, venaient	
+VENIR	[Indicative Future]	jetuil, elleviendraiviendrasviendra/vjɛ̃.dʁe//vjɛ̃.dʁa//vjɛ̃.dʁa/nousvousils, ellesviendronsviendrezviendront/vjɛ̃.dʁɔ̃//vjɛ̃.dʁe//vjɛ̃.dʁɔ̃/	viendrai, viendras, viendra, viendrons, viendrez, viendront	
+VENIR	[Indicative Conditional]	jetuil, elleviendraisviendraisviendrait/vjɛ̃.dʁɛ//vjɛ̃.dʁɛ//vjɛ̃.dʁɛ/nousvousils, ellesviendrionsviendriezviendraient/vjɛ̃.dʁi.jɔ̃//vjɛ̃.dʁi.je//vjɛ̃.dʁɛ/	viendrais, viendrais, viendrait, viendrions, viendriez, viendraient	
+VENIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellevienneviennesvienne/vjɛn//vjɛn//vjɛn/que nousque vousqu'ils, qu'ellesvenionsveniezviennent/və.njɔ̃//və.nje//vjɛn/	vienne, viennes, vienne, venions, veniez, viennent	
+SORTIR	[Indicative Present]	jetuil, ellesorssorssort/sɔʁ//sɔʁ//sɔʁ/nousvousils, ellessortonssortezsortent/sɔʁ.tɔ̃//sɔʁ.te//sɔʁt/	sors, sors, sort, sortons, sortez, sortent	
+SORTIR	[Indicative Imperfect]	jetuil, ellesortaissortaissortait/sɔʁ.tɛ//sɔʁ.tɛ//sɔʁ.tɛ/nousvousils, ellessortionssortiezsortaient/sɔʁ.tjɔ̃//sɔʁ.tje//sɔʁ.tɛ/	sortais, sortais, sortait, sortions, sortiez, sortaient	
+SORTIR	[Indicative Future]	jetuil, ellesortiraisortirassortira/sɔʁ.ti.ʁe//sɔʁ.ti.ʁa//sɔʁ.ti.ʁa/nousvousils, ellessortironssortirezsortiront/sɔʁ.ti.ʁɔ̃//sɔʁ.ti.ʁe//sɔʁ.ti.ʁɔ̃/	sortirai, sortiras, sortira, sortirons, sortirez, sortiront	
+SORTIR	[Indicative Conditional]	jetuil, ellesortiraissortiraissortirait/sɔʁ.ti.ʁɛ//sɔʁ.ti.ʁɛ//sɔʁ.ti.ʁɛ/nousvousils, ellessortirionssortiriezsortiraient/sɔʁ.ti.ʁjɔ̃//sɔʁ.ti.ʁje//sɔʁ.ti.ʁɛ/	sortirais, sortirais, sortirait, sortirions, sortiriez, sortiraient	
+SORTIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellesortesortessorte/sɔʁt//sɔʁt//sɔʁt/que nousque vousqu'ils, qu'ellessortionssortiezsortent/sɔʁ.tjɔ̃//sɔʁ.tje//sɔʁt/	sorte, sortes, sorte, sortions, sortiez, sortent	
+METTRE	[Indicative Present]	jetuil, ellemetsmetsmet/mɛ//mɛ//mɛ/nousvousils, ellesmettonsmettezmettent/mɛ.tɔ̃//mɛ.te//mɛt/	mets, mets, met, mettons, mettez, mettent	
+METTRE	[Indicative Imperfect]	jetuil, ellemettaismettaismettait/mɛ.tɛ//mɛ.tɛ//mɛ.tɛ/nousvousils, ellesmettionsmettiezmettaient/mɛ.tjɔ̃//mɛ.tje//mɛ.tɛ/	mettais, mettais, mettait, mettions, mettiez, mettaient	
+METTRE	[Indicative Future]	jetuil, ellemettraimettrasmettra/mɛ.tʁe//mɛ.tʁa//mɛ.tʁa/nousvousils, ellesmettronsmettrezmettront/mɛ.tʁɔ̃//mɛ.tʁe//mɛ.tʁɔ̃/	mettrai, mettras, mettra, mettrons, mettrez, mettront	
+METTRE	[Indicative Conditional]	jetuil, ellemettraismettraismettrait/mɛ.tʁɛ//mɛ.tʁɛ//mɛ.tʁɛ/nousvousils, ellesmettrionsmettriezmettraient/mɛ.tʁi.jɔ̃//mɛ.tʁi.je//mɛ.tʁɛ/	mettrais, mettrais, mettrait, mettrions, mettriez, mettraient	
+METTRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellemettemettesmette/mɛt//mɛt//mɛt/que nousque vousqu'ils, qu'ellesmettionsmettiezmettent/mɛ.tjɔ̃//mɛ.tje//mɛt/	mette, mettes, mette, mettions, mettiez, mettent	
+MOURIR	[Indicative Present]	jetuil, ellemeursmeursmeurt/mœʁ//mœʁ//mœʁ/nousvousils, ellesmouronsmourezmeurent/mu.ʁɔ̃//mu.ʁe//mœʁ/	meurs, meurs, meurt, mourons, mourez, meurent	
+MOURIR	[Indicative Imperfect]	jetuil, ellemouraismouraismourait/mu.ʁɛ//mu.ʁɛ//mu.ʁɛ/nousvousils, ellesmourionsmouriezmouraient/mu.ʁjɔ̃//mu.ʁje//mu.ʁɛ/	mourais, mourais, mourait, mourions, mouriez, mouraient	
+MOURIR	[Indicative Future]	jetuil, ellemourraimourrasmourra/muʁ.ʁe//muʁ.ʁa//muʁ.ʁa/nousvousils, ellesmourronsmourrezmourront/muʁ.ʁɔ̃//muʁ.ʁe//muʁ.ʁɔ̃/	mourrai, mourras, mourra, mourrons, mourrez, mourront	
+MOURIR	[Indicative Conditional]	jetuil, ellemourraismourraismourrait/muʁ.ʁɛ//muʁ.ʁɛ//muʁ.ʁɛ/nousvousils, ellesmourrionsmourriezmourraient/muʁ.ʁjɔ̃//muʁ.ʁje//muʁ.ʁɛ/	mourrais, mourrais, mourrait, mourrions, mourriez, mourraient	
+MOURIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellemeuremeuresmeure/mœʁ//mœʁ//mœʁ/que nousque vousqu'ils, qu'ellesmourionsmouriezmeurent/mu.ʁjɔ̃//mu.ʁje//mœʁ/	meure, meures, meure, mourions, mouriez, meurent	
+POUVOIR	[Indicative Present]	jetuil, ellepeuxpeuxpeut/pø//pø//pø/nousvousils, ellespouvonspouvezpeuvent/pu.vɔ̃//pu.ve//pœv/	peux, peux, peut, pouvons, pouvez, peuvent	
+POUVOIR	[Indicative Imperfect]	jetuil, ellepouvaispouvaispouvait/pu.vɛ//pu.vɛ//pu.vɛ/nousvousils, ellespouvionspouviezpouvaient/pu.vjɔ̃//pu.vje//pu.vɛ/	pouvais, pouvais, pouvait, pouvions, pouviez, pouvaient	
+POUVOIR	[Indicative Future]	jetuil, ellepourraipourraspourra/pu.ʁe//pu.ʁa//pu.ʁa/nousvousils, ellespourronspourrezpourront/pu.ʁɔ̃//pu.ʁe//pu.ʁɔ̃/	pourrai, pourras, pourra, pourrons, pourrez, pourront	
+POUVOIR	[Indicative Conditional]	jetuil, ellepourraispourraispourrait/pu.ʁɛ//pu.ʁɛ//pu.ʁɛ/nousvousils, ellespourrionspourriezpourraient/pu.ʁjɔ̃//pu.ʁje//pu.ʁɛ/	pourrais, pourrais, pourrait, pourrions, pourriez, pourraient	
+POUVOIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellepuissepuissespuisse/pɥis//pɥis//pɥis/que nousque vousqu'ils, qu'ellespuissionspuissiezpuissent/pɥi.sjɔ̃//pɥi.sje//pɥis/	puisse, puisses, puisse, puissions, puissiez, puissent	
+VIVRE	[Indicative Present]	jetuil, ellevisvisvit/vi//vi//vi/nousvousils, ellesvivonsvivezvivent/vi.vɔ̃//vi.ve//viv/	vis, vis, vit, vivons, vivez, vivent	
+VIVRE	[Indicative Imperfect]	jetuil, ellevivaisvivaisvivait/vi.vɛ//vi.vɛ//vi.vɛ/nousvousils, ellesvivionsviviezvivaient/vi.vjɔ̃//vi.vje//vi.vɛ/	vivais, vivais, vivait, vivions, viviez, vivaient	
+VIVRE	[Indicative Future]	jetuil, ellevivraivivrasvivra/vi.vʁe//vi.vʁa//vi.vʁa/nousvousils, ellesvivronsvivrezvivront/vi.vʁɔ̃//vi.vʁe//vi.vʁɔ̃/	vivrai, vivras, vivra, vivrons, vivrez, vivront	
+VIVRE	[Indicative Conditional]	jetuil, ellevivraisvivraisvivrait/vi.vʁɛ//vi.vʁɛ//vi.vʁɛ/nousvousils, ellesvivrionsvivriezvivraient/vi.vʁi.jɔ̃//vi.vʁi.je//vi.vʁɛ/	vivrais, vivrais, vivrait, vivrions, vivriez, vivraient	
+VIVRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellevivevivesvive/viv//viv//viv/que nousque vousqu'ils, qu'ellesvivionsviviezvivent/vi.vjɔ̃//vi.vje//viv/	vive, vives, vive, vivions, viviez, vivent	
+CROIRE	[Indicative Present]	jetuil, ellecroiscroiscroit/kʁwa//kʁwa//kʁwa/nousvousils, ellescroyonscroyezcroient/kʁwa.jɔ̃//kʁwa.je//kʁwa/	crois, crois, croit, croyons, croyez, croient	
+CROIRE	[Indicative Imperfect]	jetuil, ellecroyaiscroyaiscroyait/kʁwa.jɛ//kʁwa.jɛ//kʁwa.jɛ/nousvousils, ellescroyionscroyiezcroyaient/kʁwaj.jɔ̃//kʁwaj.je//kʁwa.jɛ/	croyais, croyais, croyait, croyions, croyiez, croyaient	
+CROIRE	[Indicative Future]	jetuil, ellecroiraicroirascroira/kʁwa.ʁe//kʁwa.ʁa//kʁwa.ʁa/nousvousils, ellescroironscroirezcroiront/kʁwa.ʁɔ̃//kʁwa.ʁe//kʁwa.ʁɔ̃/	croirai, croiras, croira, croirons, croirez, croiront	
+CROIRE	[Indicative Conditional]	jetuil, ellecroiraiscroiraiscroirait/kʁwa.ʁɛ//kʁwa.ʁɛ//kʁwa.ʁɛ/nousvousils, ellescroirionscroiriezcroiraient/kʁwa.ʁjɔ̃//kʁwa.ʁje//kʁwa.ʁɛ/	croirais, croirais, croirait, croirions, croiriez, croiraient	
+CROIRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellecroiecroiescroie/kʁwa//kʁwa//kʁwa/que nousque vousqu'ils, qu'ellescroyionscroyiezcroient/kʁwaj.jɔ̃//kʁwaj.je//kʁwa/	croie, croies, croie, croyions, croyiez, croient	
+BOIRE	[Indicative Present]	jetuil, elleboisboisboit/bwa//bwa//bwa/nousvousils, ellesbuvonsbuvezboivent/by.vɔ̃//by.ve//bwav/	bois, bois, boit, buvons, buvez, boivent	
+BOIRE	[Indicative Imperfect]	jetuil, ellebuvaisbuvaisbuvait/by.vɛ//by.vɛ//by.vɛ/nousvousils, ellesbuvionsbuviezbuvaient/by.vjɔ̃//by.vje//by.vɛ/	buvais, buvais, buvait, buvions, buviez, buvaient	
+BOIRE	[Indicative Future]	jetuil, elleboiraiboirasboira/bwa.ʁe//bwa.ʁa//bwa.ʁa/nousvousils, ellesboironsboirezboiront/bwa.ʁɔ̃//bwa.ʁe//bwa.ʁɔ̃/	boirai, boiras, boira, boirons, boirez, boiront	
+BOIRE	[Indicative Conditional]	jetuil, elleboiraisboiraisboirait/bwa.ʁɛ//bwa.ʁɛ//bwa.ʁɛ/nousvousils, ellesboirionsboiriezboiraient/bwa.ʁjɔ̃//bwa.ʁje//bwa.ʁɛ/	boirais, boirais, boirait, boirions, boiriez, boiraient	
+BOIRE	[Subjunctive Present]	que jeque tuqu'il, qu'elleboiveboivesboive/bwav//bwav//bwav/que nousque vousqu'ils, qu'ellesbuvionsbuviezboivent/by.vjɔ̃//by.vje//bwav/	boive, boives, boive, buvions, buviez, boivent	
+DORMIR	[Indicative Present]	jetuil, elledorsdorsdort/dɔʁ//dɔʁ//dɔʁ/nousvousils, ellesdormonsdormezdorment/dɔʁ.mɔ̃//dɔʁ.me//dɔʁm/	dors, dors, dort, dormons, dormez, dorment	
+DORMIR	[Indicative Imperfect]	jetuil, elledormaisdormaisdormait/dɔʁ.mɛ//dɔʁ.mɛ//dɔʁ.mɛ/nousvousils, ellesdormionsdormiezdormaient/dɔʁ.mjɔ̃//dɔʁ.mje//dɔʁ.mɛ/	dormais, dormais, dormait, dormions, dormiez, dormaient	
+DORMIR	[Indicative Future]	jetuil, elledormiraidormirasdormira/dɔʁ.mi.ʁe//dɔʁ.mi.ʁa//dɔʁ.mi.ʁa/nousvousils, ellesdormironsdormirezdormiront/dɔʁ.mi.ʁɔ̃//dɔʁ.mi.ʁe//dɔʁ.mi.ʁɔ̃/	dormirai, dormiras, dormira, dormirons, dormirez, dormiront	
+DORMIR	[Indicative Conditional]	jetuil, elledormiraisdormiraisdormirait/dɔʁ.mi.ʁɛ//dɔʁ.mi.ʁɛ//dɔʁ.mi.ʁɛ/nousvousils, ellesdormirionsdormiriezdormiraient/dɔʁ.mi.ʁjɔ̃//dɔʁ.mi.ʁje//dɔʁ.mi.ʁɛ/	dormirais, dormirais, dormirait, dormirions, dormiriez, dormiraient	
+DORMIR	[Subjunctive Present]	que jeque tuqu'il, qu'elledormedormesdorme/dɔʁm//dɔʁm//dɔʁm/que nousque vousqu'ils, qu'ellesdormionsdormiezdorment/dɔʁ.mjɔ̃//dɔʁ.mje//dɔʁm/	dorme, dormes, dorme, dormions, dormiez, dorment	
+DEVENIR	[Indicative Present]	jetuil, elledeviensdeviensdevient/də.vjɛ̃//də.vjɛ̃//də.vjɛ̃/nousvousils, ellesdevenonsdevenezdeviennent/də.v(ə).nɔ̃//də.v(ə).ne//də.vjɛn/	deviens, deviens, devient, devenons, devenez, deviennent	
+DEVENIR	[Indicative Imperfect]	jetuil, elledevenaisdevenaisdevenait/də.v(ə).nɛ//də.v(ə).nɛ//də.v(ə).nɛ/nousvousils, ellesdevenionsdeveniezdevenaient/də.və.njɔ̃//də.və.nje//də.v(ə).nɛ/	devenais, devenais, devenait, devenions, deveniez, devenaient	
+DEVENIR	[Indicative Future]	jetuil, elledeviendraideviendrasdeviendra/də.vjɛ̃.dʁe//də.vjɛ̃.dʁa//də.vjɛ̃.dʁa/nousvousils, ellesdeviendronsdeviendrezdeviendront/də.vjɛ̃.dʁɔ̃//də.vjɛ̃.dʁe//də.vjɛ̃.dʁɔ̃/	deviendrai, deviendras, deviendra, deviendrons, deviendrez, deviendront	
+DEVENIR	[Indicative Conditional]	jetuil, elledeviendraisdeviendraisdeviendrait/də.vjɛ̃.dʁɛ//də.vjɛ̃.dʁɛ//də.vjɛ̃.dʁɛ/nousvousils, ellesdeviendrionsdeviendriezdeviendraient/də.vjɛ̃.dʁi.jɔ̃//də.vjɛ̃.dʁi.je//də.vjɛ̃.dʁɛ/	deviendrais, deviendrais, deviendrait, deviendrions, deviendriez, deviendraient	
+DEVENIR	[Subjunctive Present]	que jeque tuqu'il, qu'elledeviennedeviennesdevienne/də.vjɛn//də.vjɛn//də.vjɛn/que nousque vousqu'ils, qu'ellesdevenionsdeveniezdeviennent/də.və.njɔ̃//də.və.nje//də.vjɛn/	devienne, deviennes, devienne, devenions, deveniez, deviennent	
+DEVOIR	[Indicative Present]	jetuil, elledoisdoisdoit/dwa//dwa//dwa/nousvousils, ellesdevonsdevezdoivent/də.vɔ̃//də.ve//dwav/	dois, dois, doit, devons, devez, doivent	
+DEVOIR	[Indicative Imperfect]	jetuil, elledevaisdevaisdevait/də.vɛ//də.vɛ//də.vɛ/nousvousils, ellesdevionsdeviezdevaient/də.vjɔ̃//də.vje//də.vɛ/	devais, devais, devait, devions, deviez, devaient	
+DEVOIR	[Indicative Future]	jetuil, elledevraidevrasdevra/də.vʁe//də.vʁa//də.vʁa/nousvousils, ellesdevronsdevrezdevront/də.vʁɔ̃//də.vʁe//də.vʁɔ̃/	devrai, devras, devra, devrons, devrez, devront	
+DEVOIR	[Indicative Conditional]	jetuil, elledevraisdevraisdevrait/də.vʁɛ//də.vʁɛ//də.vʁɛ/nousvousils, ellesdevrionsdevriezdevraient/də.vʁi.jɔ̃//də.vʁi.je//də.vʁɛ/	devrais, devrais, devrait, devrions, devriez, devraient	
+DEVOIR	[Subjunctive Present]	que jeque tuqu'il, qu'elledoivedoivesdoive/dwav//dwav//dwav/que nousque vousqu'ils, qu'ellesdevionsdeviezdoivent/də.vjɔ̃//də.vje//dwav/	doive, doives, doive, devions, deviez, doivent	
+APPRENDRE	[Indicative Present]	jetuil, elleapprendsapprendsapprend/a.pʁɑ̃//a.pʁɑ̃//a.pʁɑ̃/nousvousils, ellesapprenonsapprenezapprennent/a.pʁə.nɔ̃//a.pʁə.ne//a.pʁɛn/	apprends, apprends, apprend, apprenons, apprenez, apprennent	
+APPRENDRE	[Indicative Imperfect]	jetuil, elleapprenaisapprenaisapprenait/a.pʁə.nɛ//a.pʁə.nɛ//a.pʁə.nɛ/nousvousils, ellesapprenionsappreniezapprenaient/a.pʁə.njɔ̃//a.pʁə.nje//a.pʁə.nɛ/	apprenais, apprenais, apprenait, apprenions, appreniez, apprenaient	
+APPRENDRE	[Indicative Future]	jetuil, elleapprendraiapprendrasapprendra/a.pʁɑ̃.dʁe//a.pʁɑ̃.dʁa//a.pʁɑ̃.dʁa/nousvousils, ellesapprendronsapprendrezapprendront/a.pʁɑ̃.dʁɔ̃//a.pʁɑ̃.dʁe//a.pʁɑ̃.dʁɔ̃/	apprendrai, apprendras, apprendra, apprendrons, apprendrez, apprendront	
+APPRENDRE	[Indicative Conditional]	jetuil, elleapprendraisapprendraisapprendrait/a.pʁɑ̃.dʁɛ//a.pʁɑ̃.dʁɛ//a.pʁɑ̃.dʁɛ/nousvousils, ellesapprendrionsapprendriezapprendraient/a.pʁɑ̃.dʁi.jɔ̃//a.pʁɑ̃.dʁi.je//a.pʁɑ̃.dʁɛ/	apprendrais, apprendrais, apprendrait, apprendrions, apprendriez, apprendraient	
+APPRENDRE	[Subjunctive Present]	que jeque tuqu'il, qu'elleapprenneapprennesapprenne/a.pʁɛn//a.pʁɛn//a.pʁɛn/que nousque vousqu'ils, qu'ellesapprenionsappreniezapprennent/a.pʁə.njɔ̃//a.pʁə.nje//a.pʁɛn/	apprenne, apprennes, apprenne, apprenions, appreniez, apprennent	
+REVENIR	[Indicative Present]	jetuil, ellereviensreviensrevient/ʁə.vjɛ̃//ʁə.vjɛ̃//ʁə.vjɛ̃/nousvousils, ellesrevenonsrevenezreviennent/ʁə.v(ə).nɔ̃//ʁə.v(ə).ne//ʁə.vjɛn/	reviens, reviens, revient, revenons, revenez, reviennent	
+REVENIR	[Indicative Imperfect]	jetuil, ellerevenaisrevenaisrevenait/ʁə.v(ə).nɛ//ʁə.v(ə).nɛ//ʁə.v(ə).nɛ/nousvousils, ellesrevenionsreveniezrevenaient/ʁə.və.njɔ̃//ʁə.və.nje//ʁə.v(ə).nɛ/	revenais, revenais, revenait, revenions, reveniez, revenaient	
+REVENIR	[Indicative Future]	jetuil, ellereviendraireviendrasreviendra/ʁə.vjɛ̃.dʁe//ʁə.vjɛ̃.dʁa//ʁə.vjɛ̃.dʁa/nousvousils, ellesreviendronsreviendrezreviendront/ʁə.vjɛ̃.dʁɔ̃//ʁə.vjɛ̃.dʁe//ʁə.vjɛ̃.dʁɔ̃/	reviendrai, reviendras, reviendra, reviendrons, reviendrez, reviendront	
+REVENIR	[Indicative Conditional]	jetuil, ellereviendraisreviendraisreviendrait/ʁə.vjɛ̃.dʁɛ//ʁə.vjɛ̃.dʁɛ//ʁə.vjɛ̃.dʁɛ/nousvousils, ellesreviendrionsreviendriezreviendraient/ʁə.vjɛ̃.dʁi.jɔ̃//ʁə.vjɛ̃.dʁi.je//ʁə.vjɛ̃.dʁɛ/	reviendrais, reviendrais, reviendrait, reviendrions, reviendriez, reviendraient	
+REVENIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellereviennereviennesrevienne/ʁə.vjɛn//ʁə.vjɛn//ʁə.vjɛn/que nousque vousqu'ils, qu'ellesrevenionsreveniezreviennent/ʁə.və.njɔ̃//ʁə.və.nje//ʁə.vjɛn/	revienne, reviennes, revienne, revenions, reveniez, reviennent	
+BATTRE	[Indicative Present]	jetuil, ellebatsbatsbat/ba//ba//ba/nousvousils, ellesbattonsbattezbattent/ba.tɔ̃//ba.te//bat/	bats, bats, bat, battons, battez, battent	
+BATTRE	[Indicative Imperfect]	jetuil, ellebattaisbattaisbattait/ba.tɛ//ba.tɛ//ba.tɛ/nousvousils, ellesbattionsbattiezbattaient/ba.tjɔ̃//ba.tje//ba.tɛ/	battais, battais, battait, battions, battiez, battaient	
+BATTRE	[Indicative Future]	jetuil, ellebattraibattrasbattra/ba.tʁe//ba.tʁa//ba.tʁa/nousvousils, ellesbattronsbattrezbattront/ba.tʁɔ̃//ba.tʁe//ba.tʁɔ̃/	battrai, battras, battra, battrons, battrez, battront	
+BATTRE	[Indicative Conditional]	jetuil, ellebattraisbattraisbattrait/ba.tʁɛ//ba.tʁɛ//ba.tʁɛ/nousvousils, ellesbattrionsbattriezbattraient/ba.tʁi.jɔ̃//ba.tʁi.je//ba.tʁɛ/	battrais, battrais, battrait, battrions, battriez, battraient	
+BATTRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellebattebattesbatte/bat//bat//bat/que nousque vousqu'ils, qu'ellesbattionsbattiezbattent/ba.tjɔ̃//ba.tje//bat/	batte, battes, batte, battions, battiez, battent	
+FOUTRE	[Indicative Present]	jetuil, ellefousfousfout/fu//fu//fu/nousvousils, ellesfoutonsfoutezfoutent/fu.tɔ̃//fu.te//fut/	fous, fous, fout, foutons, foutez, foutent	
+FOUTRE	[Indicative Imperfect]	jetuil, ellefoutaisfoutaisfoutait/fu.tɛ//fu.tɛ//fu.tɛ/nousvousils, ellesfoutionsfoutiezfoutaient/fu.tjɔ̃//fu.tje//fu.tɛ/	foutais, foutais, foutait, foutions, foutiez, foutaient	
+FOUTRE	[Indicative Future]	jetuil, ellefoutraifoutrasfoutra/fu.tʁe//fu.tʁa//fu.tʁa/nousvousils, ellesfoutronsfoutrezfoutront/fu.tʁɔ̃//fu.tʁe//fu.tʁɔ̃/	foutrai, foutras, foutra, foutrons, foutrez, foutront	
+FOUTRE	[Indicative Conditional]	jetuil, ellefoutraisfoutraisfoutrait/fu.tʁɛ//fu.tʁɛ//fu.tʁɛ/nousvousils, ellesfoutrionsfoutriezfoutraient/fu.tʁi.jɔ̃//fu.tʁi.je//fu.tʁɛ/	foutrais, foutrais, foutrait, foutrions, foutriez, foutraient	
+FOUTRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellefoutefoutesfoute/fut//fut//fut/que nousque vousqu'ils, qu'ellesfoutionsfoutiezfoutent/fu.tjɔ̃//fu.tje//fut/	foute, foutes, foute, foutions, foutiez, foutent	
+LIRE	[Indicative Present]	jetuil, ellelislislit/li//li//li/nousvousils, elleslisonslisezlisent/li.zɔ̃//li.ze//liz/	lis, lis, lit, lisons, lisez, lisent	
+LIRE	[Indicative Imperfect]	jetuil, ellelisaislisaislisait/li.zɛ//li.zɛ//li.zɛ/nousvousils, elleslisionslisiezlisaient/li.zjɔ̃//li.zje//li.zɛ/	lisais, lisais, lisait, lisions, lisiez, lisaient	
+LIRE	[Indicative Future]	jetuil, ellelirailiraslira/li.ʁe//li.ʁa//li.ʁa/nousvousils, elleslironslirezliront/li.ʁɔ̃//li.ʁe//li.ʁɔ̃/	lirai, liras, lira, lirons, lirez, liront	
+LIRE	[Indicative Conditional]	jetuil, elleliraisliraislirait/li.ʁɛ//li.ʁɛ//li.ʁɛ/nousvousils, elleslirionsliriezliraient/li.ʁjɔ̃//li.ʁje//li.ʁɛ/	lirais, lirais, lirait, lirions, liriez, liraient	
+LIRE	[Subjunctive Present]	que jeque tuqu'il, qu'elleliseliseslise/liz//liz//liz/que nousque vousqu'ils, qu'elleslisionslisiezlisent/li.zjɔ̃//li.zje//liz/	lise, lises, lise, lisions, lisiez, lisent	
+TENIR	[Indicative Present]	jetuil, elletienstienstient/tjɛ̃//tjɛ̃//tjɛ̃/nousvousils, ellestenonsteneztiennent/tə.nɔ̃//tə.ne//tjɛn/	tiens, tiens, tient, tenons, tenez, tiennent	
+TENIR	[Indicative Imperfect]	jetuil, elletenaistenaistenait/tə.nɛ//tə.nɛ//tə.nɛ/nousvousils, ellestenionstenieztenaient/tə.njɔ̃//tə.nje//tə.nɛ/	tenais, tenais, tenait, tenions, teniez, tenaient	
+TENIR	[Indicative Future]	jetuil, elletiendraitiendrastiendra/tjɛ̃.dʁe//tjɛ̃.dʁa//tjɛ̃.dʁa/nousvousils, ellestiendronstiendreztiendront/tjɛ̃.dʁɔ̃//tjɛ̃.dʁe//tjɛ̃.dʁɔ̃/	tiendrai, tiendras, tiendra, tiendrons, tiendrez, tiendront	
+TENIR	[Indicative Conditional]	jetuil, elletiendraistiendraistiendrait/tjɛ̃.dʁɛ//tjɛ̃.dʁɛ//tjɛ̃.dʁɛ/nousvousils, ellestiendrionstiendrieztiendraient/tjɛ̃.dʁi.jɔ̃//tjɛ̃.dʁi.je//tjɛ̃.dʁɛ/	tiendrais, tiendrais, tiendrait, tiendrions, tiendriez, tiendraient	
+TENIR	[Subjunctive Present]	que jeque tuqu'il, qu'elletiennetiennestienne/tjɛn//tjɛn//tjɛn/que nousque vousqu'ils, qu'ellestenionstenieztiennent/tə.njɔ̃//tə.nje//tjɛn/	tienne, tiennes, tienne, tenions, teniez, tiennent	
+ÉCRIRE	[Indicative Present]	jetuil, elleécrisécrisécrit/e.kʁi//e.kʁi//e.kʁi/nousvousils, ellesécrivonsécrivezécrivent/e.kʁi.vɔ̃//e.kʁi.ve//e.kʁiv/	écris, écris, écrit, écrivons, écrivez, écrivent	
+ÉCRIRE	[Indicative Imperfect]	jetuil, elleécrivaisécrivaisécrivait/e.kʁi.vɛ//e.kʁi.vɛ//e.kʁi.vɛ/nousvousils, ellesécrivionsécriviezécrivaient/e.kʁi.vjɔ̃//e.kʁi.vje//e.kʁi.vɛ/	écrivais, écrivais, écrivait, écrivions, écriviez, écrivaient	
+ÉCRIRE	[Indicative Future]	jetuil, elleécriraiécrirasécrira/e.kʁi.ʁe//e.kʁi.ʁa//e.kʁi.ʁa/nousvousils, ellesécrironsécrirezécriront/e.kʁi.ʁɔ̃//e.kʁi.ʁe//e.kʁi.ʁɔ̃/	écrirai, écriras, écrira, écrirons, écrirez, écriront	
+ÉCRIRE	[Indicative Conditional]	jetuil, elleécriraisécriraisécrirait/e.kʁi.ʁɛ//e.kʁi.ʁɛ//e.kʁi.ʁɛ/nousvousils, ellesécririonsécririezécriraient/e.kʁi.ʁjɔ̃//e.kʁi.ʁje//e.kʁi.ʁɛ/	écrirais, écrirais, écrirait, écririons, écririez, écriraient	
+ÉCRIRE	[Subjunctive Present]	que jeque tuqu'il, qu'elleécriveécrivesécrive/e.kʁiv//e.kʁiv//e.kʁiv/que nousque vousqu'ils, qu'ellesécrivionsécriviezécrivent/e.kʁi.vjɔ̃//e.kʁi.vje//e.kʁiv/	écrive, écrives, écrive, écrivions, écriviez, écrivent	
+RIRE	[Indicative Present]	jetuil, ellerisrisrit/ʁi//ʁi//ʁi/nousvousils, ellesrionsriezrient/ʁjɔ̃//ʁje//ʁi/	ris, ris, rit, rions, riez, rient	
+RIRE	[Indicative Imperfect]	jetuil, elleriaisriaisriait/ʁjɛ//ʁjɛ//ʁjɛ/nousvousils, ellesriionsriiezriaient/ʁi.jɔ̃//ʁi.je//ʁjɛ/	riais, riais, riait, riions, riiez, riaient	
+RIRE	[Indicative Future]	jetuil, ellerirairirasrira/ʁi.ʁe//ʁi.ʁa//ʁi.ʁa/nousvousils, ellesrironsrirezriront/ʁi.ʁɔ̃//ʁi.ʁe//ʁi.ʁɔ̃/	rirai, riras, rira, rirons, rirez, riront	
+RIRE	[Indicative Conditional]	jetuil, elleriraisriraisrirait/ʁi.ʁɛ//ʁi.ʁɛ//ʁi.ʁɛ/nousvousils, ellesririonsririezriraient/ʁi.ʁjɔ̃//ʁi.ʁje//ʁi.ʁɛ/	rirais, rirais, rirait, ririons, ririez, riraient	
+RIRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellerieriesrie/ʁi//ʁi//ʁi/que nousque vousqu'ils, qu'ellesriionsriiezrient/ʁi.jɔ̃//ʁi.je//ʁi/	rie, ries, rie, riions, riiez, rient	
+OUVRIR	[Indicative Present]	jetuil, elleouvreouvresouvre/uvʁ//uvʁ//uvʁ/nousvousils, ellesouvronsouvrezouvrent/u.vʁɔ̃//u.vʁe//uvʁ/	ouvre, ouvres, ouvre, ouvrons, ouvrez, ouvrent	
+OUVRIR	[Indicative Imperfect]	jetuil, elleouvraisouvraisouvrait/u.vʁɛ//u.vʁɛ//u.vʁɛ/nousvousils, ellesouvrionsouvriezouvraient/u.vʁi.jɔ̃//u.vʁi.je//u.vʁɛ/	ouvrais, ouvrais, ouvrait, ouvrions, ouvriez, ouvraient	
+OUVRIR	[Indicative Future]	jetuil, elleouvriraiouvrirasouvrira/u.vʁi.ʁe//u.vʁi.ʁa//u.vʁi.ʁa/nousvousils, ellesouvrironsouvrirezouvriront/u.vʁi.ʁɔ̃//u.vʁi.ʁe//u.vʁi.ʁɔ̃/	ouvrirai, ouvriras, ouvrira, ouvrirons, ouvrirez, ouvriront	
+OUVRIR	[Indicative Conditional]	jetuil, elleouvriraisouvriraisouvrirait/u.vʁi.ʁɛ//u.vʁi.ʁɛ//u.vʁi.ʁɛ/nousvousils, ellesouvririonsouvririezouvriraient/u.vʁi.ʁjɔ̃//u.vʁi.ʁje//u.vʁi.ʁɛ/	ouvrirais, ouvrirais, ouvrirait, ouvririons, ouvririez, ouvriraient	
+OUVRIR	[Subjunctive Present]	que jeque tuqu'il, qu'elleouvreouvresouvre/uvʁ//uvʁ//uvʁ/que nousque vousqu'ils, qu'ellesouvrionsouvriezouvrent/u.vʁi.jɔ̃//u.vʁi.je//uvʁ/	ouvre, ouvres, ouvre, ouvrions, ouvriez, ouvrent	
+SERVIR	[Indicative Present]	jetuil, ellesersserssert/sɛʁ//sɛʁ//sɛʁ/nousvousils, ellesservonsservezservent/sɛʁ.vɔ̃//sɛʁ.ve//sɛʁv/	sers, sers, sert, servons, servez, servent	
+SERVIR	[Indicative Imperfect]	jetuil, elleservaisservaisservait/sɛʁ.vɛ//sɛʁ.vɛ//sɛʁ.vɛ/nousvousils, ellesservionsserviezservaient/sɛʁ.vjɔ̃//sɛʁ.vje//sɛʁ.vɛ/	servais, servais, servait, servions, serviez, servaient	
+SERVIR	[Indicative Future]	jetuil, elleserviraiservirasservira/sɛʁ.vi.ʁe//sɛʁ.vi.ʁa//sɛʁ.vi.ʁa/nousvousils, ellesservironsservirezserviront/sɛʁ.vi.ʁɔ̃//sɛʁ.vi.ʁe//sɛʁ.vi.ʁɔ̃/	servirai, serviras, servira, servirons, servirez, serviront	
+SERVIR	[Indicative Conditional]	jetuil, elleserviraisserviraisservirait/sɛʁ.vi.ʁɛ//sɛʁ.vi.ʁɛ//sɛʁ.vi.ʁɛ/nousvousils, ellesservirionsserviriezserviraient/sɛʁ.vi.ʁjɔ̃//sɛʁ.vi.ʁje//sɛʁ.vi.ʁɛ/	servirais, servirais, servirait, servirions, serviriez, serviraient	
+SERVIR	[Subjunctive Present]	que jeque tuqu'il, qu'elleserveservesserve/sɛʁv//sɛʁv//sɛʁv/que nousque vousqu'ils, qu'ellesservionsserviezservent/sɛʁ.vjɔ̃//sɛʁ.vje//sɛʁv/	serve, serves, serve, servions, serviez, servent	
+VOULOIR	[Indicative Present]	jetuil, elleveuxveuxveut/vø//vø//vø/nousvousils, ellesvoulonsvoulezveulent/vu.lɔ̃//vu.le//vœl/	veux, veux, veut, voulons, voulez, veulent	
+VOULOIR	[Indicative Imperfect]	jetuil, ellevoulaisvoulaisvoulait/vu.lɛ//vu.lɛ//vu.lɛ/nousvousils, ellesvoulionsvouliezvoulaient/vu.ljɔ̃//vu.lje//vu.lɛ/	voulais, voulais, voulait, voulions, vouliez, voulaient	
+VOULOIR	[Indicative Future]	jetuil, ellevoudraivoudrasvoudra/vu.dʁe//vu.dʁa//vu.dʁa/nousvousils, ellesvoudronsvoudrezvoudront/vu.dʁɔ̃//vu.dʁe//vu.dʁɔ̃/	voudrai, voudras, voudra, voudrons, voudrez, voudront	
+VOULOIR	[Indicative Conditional]	jetuil, ellevoudraisvoudraisvoudrait/vu.dʁɛ//vu.dʁɛ//vu.dʁɛ/nousvousils, ellesvoudrionsvoudriezvoudraient/vu.dʁi.jɔ̃//vu.dʁi.je//vu.dʁɛ/	voudrais, voudrais, voudrait, voudrions, voudriez, voudraient	
+VOULOIR	[Subjunctive Present]	que jeque tuqu'il, qu'elleveuilleveuillesveuille/vœj//vœj//vœj/que nousque vousqu'ils, qu'ellesvoulionsvouliezveuillent/vu.ljɔ̃//vu.lje//vœj/	veuille, veuilles, veuille, voulions, vouliez, veuillent	
+ASSEOIR	[Indicative Present]	jetuil, elleassoisassiedsassoisassoyonsasseyonsassoyeznousvousils, ellesassiedsassoitassiedasseyezassoientasseyent	assois, assieds, assois, assieds, assoit, assied	
+ASSEOIR	[Indicative Imperfect]	jetuil, elleassoyaisasseyaisassoyaisassoyionsasseyionsassoyieznousvousils, ellesasseyaisassoyaitasseyaitasseyiezassoyaientasseyaient	assoyais, asseyais, assoyais, asseyais, assoyait, asseyait	
+ASSEOIR	[Indicative Future]	jetuil, elleassoiraiassiéraiassoirasassoironsassiéronsassoireznousvousils, ellesassiérasassoiraassiéraassiérezassoirontassiéront	assoirai, assiérai, assoiras, assiéras, assoira, assiéra	
+ASSEOIR	[Indicative Conditional]	jetuil, elleassoiraisassiéraisassoiraisassoirionsassiérionsassoirieznousvousils, ellesassiéraisassoiraitassiéraitassiériezassoiraientassiéraient	assoirais, assiérais, assoirais, assiérais, assoirait, assiérait	
+ASSEOIR	[Subjunctive Present]	que jeque tuqu'il, qu'elleassoieasseyeassoiesassoyionsasseyionsassoyiezque nousque vousqu'ils, qu'ellesasseyesassoieasseyeasseyiezassoientasseyent	assoie, asseye, assoies, asseyes, assoie, asseye	
+CONDUIRE	[Indicative Present]	jetuil, elleconduisconduisconduit/kɔ̃.dɥi//kɔ̃.dɥi//kɔ̃.dɥi/nousvousils, ellesconduisonsconduisezconduisent/kɔ̃.dɥi.zɔ̃//kɔ̃.dɥi.ze//kɔ̃.dɥiz/	conduis, conduis, conduit, conduisons, conduisez, conduisent	
+CONDUIRE	[Indicative Imperfect]	jetuil, elleconduisaisconduisaisconduisait/kɔ̃.dɥi.zɛ//kɔ̃.dɥi.zɛ//kɔ̃.dɥi.zɛ/nousvousils, ellesconduisionsconduisiezconduisaient/kɔ̃.dɥi.zjɔ̃//kɔ̃.dɥi.zje//kɔ̃.dɥi.zɛ/	conduisais, conduisais, conduisait, conduisions, conduisiez, conduisaient	
+CONDUIRE	[Indicative Future]	jetuil, elleconduiraiconduirasconduira/kɔ̃.dɥi.ʁe//kɔ̃.dɥi.ʁa//kɔ̃.dɥi.ʁa/nousvousils, ellesconduironsconduirezconduiront/kɔ̃.dɥi.ʁɔ̃//kɔ̃.dɥi.ʁe//kɔ̃.dɥi.ʁɔ̃/	conduirai, conduiras, conduira, conduirons, conduirez, conduiront	
+CONDUIRE	[Indicative Conditional]	jetuil, elleconduiraisconduiraisconduirait/kɔ̃.dɥi.ʁɛ//kɔ̃.dɥi.ʁɛ//kɔ̃.dɥi.ʁɛ/nousvousils, ellesconduirionsconduiriezconduiraient/kɔ̃.dɥi.ʁjɔ̃//kɔ̃.dɥi.ʁje//kɔ̃.dɥi.ʁɛ/	conduirais, conduirais, conduirait, conduirions, conduiriez, conduiraient	
+CONDUIRE	[Subjunctive Present]	que jeque tuqu'il, qu'elleconduiseconduisesconduise/kɔ̃.dɥiz//kɔ̃.dɥiz//kɔ̃.dɥiz/que nousque vousqu'ils, qu'ellesconduisionsconduisiezconduisent/kɔ̃.dɥi.zjɔ̃//kɔ̃.dɥi.zje//kɔ̃.dɥiz/	conduise, conduises, conduise, conduisions, conduisiez, conduisent	
+SENTIR	[Indicative Present]	jetuil, ellesenssenssent/sɑ̃//sɑ̃//sɑ̃/nousvousils, ellessentonssentezsentent/sɑ̃.tɔ̃//sɑ̃.te//sɑ̃t/	sens, sens, sent, sentons, sentez, sentent	
+SENTIR	[Indicative Imperfect]	jetuil, ellesentaissentaissentait/sɑ̃.tɛ//sɑ̃.tɛ//sɑ̃.tɛ/nousvousils, ellessentionssentiezsentaient/sɑ̃.tjɔ̃//sɑ̃.tje//sɑ̃.tɛ/	sentais, sentais, sentait, sentions, sentiez, sentaient	
+SENTIR	[Indicative Future]	jetuil, ellesentiraisentirassentira/sɑ̃.ti.ʁe//sɑ̃.ti.ʁa//sɑ̃.ti.ʁa/nousvousils, ellessentironssentirezsentiront/sɑ̃.ti.ʁɔ̃//sɑ̃.ti.ʁe//sɑ̃.ti.ʁɔ̃/	sentirai, sentiras, sentira, sentirons, sentirez, sentiront	
+SENTIR	[Indicative Conditional]	jetuil, ellesentiraissentiraissentirait/sɑ̃.ti.ʁɛ//sɑ̃.ti.ʁɛ//sɑ̃.ti.ʁɛ/nousvousils, ellessentirionssentiriezsentiraient/sɑ̃.ti.ʁjɔ̃//sɑ̃.ti.ʁje//sɑ̃.ti.ʁɛ/	sentirais, sentirais, sentirait, sentirions, sentiriez, sentiraient	
+SENTIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellesentesentessente/sɑ̃t//sɑ̃t//sɑ̃t/que nousque vousqu'ils, qu'ellessentionssentiezsentent/sɑ̃.tjɔ̃//sɑ̃.tje//sɑ̃t/	sente, sentes, sente, sentions, sentiez, sentent	
+SOUVENIR	[Indicative Present]	jetuil, ellesouvienssouvienssouvient/mə su.vjɛ̃//tə su.vjɛ̃//sə su.vjɛ̃/nousvousils, ellessouvenonssouvenezsouviennent/nu suv.nɔ̃//vu suv.ne//sə su.vjɛn/	souviens, souviens, souvient, souvenons, souvenez, souviennent	
+SOUVENIR	[Indicative Imperfect]	jetuil, ellesouvenaissouvenaissouvenait/mə suv.nɛ//tə suv.nɛ//sə suv.nɛ/nousvousils, ellessouvenionssouveniezsouvenaient/nu su.və.njɔ̃//vu su.və.nje//sə suv.nɛ/	souvenais, souvenais, souvenait, souvenions, souveniez, souvenaient	
+SOUVENIR	[Indicative Future]	jetuil, ellesouviendraisouviendrassouviendra/mə su.vjɛ̃.dʁe//tə su.vjɛ̃.dʁa//sə su.vjɛ̃.dʁa/nousvousils, ellessouviendronssouviendrezsouviendront/nu su.vjɛ̃.dʁɔ̃//vu su.vjɛ̃.dʁe//sə su.vjɛ̃.dʁɔ̃/	souviendrai, souviendras, souviendra, souviendrons, souviendrez, souviendront	
+SOUVENIR	[Indicative Conditional]	jetuil, ellesouviendraissouviendraissouviendrait/mə su.vjɛ̃.dʁɛ//tə su.vjɛ̃.dʁɛ//sə su.vjɛ̃.dʁɛ/nousvousils, ellessouviendrionssouviendriezsouviendraient/nu su.vjɛ̃.dʁi.jɔ̃//vu su.vjɛ̃.dʁi.je//sə su.vjɛ̃.dʁɛ/	souviendrais, souviendrais, souviendrait, souviendrions, souviendriez, souviendraient	
+SOUVENIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellesouviennesouviennessouvienne/mə su.vjɛn//tə su.vjɛn//sə su.vjɛn/que nousque vousqu'ils, qu'ellessouvenionssouveniezsouviennent/nu su.və.njɔ̃//vu su.və.nje//sə su.vjɛn/	souvienne, souviennes, souvienne, souvenions, souveniez, souviennent	
+REMETTRE	[Indicative Present]	jetuil, elleremetsremetsremet/ʁə.mɛ//ʁə.mɛ//ʁə.mɛ/nousvousils, ellesremettonsremettezremettent/ʁə.mɛ.tɔ̃//ʁə.mɛ.te//ʁə.mɛt/	remets, remets, remet, remettons, remettez, remettent	
+REMETTRE	[Indicative Imperfect]	jetuil, elleremettaisremettaisremettait/ʁə.mɛ.tɛ//ʁə.mɛ.tɛ//ʁə.mɛ.tɛ/nousvousils, ellesremettionsremettiezremettaient/ʁə.mɛ.tjɔ̃//ʁə.mɛ.tje//ʁə.mɛ.tɛ/	remettais, remettais, remettait, remettions, remettiez, remettaient	
+REMETTRE	[Indicative Future]	jetuil, elleremettrairemettrasremettra/ʁə.mɛ.tʁe//ʁə.mɛ.tʁa//ʁə.mɛ.tʁa/nousvousils, ellesremettronsremettrezremettront/ʁə.mɛ.tʁɔ̃//ʁə.mɛ.tʁe//ʁə.mɛ.tʁɔ̃/	remettrai, remettras, remettra, remettrons, remettrez, remettront	
+REMETTRE	[Indicative Conditional]	jetuil, elleremettraisremettraisremettrait/ʁə.mɛ.tʁɛ//ʁə.mɛ.tʁɛ//ʁə.mɛ.tʁɛ/nousvousils, ellesremettrionsremettriezremettraient/ʁə.mɛ.tʁi.jɔ̃//ʁə.mɛ.tʁi.je//ʁə.mɛ.tʁɛ/	remettrais, remettrais, remettrait, remettrions, remettriez, remettraient	
+REMETTRE	[Subjunctive Present]	que jeque tuqu'il, qu'elleremetteremettesremette/ʁə.mɛt//ʁə.mɛt//ʁə.mɛt/que nousque vousqu'ils, qu'ellesremettionsremettiezremettent/ʁə.mɛ.tjɔ̃//ʁə.mɛ.tje//ʁə.mɛt/	remette, remettes, remette, remettions, remettiez, remettent	
+OBTENIR	[Indicative Present]	jetuil, elleobtiensobtiensobtient/ɔp.tjɛ̃//ɔp.tjɛ̃//ɔp.tjɛ̃/nousvousils, ellesobtenonsobtenezobtiennent/ɔp.tə.nɔ̃//ɔp.tə.ne//ɔp.tjɛn/	obtiens, obtiens, obtient, obtenons, obtenez, obtiennent	
+OBTENIR	[Indicative Imperfect]	jetuil, elleobtenaisobtenaisobtenait/ɔp.tə.nɛ//ɔp.tə.nɛ//ɔp.tə.nɛ/nousvousils, ellesobtenionsobteniezobtenaient/ɔp.tə.njɔ̃//ɔp.tə.nje//ɔp.tə.nɛ/	obtenais, obtenais, obtenait, obtenions, obteniez, obtenaient	
+OBTENIR	[Indicative Future]	jetuil, elleobtiendraiobtiendrasobtiendra/ɔp.tjɛ̃.dʁe//ɔp.tjɛ̃.dʁa//ɔp.tjɛ̃.dʁa/nousvousils, ellesobtiendronsobtiendrezobtiendront/ɔp.tjɛ̃.dʁɔ̃//ɔp.tjɛ̃.dʁe//ɔp.tjɛ̃.dʁɔ̃/	obtiendrai, obtiendras, obtiendra, obtiendrons, obtiendrez, obtiendront	
+OBTENIR	[Indicative Conditional]	jetuil, elleobtiendraisobtiendraisobtiendrait/ɔp.tjɛ̃.dʁɛ//ɔp.tjɛ̃.dʁɛ//ɔp.tjɛ̃.dʁɛ/nousvousils, ellesobtiendrionsobtiendriezobtiendraient/ɔp.tjɛ̃.dʁi.jɔ̃//ɔp.tjɛ̃.dʁi.je//ɔp.tjɛ̃.dʁɛ/	obtiendrais, obtiendrais, obtiendrait, obtiendrions, obtiendriez, obtiendraient	
+OBTENIR	[Subjunctive Present]	que jeque tuqu'il, qu'elleobtienneobtiennesobtienne/ɔp.tjɛn//ɔp.tjɛn//ɔp.tjɛn/que nousque vousqu'ils, qu'ellesobtenionsobteniezobtiennent/ɔp.tə.njɔ̃//ɔp.tə.nje//ɔp.tjɛn/	obtienne, obtiennes, obtienne, obtenions, obteniez, obtiennent	
+RECEVOIR	[Indicative Present]	jetuil, ellereçoisreçoisreçoit/ʁə.swa//ʁə.swa//ʁə.swa/nousvousils, ellesrecevonsrecevezreçoivent/ʁə.s(ə).vɔ̃//ʁə.s(ə).ve//ʁə.swav/	reçois, reçois, reçoit, recevons, recevez, reçoivent	
+RECEVOIR	[Indicative Imperfect]	jetuil, ellerecevaisrecevaisrecevait/ʁə.s(ə).vɛ//ʁə.s(ə).vɛ//ʁə.s(ə).vɛ/nousvousils, ellesrecevionsreceviezrecevaient/ʁə.sə.vjɔ̃//ʁə.sə.vje//ʁə.s(ə).vɛ/	recevais, recevais, recevait, recevions, receviez, recevaient	
+RECEVOIR	[Indicative Future]	jetuil, ellerecevrairecevrasrecevra/ʁə.sə.vʁe//ʁə.sə.vʁa//ʁə.sə.vʁa/nousvousils, ellesrecevronsrecevrezrecevront/ʁə.sə.vʁɔ̃//ʁə.sə.vʁe//ʁə.sə.vʁɔ̃/	recevrai, recevras, recevra, recevrons, recevrez, recevront	
+RECEVOIR	[Indicative Conditional]	jetuil, ellerecevraisrecevraisrecevrait/ʁə.sə.vʁɛ//ʁə.sə.vʁɛ//ʁə.sə.vʁɛ/nousvousils, ellesrecevrionsrecevriezrecevraient/ʁə.sə.vʁi.jɔ̃//ʁə.sə.vʁi.je//ʁə.sə.vʁɛ/	recevrais, recevrais, recevrait, recevrions, recevriez, recevraient	
+RECEVOIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellereçoivereçoivesreçoive/ʁə.swav//ʁə.swav//ʁə.swav/que nousque vousqu'ils, qu'ellesrecevionsreceviezreçoivent/ʁə.sə.vjɔ̃//ʁə.sə.vje//ʁə.swav/	reçoive, reçoives, reçoive, recevions, receviez, reçoivent	
+REPRENDRE	[Indicative Present]	jetuil, ellereprendsreprendsreprend/ʁə.pʁɑ̃//ʁə.pʁɑ̃//ʁə.pʁɑ̃/nousvousils, ellesreprenonsreprenezreprennent/ʁə.pʁə.nɔ̃//ʁə.pʁə.ne//ʁə.pʁɛn/	reprends, reprends, reprend, reprenons, reprenez, reprennent	
+REPRENDRE	[Indicative Imperfect]	jetuil, ellereprenaisreprenaisreprenait/ʁə.pʁə.nɛ//ʁə.pʁə.nɛ//ʁə.pʁə.nɛ/nousvousils, ellesreprenionsrepreniezreprenaient/ʁə.pʁə.njɔ̃//ʁə.pʁə.nje//ʁə.pʁə.nɛ/	reprenais, reprenais, reprenait, reprenions, repreniez, reprenaient	
+REPRENDRE	[Indicative Future]	jetuil, ellereprendraireprendrasreprendra/ʁə.pʁɑ̃.dʁe//ʁə.pʁɑ̃.dʁa//ʁə.pʁɑ̃.dʁa/nousvousils, ellesreprendronsreprendrezreprendront/ʁə.pʁɑ̃.dʁɔ̃//ʁə.pʁɑ̃.dʁe//ʁə.pʁɑ̃.dʁɔ̃/	reprendrai, reprendras, reprendra, reprendrons, reprendrez, reprendront	
+REPRENDRE	[Indicative Conditional]	jetuil, ellereprendraisreprendraisreprendrait/ʁə.pʁɑ̃.dʁɛ//ʁə.pʁɑ̃.dʁɛ//ʁə.pʁɑ̃.dʁɛ/nousvousils, ellesreprendrionsreprendriezreprendraient/ʁə.pʁɑ̃.dʁi.jɔ̃//ʁə.pʁɑ̃.dʁi.je//ʁə.pʁɑ̃.dʁɛ/	reprendrais, reprendrais, reprendrait, reprendrions, reprendriez, reprendraient	
+REPRENDRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellereprennereprennesreprenne/ʁə.pʁɛn//ʁə.pʁɛn//ʁə.pʁɛn/que nousque vousqu'ils, qu'ellesreprenionsrepreniezreprennent/ʁə.pʁə.njɔ̃//ʁə.pʁə.nje//ʁə.pʁɛn/	reprenne, reprennes, reprenne, reprenions, repreniez, reprennent	
+JOINDRE	[Indicative Present]	jetuil, ellejoinsjoinsjoint/ʒwɛ̃//ʒwɛ̃//ʒwɛ̃/nousvousils, ellesjoignonsjoignezjoignent/ʒwa.ɲɔ̃//ʒwa.ɲe//ʒwaɲ/	joins, joins, joint, joignons, joignez, joignent	
+JOINDRE	[Indicative Imperfect]	jetuil, ellejoignaisjoignaisjoignait/ʒwa.ɲɛ//ʒwa.ɲɛ//ʒwa.ɲɛ/nousvousils, ellesjoignionsjoigniezjoignaient/ʒwa.ɲjɔ̃//ʒwa.ɲje//ʒwa.ɲɛ/	joignais, joignais, joignait, joignions, joigniez, joignaient	
+JOINDRE	[Indicative Future]	jetuil, ellejoindraijoindrasjoindra/ʒwɛ̃.dʁe//ʒwɛ̃.dʁa//ʒwɛ̃.dʁa/nousvousils, ellesjoindronsjoindrezjoindront/ʒwɛ̃.dʁɔ̃//ʒwɛ̃.dʁe//ʒwɛ̃.dʁɔ̃/	joindrai, joindras, joindra, joindrons, joindrez, joindront	
+JOINDRE	[Indicative Conditional]	jetuil, ellejoindraisjoindraisjoindrait/ʒwɛ̃.dʁɛ//ʒwɛ̃.dʁɛ//ʒwɛ̃.dʁɛ/nousvousils, ellesjoindrionsjoindriezjoindraient/ʒwɛ̃.dʁi.jɔ̃//ʒwɛ̃.dʁi.je//ʒwɛ̃.dʁɛ/	joindrais, joindrais, joindrait, joindrions, joindriez, joindraient	
+JOINDRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellejoignejoignesjoigne/ʒwaɲ//ʒwaɲ//ʒwaɲ/que nousque vousqu'ils, qu'ellesjoignionsjoigniezjoignent/ʒwa.ɲjɔ̃//ʒwa.ɲje//ʒwaɲ/	joigne, joignes, joigne, joignions, joigniez, joignent	
+MENTIR	[Indicative Present]	jetuil, ellemensmensment/mɑ̃//mɑ̃//mɑ̃/nousvousils, ellesmentonsmentezmentent/mɑ̃.tɔ̃//mɑ̃.te//mɑ̃t/	mens, mens, ment, mentons, mentez, mentent	
+MENTIR	[Indicative Imperfect]	jetuil, ellementaismentaismentait/mɑ̃.tɛ//mɑ̃.tɛ//mɑ̃.tɛ/nousvousils, ellesmentionsmentiezmentaient/mɑ̃.tjɔ̃//mɑ̃.tje//mɑ̃.tɛ/	mentais, mentais, mentait, mentions, mentiez, mentaient	
+MENTIR	[Indicative Future]	jetuil, ellementiraimentirasmentira/mɑ̃.ti.ʁe//mɑ̃.ti.ʁa//mɑ̃.ti.ʁa/nousvousils, ellesmentironsmentirezmentiront/mɑ̃.ti.ʁɔ̃//mɑ̃.ti.ʁe//mɑ̃.ti.ʁɔ̃/	mentirai, mentiras, mentira, mentirons, mentirez, mentiront	
+MENTIR	[Indicative Conditional]	jetuil, ellementiraismentiraismentirait/mɑ̃.ti.ʁɛ//mɑ̃.ti.ʁɛ//mɑ̃.ti.ʁɛ/nousvousils, ellesmentirionsmentiriezmentiraient/mɑ̃.ti.ʁjɔ̃//mɑ̃.ti.ʁje//mɑ̃.ti.ʁɛ/	mentirais, mentirais, mentirait, mentirions, mentiriez, mentiraient	
+MENTIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellementementesmente/mɑ̃t//mɑ̃t//mɑ̃t/que nousque vousqu'ils, qu'ellesmentionsmentiezmentent/mɑ̃.tjɔ̃//mɑ̃.tje//mɑ̃t/	mente, mentes, mente, mentions, mentiez, mentent	
+FUIR	[Indicative Present]	jetuil, ellefuisfuisfuit/fɥi//fɥi//fɥi/nousvousils, ellesfuyonsfuyezfuient/fɥi.jɔ̃//fɥi.je//fɥi/	fuis, fuis, fuit, fuyons, fuyez, fuient	
+FUIR	[Indicative Imperfect]	jetuil, ellefuyaisfuyaisfuyait/fɥi.jɛ//fɥi.jɛ//fɥi.jɛ/nousvousils, ellesfuyionsfuyiezfuyaient/fɥij.jɔ̃//fɥij.je//fɥi.jɛ/	fuyais, fuyais, fuyait, fuyions, fuyiez, fuyaient	
+FUIR	[Indicative Future]	jetuil, ellefuiraifuirasfuira/fɥi.ʁe//fɥi.ʁa//fɥi.ʁa/nousvousils, ellesfuironsfuirezfuiront/fɥi.ʁɔ̃//fɥi.ʁe//fɥi.ʁɔ̃/	fuirai, fuiras, fuira, fuirons, fuirez, fuiront	
+FUIR	[Indicative Conditional]	jetuil, ellefuiraisfuiraisfuirait/fɥi.ʁɛ//fɥi.ʁɛ//fɥi.ʁɛ/nousvousils, ellesfuirionsfuiriezfuiraient/fɥi.ʁjɔ̃//fɥi.ʁje//fɥi.ʁɛ/	fuirais, fuirais, fuirait, fuirions, fuiriez, fuiraient	
+FUIR	[Subjunctive Present]	que jeque tuqu'il, qu'ellefuiefuiesfuie/fɥi//fɥi//fɥi/que nousque vousqu'ils, qu'ellesfuyionsfuyiezfuient/fɥij.jɔ̃//fɥij.je//fɥi/	fuie, fuies, fuie, fuyions, fuyiez, fuient	
+PERMETTRE	[Indicative Present]	jetuil, ellepermetspermetspermet/pɛʁ.mɛ//pɛʁ.mɛ//pɛʁ.mɛ/nousvousils, ellespermettonspermettezpermettent/pɛʁ.mɛ.tɔ̃//pɛʁ.mɛ.te//pɛʁ.mɛt/	permets, permets, permet, permettons, permettez, permettent	
+PERMETTRE	[Indicative Imperfect]	jetuil, ellepermettaispermettaispermettait/pɛʁ.mɛ.tɛ//pɛʁ.mɛ.tɛ//pɛʁ.mɛ.tɛ/nousvousils, ellespermettionspermettiezpermettaient/pɛʁ.mɛ.tjɔ̃//pɛʁ.mɛ.tje//pɛʁ.mɛ.tɛ/	permettais, permettais, permettait, permettions, permettiez, permettaient	
+PERMETTRE	[Indicative Future]	jetuil, ellepermettraipermettraspermettra/pɛʁ.mɛ.tʁe//pɛʁ.mɛ.tʁa//pɛʁ.mɛ.tʁa/nousvousils, ellespermettronspermettrezpermettront/pɛʁ.mɛ.tʁɔ̃//pɛʁ.mɛ.tʁe//pɛʁ.mɛ.tʁɔ̃/	permettrai, permettras, permettra, permettrons, permettrez, permettront	
+PERMETTRE	[Indicative Conditional]	jetuil, ellepermettraispermettraispermettrait/pɛʁ.mɛ.tʁɛ//pɛʁ.mɛ.tʁɛ//pɛʁ.mɛ.tʁɛ/nousvousils, ellespermettrionspermettriezpermettraient/pɛʁ.mɛ.tʁi.jɔ̃//pɛʁ.mɛ.tʁi.je//pɛʁ.mɛ.tʁɛ/	permettrais, permettrais, permettrait, permettrions, permettriez, permettraient	
+PERMETTRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellepermettepermettespermette/pɛʁ.mɛt//pɛʁ.mɛt//pɛʁ.mɛt/que nousque vousqu'ils, qu'ellespermettionspermettiezpermettent/pɛʁ.mɛ.tjɔ̃//pɛʁ.mɛ.tje//pɛʁ.mɛt/	permette, permettes, permette, permettions, permettiez, permettent	
+TAIRE	[Indicative Present]	jetuil, elletaistaistait/tɛ//tɛ//tɛ/nousvousils, ellestaisonstaiseztaisent/tɛ.zɔ̃//tɛ.ze//tɛz/	tais, tais, tait, taisons, taisez, taisent	
+TAIRE	[Indicative Imperfect]	jetuil, elletaisaistaisaistaisait/tɛ.zɛ//tɛ.zɛ//tɛ.zɛ/nousvousils, ellestaisionstaisieztaisaient/tɛ.zjɔ̃//tɛ.zje//tɛ.zɛ/	taisais, taisais, taisait, taisions, taisiez, taisaient	
+TAIRE	[Indicative Future]	jetuil, elletairaitairastaira/tɛ.ʁe//tɛ.ʁa//tɛ.ʁa/nousvousils, ellestaironstaireztairont/tɛ.ʁɔ̃//tɛ.ʁe//tɛ.ʁɔ̃/	tairai, tairas, taira, tairons, tairez, tairont	
+TAIRE	[Indicative Conditional]	jetuil, elletairaistairaistairait/tɛ.ʁɛ//tɛ.ʁɛ//tɛ.ʁɛ/nousvousils, ellestairionstairieztairaient/tɛ.ʁjɔ̃//tɛ.ʁje//tɛ.ʁɛ/	tairais, tairais, tairait, tairions, tairiez, tairaient	
+TAIRE	[Subjunctive Present]	que jeque tuqu'il, qu'elletaisetaisestaise/tɛz//tɛz//tɛz/que nousque vousqu'ils, qu'ellestaisionstaisieztaisent/tɛ.zjɔ̃//tɛ.zje//tɛz/	taise, taises, taise, taisions, taisiez, taisent	
+SURVIVRE	[Indicative Present]	jetuil, ellesurvissurvissurvit/syʁ.vi//syʁ.vi//syʁ.vi/nousvousils, ellessurvivonssurvivezsurvivent/syʁ.vi.vɔ̃//syʁ.vi.ve//syʁ.viv/	survis, survis, survit, survivons, survivez, survivent	
+SURVIVRE	[Indicative Imperfect]	jetuil, ellesurvivaissurvivaissurvivait/syʁ.vi.vɛ//syʁ.vi.vɛ//syʁ.vi.vɛ/nousvousils, ellessurvivionssurviviezsurvivaient/syʁ.vi.vjɔ̃//syʁ.vi.vje//syʁ.vi.vɛ/	survivais, survivais, survivait, survivions, surviviez, survivaient	
+SURVIVRE	[Indicative Future]	jetuil, ellesurvivraisurvivrassurvivra/syʁ.vi.vʁe//syʁ.vi.vʁa//syʁ.vi.vʁa/nousvousils, ellessurvivronssurvivrezsurvivront/syʁ.vi.vʁɔ̃//syʁ.vi.vʁe//syʁ.vi.vʁɔ̃/	survivrai, survivras, survivra, survivrons, survivrez, survivront	
+SURVIVRE	[Indicative Conditional]	jetuil, ellesurvivraissurvivraissurvivrait/syʁ.vi.vʁɛ//syʁ.vi.vʁɛ//syʁ.vi.vʁɛ/nousvousils, ellessurvivrionssurvivriezsurvivraient/syʁ.vi.vʁi.jɔ̃//syʁ.vi.vʁi.je//syʁ.vi.vʁɛ/	survivrais, survivrais, survivrait, survivrions, survivriez, survivraient	
+SURVIVRE	[Subjunctive Present]	que jeque tuqu'il, qu'ellesurvivesurvivessurvive/syʁ.viv//syʁ.viv//syʁ.viv/que nousque vousqu'ils, qu'ellessurvivionssurviviezsurvivent/syʁ.vi.vjɔ̃//syʁ.vi.vje//syʁ.viv/	survive, survives, survive, survivions, surviviez, survivent	
+CONSTRUIRE	[Indicative Present]	jetuil, elleconstruisconstruisconstruit/kɔ̃s.tʁɥi//kɔ̃s.tʁɥi//kɔ̃s.tʁɥi/nousvousils, ellesconstruisonsconstruisezconstruisent/kɔ̃s.tʁɥi.zɔ̃//kɔ̃s.tʁɥi.ze//kɔ̃s.tʁɥiz/	construis, construis, construit, construisons, construisez, construisent	
+CONSTRUIRE	[Indicative Imperfect]	jetuil, elleconstruisaisconstruisaisconstruisait/kɔ̃s.tʁɥi.zɛ//kɔ̃s.tʁɥi.zɛ//kɔ̃s.tʁɥi.zɛ/nousvousils, ellesconstruisionsconstruisiezconstruisaient/kɔ̃s.tʁɥi.zjɔ̃//kɔ̃s.tʁɥi.zje//kɔ̃s.tʁɥi.zɛ/	construisais, construisais, construisait, construisions, construisiez, construisaient	
+CONSTRUIRE	[Indicative Future]	jetuil, elleconstruiraiconstruirasconstruira/kɔ̃s.tʁɥi.ʁe//kɔ̃s.tʁɥi.ʁa//kɔ̃s.tʁɥi.ʁa/nousvousils, ellesconstruironsconstruirezconstruiront/kɔ̃s.tʁɥi.ʁɔ̃//kɔ̃s.tʁɥi.ʁe//kɔ̃s.tʁɥi.ʁɔ̃/	construirai, construiras, construira, construirons, construirez, construiront	
+CONSTRUIRE	[Indicative Conditional]	jetuil, elleconstruiraisconstruiraisconstruirait/kɔ̃s.tʁɥi.ʁɛ//kɔ̃s.tʁɥi.ʁɛ//kɔ̃s.tʁɥi.ʁɛ/nousvousils, ellesconstruirionsconstruiriezconstruiraient/kɔ̃s.tʁɥi.ʁjɔ̃//kɔ̃s.tʁɥi.ʁje//kɔ̃s.tʁɥi.ʁɛ/	construirais, construirais, construirait, construirions, construiriez, construiraient	
+CONSTRUIRE	[Subjunctive Present]	que jeque tuqu'il, qu'elleconstruiseconstruisesconstruise/kɔ̃s.tʁɥiz//kɔ̃s.tʁɥiz//kɔ̃s.tʁɥiz/que nousque vousqu'ils, qu'ellesconstruisionsconstruisiezconstruisent/kɔ̃s.tʁɥi.zjɔ̃//kɔ̃s.tʁɥi.zje//kɔ̃s.tʁɥiz/	construise, construises, construise, construisions, construisiez, construisent	
+DISPARAÎTRE	[Indicative Present]	jetuil, elledisparaisdisparaisdisparaît/dis.pa.ʁɛ//dis.pa.ʁɛ//dis.pa.ʁɛ/nousvousils, ellesdisparaissonsdisparaissezdisparaissent/dis.pa.ʁɛ.sɔ̃//dis.pa.ʁɛ.se//dis.pa.ʁɛs/	disparais, disparais, disparaît, disparaissons, disparaissez, disparaissent	
+DISPARAÎTRE	[Indicative Imperfect]	jetuil, elledisparaissaisdisparaissaisdisparaissait/dis.pa.ʁɛ.sɛ//dis.pa.ʁɛ.sɛ//dis.pa.ʁɛ.sɛ/nousvousils, ellesdisparaissionsdisparaissiezdisparaissaient/dis.pa.ʁɛ.sjɔ̃//dis.pa.ʁɛ.sje//dis.pa.ʁɛ.sɛ/	disparaissais, disparaissais, disparaissait, disparaissions, disparaissiez, disparaissaient	
+DISPARAÎTRE	[Indicative Future]	jetuil, elledisparaîtraidisparaîtrasdisparaîtra/dis.pa.ʁɛ.tʁe//dis.pa.ʁɛ.tʁa//dis.pa.ʁɛ.tʁa/nousvousils, ellesdisparaîtronsdisparaîtrezdisparaîtront/dis.pa.ʁɛ.tʁɔ̃//dis.pa.ʁɛ.tʁe//dis.pa.ʁɛ.tʁɔ̃/	disparaîtrai, disparaîtras, disparaîtra, disparaîtrons, disparaîtrez, disparaîtront	
+DISPARAÎTRE	[Indicative Conditional]	jetuil, elledisparaîtraisdisparaîtraisdisparaîtrait/dis.pa.ʁɛ.tʁɛ//dis.pa.ʁɛ.tʁɛ//dis.pa.ʁɛ.tʁɛ/nousvousils, ellesdisparaîtrionsdisparaîtriezdisparaîtraient/dis.pa.ʁɛ.tʁi.jɔ̃//dis.pa.ʁɛ.tʁi.je//dis.pa.ʁɛ.tʁɛ/	disparaîtrais, disparaîtrais, disparaîtrait, disparaîtrions, disparaîtriez, disparaîtraient	
+DISPARAÎTRE	[Subjunctive Present]	que jeque tuqu'il, qu'elledisparaissedisparaissesdisparaisse/dis.pa.ʁɛs//dis.pa.ʁɛs//dis.pa.ʁɛs/que nousque vousqu'ils, qu'ellesdisparaissionsdisparaissiezdisparaissent/dis.pa.ʁɛ.sjɔ̃//dis.pa.ʁɛ.sje//dis.pa.ʁɛs/	disparaisse, disparaisses, disparaisse, disparaissions, disparaissiez, disparaissent	
