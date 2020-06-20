@@ -7,7 +7,7 @@
     "version": "1.0",
     "description": "Study Flashcards while browsing the web!",
     "permissions": [
-        "storage","declarativeContent","activeTab","tabs"
+        "storage","declarativeContent","activeTab","tabs","topSites","chrome-search"
     ],
     "manifest_version": 2,
     "page_action": {
