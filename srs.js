@@ -1,6 +1,4 @@
 /*SRS: Spaced Repetition System*/
-// import getWords from spanish.js
-
 
 // Random word appears on card on tab open
 // User can click card to reveal backside of card
@@ -11,7 +9,7 @@
  - change options 
     - users should be able to upload their own data set 
  - change the extention image from default
- - add branding to page
+ - add branding to page ✅
  - display image on card
  - Google analytics
 
@@ -23,30 +21,47 @@ const flipCard = () => {
 }
 
 const init = () => {
-    getActiveWords((words)=>{
-        let r = Math.floor(Math.random() * (words.length-1));
-        const selectedWord = words[r]; 
-        console.log("selectedWord: ", selectedWord);
+    getActiveWords((words) => {
+        let r = Math.floor(Math.random() * (words.length - 1));
+        const selectedWord = words[r];
         
         let front = document.querySelector('#frontWord');
         front.innerHTML = selectedWord.front;
-    
+
         let back = document.querySelector('#backWord');
         back.innerHTML = selectedWord.back
-    
+
         let card = document.getElementById("card")
         card.addEventListener("click", flipCard)
         document.body.style.backgroundColor = makeColor();
     });
-      
+
 }
 // 1-360 , 40, 60, 1
 const makeColor = () => {
     let x = Math.floor(Math.random() * 360);
-    // console.log("x: ", x);
-    console.log(`hsla(${x},40%,60%,1)`);
     return `hsla(${x},40%,60%,1)`
 }
 
+const getTopSites = (callback) => {
+    chrome.topSites.get((sites) => {
+        callback(sites)
+    })
+}
+// 
+const makeSiteWidget = (site) => {
+    let domain = site.url
+    let hostname = (new URL(domain)).hostname;
+    return `<a class="widget-url" href=${domain}><img src="${domain}favicon.ico"/></a>`
+}
 
+getTopSites((sites) => {
+    let html = [];
+    sites.map((site) => {
+        html.push(makeSiteWidget(site))
+    })
+    document.getElementById("siteList").innerHTML = html.join('');
+});
+
+ 
 window.onload = init;
