@@ -24,7 +24,7 @@ const init = () => {
     getActiveWords((words) => {
         let r = Math.floor(Math.random() * (words.length - 1));
         const selectedWord = words[r];
-        
+
         let front = document.querySelector('#frontWord');
         front.innerHTML = selectedWord.front;
 
@@ -33,18 +33,26 @@ const init = () => {
 
         let card = document.getElementById("card")
         card.addEventListener("click", flipCard)
-        document.body.style.backgroundColor = makeColor();
+        document.body.style.backgroundColor = colorPair.primary;
     });
 
 }
-// 1-360 , 40, 60, 1
-const makeColor = () => {
-    let x = Math.floor(Math.random() * 360);
-    return `hsla(${x},40%,60%,1)`
+
+const makeColors = () => {
+    let hue = Math.floor(Math.random() * 360);
+    let complementColor = (180 + hue) % 360;
+
+    return {
+        primary: `hsla(${hue},40%,60%,1)`,
+        complementary: `hsla(${complementColor},40%,60%,1)`
+    }
 }
+const colorPair = makeColors();
+
 
 const getTopSites = (callback) => {
     chrome.topSites.get((sites) => {
+        // const filteredSites = sites.filter(site => !site.url.includes('chrome-extension://'))
         callback(sites)
     })
 }
@@ -52,7 +60,25 @@ const getTopSites = (callback) => {
 const makeSiteWidget = (site) => {
     let domain = site.url
     let hostname = (new URL(domain)).hostname;
-    return `<a class="widget-url" href=${domain}><img src="${domain}favicon.ico"/></a>`
+    console.log("domain: ", domain);
+    console.log("hostname: ", hostname);
+    let letters = hostname
+        .replace('www.', '')
+        .replace('.com', '')
+        .replace('.edu', '')
+        .substr(0, 7).toUpperCase();
+    return `<div>
+                <div 
+                    style="background-color: ${colorPair.complementary}; 
+                        background-image: url(${domain}favicon.ico);
+                        background-position:center center;
+                        background-size: cover;
+                        background-repeat: no-repeat;"  
+                    class="widget" onerror={}
+                    src="${domain}favicon.ico"/>
+                </div>
+                <a class="widget-url" href=${domain}>${letters}</a>
+            </div>`
 }
 
 getTopSites((sites) => {
@@ -63,5 +89,5 @@ getTopSites((sites) => {
     document.getElementById("siteList").innerHTML = html.join('');
 });
 
- 
+
 window.onload = init;

@@ -15,8 +15,7 @@ body * {
 }
 
 .scene {
-    width: 500px;
-    height: 400px;
+   
     perspective: 1000px;
     margin:0 auto;
   }
@@ -28,14 +27,15 @@ body * {
     margin:0 auto;
     vertical-align: middle;
     margin-top:1vh;
-    width:100%;
-    height: 100%;
+    width: 500px;
+    height: 300px;
     line-height: 1;
     font-size: 44pt;
     text-align: center;
     position: relative;
     transition: transform 1s;
     transform-style: preserve-3d;
+    margin-bottom: 60px;
 }
 
 .card__face {
@@ -68,7 +68,25 @@ body * {
 }
 
 .widget-url {
-    font-size: 18px;
+    font-size: 14pt;
+    text-decoration: none;
+}
+
+.widget {
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 4.5;
+    margin: 20px;
+}
+
+.site-list {
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin: 0 auto;
+    flex-flow: wrap;
 }
 
 
