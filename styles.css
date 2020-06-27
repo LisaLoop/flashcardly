@@ -70,13 +70,17 @@ body * {
 .widget-url {
     font-size: 14pt;
     text-decoration: none;
+    font-weight: 700;
 }
 
 .widget {
+    text-align: center;
+}
+
+.widget-icon {
     width:50px;
     height:50px;
     border-radius: 50%;
-    text-align: center;
     line-height: 4.5;
     margin: 20px;
 }

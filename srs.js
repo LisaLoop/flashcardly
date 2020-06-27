@@ -58,26 +58,26 @@ const getTopSites = (callback) => {
 }
 // 
 const makeSiteWidget = (site) => {
-    let domain = site.url
-    let hostname = (new URL(domain)).hostname;
-    console.log("domain: ", domain);
+    let siteUrl = site.url
+    let hostname = (new URL(siteUrl)).hostname;
+    console.log("siteUrl: ", siteUrl);
     console.log("hostname: ", hostname);
     let letters = hostname
         .replace('www.', '')
         .replace('.com', '')
         .replace('.edu', '')
         .substr(0, 7).toUpperCase();
-    return `<div>
-                <div 
+    return `<div class="widget">
+                <a href="${siteUrl}"><div 
                     style="background-color: ${colorPair.complementary}; 
-                        background-image: url(${domain}favicon.ico);
+                        background-image: url(${siteUrl}favicon.ico);
                         background-position:center center;
                         background-size: cover;
                         background-repeat: no-repeat;"  
-                    class="widget" onerror={}
-                    src="${domain}favicon.ico"/>
-                </div>
-                <a class="widget-url" href=${domain}>${letters}</a>
+                    class="widget-icon">
+
+                </div></a>
+                <a class="widget-url" href="${siteUrl}">${letters}</a>
             </div>`
 }
 
