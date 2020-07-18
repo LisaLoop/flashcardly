@@ -26,7 +26,7 @@ const init = () => {
         const selectedWord = words[r];
 
         let front = document.querySelector('#frontWord');
-        front.innerHTML = selectedWord.front;
+        front.innerHTML = getIconHtml(`./images/icons/${selectedWord.icon}`) + "<br>" + selectedWord.front;
 
         let back = document.querySelector('#backWord');
         back.innerHTML = selectedWord.back
@@ -36,6 +36,10 @@ const init = () => {
         document.body.style.backgroundColor = colorPair.primary;
     });
 
+}
+
+const getIconHtml = (icon) => {
+    return `<img class="card-icon" src='${icon}'/>`
 }
 
 const makeColors = () => {
@@ -66,7 +70,9 @@ const makeSiteWidget = (site) => {
         .replace('www.', '')
         .replace('.com', '')
         .replace('.edu', '')
-        .substr(0, 7).toUpperCase();
+        .replace('.org', '')
+        .toUpperCase()
+        // .substr(0, 9);
     return `<div class="widget">
                 <a href="${siteUrl}"><div 
                     style="background-color: ${colorPair.complementary}; 
