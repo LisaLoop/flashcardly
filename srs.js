@@ -26,7 +26,7 @@ const init = () => {
         const selectedWord = words[r];
 
         let front = document.querySelector('#frontWord');
-        front.innerHTML = getIconHtml(`./images/icons/${selectedWord.icon}`) + "<br>" + selectedWord.front;
+        front.innerHTML = getIconHtml(`${selectedWord.icon}`) + "<br>" + selectedWord.front;
 
         let back = document.querySelector('#backWord');
         back.innerHTML = selectedWord.back

@@ -1,0 +1,5000 @@
+absolute 
+current (adj) 
+adequate, suitable 
+German 
+wide, ample, broad 
+blue 
+near 
+closed 
+civil (adj) 
+concrete, real 
+known, well-known 
+current, flow (nf) 
+short, brief 
+how much? 
+room, chamber (nm) 
+given 
+due to 
+definitive, conclusive 
+determined, fixed 
+newspaper (nm) 
+direct, straight 
+willing, ready 
+different, several, diverse 
+hard (adj) 
+ill, sick 
+entire, whole, complete 
+exact, faithful, true 
+strange, foreign 
+extraordinary, exceptional 
+easy 
+familiar, of the family (adj) 
+famous, well-known 
+happy, fortunate 
+physical (adj) 
+French 
+cold (adj) 
+future (nm) 
+serious, solemn 
+historical 
+impossible 
+English 
+immediate 
+interesting 
+interior, inside (nm) 
+internal 
+Italian 
+just (adv) 
+full, filled (as an object would de filled) 
+teacher (m), master (nm) 
+but, however 
+material, element (nm) 
+doctor (nm/f) 
+military (adj) 
+minimum (adj) 
+modern 
+dead (adj) 
+national 
+normal, usual, regular 
+dark, obscure 
+similar [also similar] 
+particular, peculiar (adj) 
+worse (adv) 
+lost 
+perfect 
+personal (adj) 
+plane, map, level (nm) 
+complete, fulfilled (as emotionally) 
+popular 
+precise, necessary 
+present (nm) 
+private 
+professional 
+pure, clean 
+quick, fast 
+strange, rare, scarce 
+religious 
+responsible 
+rich, tasty 
+red 
+simple, plain, easy 
+serious 
+simple, mere, simple-minded 
+sufficient, enough 
+superior, upper 
+supposed: of course 
+total, entire (adj) 
+united 
+green 
+down, below, downward 
+forward, further 
+about, around, round (adv) 
+hardly, barely 
+up above 
+even (though), still 
+completely 
+underneath, below 
+in front of, ahead 
+in the back 
+directly, straight away 
+especially 
+exactly 
+finally, at last 
+immediately 
+never 
+together (adj) 
+perfectly 
+precisely 
+probably 
+recently, just 
+except for, but 
+surely, securely 
+simply, just 
+even if 
+totally, completely 
+artist, performer 
+teenager, young person (nc) 
+model, pattern 
+attitude 
+height, altitude 
+authority 
+help, aid 
+mouth, entrance, opening 
+quality 
+capacity 
+meat, flesh 
+letter, playing card 
+cause 
+science, knowledge 
+circumstance 
+food, meal 
+company 
+communication 
+conscience, consciousness 
+confidence, trust 
+consequence 
+construction 
+conversation 
+habit, custom, usage 
+culture 
+decision 
+defense, plea 
+difficulty, obstacle 
+direction, address 
+distance 
+education 
+election, choice 
+firm, company, venture 
+energy, power 
+illness, sickness 
+entrance, admission ticket 
+school 
+hope 
+wife 
+stage, period 
+existence, life 
+explanation 
+expression 
+date, day 
+party, feast 
+flower 
+formation, education 
+phrase 
+source, fountain 
+function, meeting 
+generation 
+daughter 
+sheet, leaf 
+impression, printing 
+information 
+intention 
+investigation 
+left 
+labor, work, task 
+reading 
+language, tongue, strip of land 
+letter, handwriting, lyrics 
+fight, struggle, wrestle 
+wood 
+machine 
+march, progress 
+mass, dough, bulk, crowd 
+matter, subject 
+majority 
+memory 
+mind 
+half, middle 
+music 
+nature 
+note, grade 
+news 
+operation 
+opinion, view 
+opportunity, chance 
+interior wall 
+couple, pair 
+peace 
+movie, film 
+trouble (be of worth) 
+stone, rock 
+skin, hide, fur 
+piece, part 
+plant, floor 
+population 
+politics, policy 
+position 
+practice, skill 
+worry, concern 
+presence, appearance 
+pressure 
+property 
+proof, trial, test 
+responsibility 
+meeting, reunion 
+magazine, journal 
+revolution 
+room, hall 
+exit, escape, outcome 
+health 
+blood 
+saint (f) 
+security, safety 
+Mrs., lady, madam 
+series 
+solution, answer 
+luck, fortune 
+task, job 
+theory 
+tradition 
+road, way 
+vision 
+visit, visitor, guest 
+will, willpower, intention 
+return, turn 
+soul 
+weapon 
+act, action 
+student, pupil 
+environment, atmosphere 
+to walk&nbsp;[also caminar] 
+support, backing 
+tree 
+art, skill 
+article, product, item 
+matter, issue, affair 
+financial bank, bench 
+goods, property, benefit (nm) 
+arm 
+horse 
+heat, warmth 
+personality, nature 
+position, charge, fee 
+sky, heaven, ceiling 
+companion, classmate 
+concept 
+group, set 
+contact 
+control 
+heart, core 
+painting, picture 
+fourth (adj) 
+care, carefulness 
+course, direction 
+data, fact 
+right, straight (adj) 
+development 
+desire, wish 
+destination, destiny 
+detail 
+daily (adj) [also cotidiano] 
+pain, ache, sorrow 
+building 
+element 
+meeting, game, skirmish 
+team, equipment, outfit 
+error, mistake 
+spirit, ghost 
+style 
+success 
+phenomenon 
+hit, strike, punch 
+degree, grade 
+pleasure, taste, preference 
+brother, [pl] siblings 
+home, hearth 
+instrument 
+judgment 
+language, speech 
+limit 
+market 
+meter (unit of measure), subway 
+member, limb 
+motive, cause, motif 
+business, transaction 
+north 
+origin, cause 
+gold 
+past (nm) 
+danger, menace 
+thought, thinking 
+newspaper, periodical 
+dog 
+character (e.g. movie) 
+floor, story 
+plan 
+price, cost, value 
+president 
+product 
+intention, purpose 
+project, plan 
+public, audience (nm) 
+job, place, position 
+memory, keepsake 
+resource, recourse, means 
+respect, regard 
+river 
+rhythm 
+second (nm) 
+feeling, sentiment 
+silence 
+place, space 
+sun 
+dream, sleep 
+size, dimension 
+theater, drama 
+phone, telephone 
+term (language), end 
+ground, earth, terrain 
+text 
+title, heading 
+tone 
+use 
+summer 
+wine 
+writer, author 
+director, manager, principal 
+doctor 
+leader, boss, manager 
+professor, teacher 
+capital city (f), money (m) 
+final (adj) 
+sea 
+pair, couple (m) 
+radio; set (m), communication (f) 
+fifty 
+forty 
+twelve 
+million, fortune 
+nine 
+thirty 
+twenty 
+by means of 
+after, behind 
+that over there (n) 
+that one 
+mine (pron) 
+his, hers, yours, theirs (formal) 
+you (subj singular familiar) 
+to abandon, leave (a place) 
+to accompany 
+to remember, remind 
+to act 
+to admit 
+to acquire, get 
+to warn 
+to affect 
+to assert, affirm 
+to announce, advertise 
+to apply 
+to support, lean on 
+to take advantage of 
+to assure, secure, insure 
+to attend 
+to serve, attend to 
+to cross [also cruzar] 
+to increase [also incrementar] 
+to advance, progress 
+to come down, let down 
+to be sufficient 
+to fit into 
+to walk [also andar] 
+to load up, carry 
+to coincide, agree 
+to place, position 
+to comment on 
+to share 
+to verify, prove 
+to communicate 
+to lead, drive 
+to conserve, preserve 
+to consist of 
+to constitute, consist of 
+to construct, build 
+to contemplate 
+to contain 
+to answer, reply 
+to be agreeable, be convenient 
+to correspond with 
+to cut 
+to cost, to be hard to do 
+to grow, increase 
+to cross [also atravesar] 
+to cover 
+to take care of 
+to defend, protect 
+to define 
+to show, demonstrate 
+to depend on 
+to disappear, vanish 
+to want, desire, wish for 
+to wake up, arouse 
+to emphasize, stand out 
+to argue, discuss 
+to have means, dispose 
+to distinguish 
+to dominate, master 
+to sleep 
+to last 
+to employ 
+to confront, face 
+to teach, show 
+to deliver 
+to send 
+to escape 
+to establish 
+to demand 
+to expound, expose 
+to express 
+to extend, spread 
+to be lacking 
+to sign 
+to work, function 
+to keep, save 
+to identify 
+to prevent, hinder 
+to impose, enforce 
+to include 
+to inform 
+to initiate, start 
+to insist on 
+to install 
+to interpret 
+to intervene 
+to introduce, bring in 
+to invite 
+to throw (violently), to hurl [also arrojar] 
+to fill 
+to send, order 
+to drive, handle 
+to mark, note, dial 
+to kill 
+to measure 
+to improve, get better 
+to mention, cite 
+to deserve, be worthy of 
+to put into 
+to ride, mount, assemble 
+to deny, refuse 
+to notice [also percibir] 
+to obligate, force 
+to organize 
+to participate 
+to stay, remain 
+to belong 
+to weigh (v) 
+to propose, present 
+to prefer 
+to worry 
+to lend 
+to attempt 
+to test, prove, try 
+to pronounce 
+to cause, provoke 
+to publish 
+to remove, take away 
+to pick up 
+to travel, cover distance 
+to recuperate, recover 
+to reduce 
+to return to a place 
+to represent 
+to resolve, settle, work out 
+to respect 
+to take away, retire 
+to put togerther, to get together [also juntar] 
+to break 
+to save, rescue 
+to sit down, seat 
+to separate 
+to mean 
+to support, hold up 
+to overcome, surpass 
+to appear, spring forth 
+to delay, take long 
+to tend to, lay out 
+to throw, pull 
+to transform, change 
+to unite 
+to sell 
+to travel 
+to visit 
+active 
+not belonging to, detached 
+American 
+authentic 
+inexpensive 
+beautiful, fine 
+brief, short 
+brilliant, shiny, sparkling 
+central (adj) 
+Chinese 
+blind 
+classic 
+commercial, shopping 
+complex, complicated (adj) 
+complicated, complex 
+conscious, aware 
+constant 
+convinced, persuaded 
+correct, suitable 
+corresponding 
+daily (adj)&nbsp;[also diario] 
+Christian 
+cultural 
+curious, strange 
+weak 
+delicate 
+unknown 
+double (adj) 
+electric 
+in charge of 
+scarce, very little 
+European 
+evident, obvious 
+excellent 
+exterior, outside (adj) 
+foreign, alien (adj) 
+edge, border, end (nm) 
+false 
+feminine, female 
+fixed, steady 
+fine, delicate 
+strong 
+fundamental 
+Greek 
+usual, habitual, customary 
+beautiful, lovely 
+independent, self-sufficient 
+individual 
+of children, childlike, infantile 
+lower, inferior 
+immense, vast, huge 
+intellectual 
+intelligent 
+intense, acute 
+international 
+distant 
+slow 
+clean 
+ready, clever, smart 
+literary 
+crazy, insane 
+logical 
+maximum (adj) 
+moral (adj) 
+great many, great amount 
+nervous, uptight 
+North American 
+outstanding, noteworthy 
+numerous 
+objective (nm) 
+obliged, required 
+official, authorized (adj) 
+original (adj) 
+dangerous 
+aware of, pending 
+permanent 
+heavy, boring, tiresome 
+positive 
+rear, backside 
+practical, skillful 
+prepared 
+previous 
+fifth 
+recent 
+related, regarding 
+healthy, wholesome [also saludable] 
+dry, arid 
+in a row, successive 
+safe, sure, secure (adj) 
+similar, such, alike 
+seated 
+separate 
+similar&nbsp;[also parecideo] 
+technical (adj) 
+early 
+terrible 
+traditional 
+calm, tranquil, relaxed 
+tremendous, dreadful, huge 
+sad, unhappy 
+universal 
+useful 
+neighbor (nm) 
+violent 
+vital, lively, essential 
+absolutely, completely 
+by chance, maybe 
+about, concerning 
+apart, aside, separately 
+yesterday 
+clearly 
+when? 
+definitely, finally 
+generally, usually 
+equally 
+just, exactly 
+anew, again 
+practically 
+profoundly, deeply 
+rapidly, quickly 
+only [also solamente] 
+truly 
+oh 
+student 
+judge 
+journalist 
+poet 
+police, police force, police officer 
+representative (nc) 
+joy, happiness 
+friendship 
+absence 
+adventure 
+battle 
+beauty 
+search, hunt 
+chain 
+bank, box, safe 
+bed (furniture) 
+camera, chamber 
+campaign 
+song 
+layer, coat 
+characteristic, aspect 
+load, charge, cargo 
+category 
+column, spine 
+shopping, buy, purchase 
+community 
+conclusion, end 
+conduct, behavior 
+consideration, regard 
+coast 
+creation 
+crisis 
+criticism, critique 
+blame, fault 
+right, right hand 
+discipline, subject 
+discussion, argument 
+disposal, disposition 
+interview, meeting 
+scene, stage, setting 
+back (body) 
+station, season 
+star (nf) 
+structure 
+exception 
+factory, manufacture 
+ease, facility 
+faculty, ability 
+faith 
+photograph 
+frequency 
+border, frontier 
+desire 
+sister 
+church 
+illusion, hope, dream 
+influence 
+restlessness, anxiety 
+institution 
+intelligence 
+interpretation, interpreting 
+island 
+justice, fairness 
+youth 
+milk 
+list, roster, roll 
+literature 
+call, knock 
+rain 
+tomorrow (adv) 
+mark, brand, trademark 
+gaze, look 
+mission, task 
+fashion, form 
+coins, currency 
+mountain (nf) 
+child, young girl 
+standard, pattern, norm 
+novel 
+obligation 
+office 
+organization 
+page 
+participation, involvement 
+game, match, departure 
+passion, desire 
+loss 
+personality, celebrity 
+perspective 
+leg 
+painting, paint 
+silver, money 
+square, marketplace 
+press 
+profession, occupation 
+depth, profundity 
+tip, point 
+root 
+branch, bough, limb 
+reaction 
+reference, allusion 
+region 
+rule, ruler, regulation 
+religion 
+representation 
+resistance, opposition 
+riches, wealth 
+clothes, clothing 
+wheel 
+satisfaction 
+sign, mark, token 
+sensation, feeling 
+chair, seat 
+shade, shadow 
+surprise 
+sum, amount, summary 
+surface, area 
+late (adv) 
+technique, skill 
+TV, television 
+tendency, style 
+unit, unity 
+university, college 
+speed, velocity [also rapidez] 
+sale 
+advantage, benefit 
+window 
+violence 
+virtue, quality 
+hunger, starvation 
+access, entry 
+accident, irregularity 
+event, happening 
+August 
+reach, scope 
+food, nourishment 
+analysis 
+zest, spirit, heart 
+apparatus, device 
+argument, plot 
+attack, raid 
+plane, airplane, aircraft 
+boat 
+neighborhood, district 
+benefit, profit 
+coffee, café 
+chapter 
+boy&nbsp;[also muchacho] 
+cinema, US movie theater 
+circle, club 
+car, carriage 
+high school, college 
+remark, comment 
+start, beginning 
+behavior, conduct 
+compromise, engagement 
+conflict 
+advice, council, counsel 
+contents, content 
+criterion 
+story, tale 
+harm, injury, damage 
+finger, toe, digit 
+defect 
+department, apartment 
+dialogue, conversation 
+December 
+lecture, discourse, talk 
+document 
+Sunday 
+owner, landlord (m) 
+exercise, practice 
+army 
+employee 
+work, job, occupation 
+enemy 
+January 
+balance 
+spectacle, show 
+examination, exam 
+excess 
+expert 
+foreigner (nm) 
+failure, collapse 
+cold (nm) 
+fruit, result 
+fire, gunfire 
+future (adj) 
+expense, expenditure 
+cat 
+general (nm) 
+gesture 
+inhabitant 
+honor, honesty 
+hospital 
+language 
+Indian 
+individual, person 
+instant, moment 
+attempt, try 
+interior, inside (adj) 
+winter 
+kilometer 
+master (adj) 
+frame, mark, setting 
+husband 
+material (adj) 
+marriage, married couple 
+May 
+message 
+method 
+birth, origin 
+organization, organism, human body 
+bread 
+particular, detail, individual (nm) 
+hair&nbsp;[also cabello] 
+period, time 
+personnel, staff, staffing (nm) 
+pleasure 
+deadline, installment 
+prize, reward 
+present, current (adj) 
+bridge 
+port, harbor 
+feature, trait 
+moment, while, time 
+regime, diet 
+alternative, cure, solution 
+king 
+risk 
+noise 
+jump, hop, skip 
+sector, area, section 
+sign, mark, symbol 
+sound 
+south 
+ceiling, roof 
+fear [also miedo] 
+territory 
+about, regarding 
+sum, total (nm) 
+treatment, processing 
+treatment, manner, agreement 
+train, convoy 
+vehicle, car 
+wind, scent 
+volume 
+writer 
+medical (adj) 
+politician (nm/f) 
+secretary 
+court (f), cut (m) 
+edge, margin, border, brink 
+eleven 
+fifteen 
+sixty 
+that one over there (m) 
+you (obj pl fam) 
+to clarify, clear up 
+to attend, go to, frequent 
+to accumulate, amass 
+to adopt 
+to move away 
+to love 
+to add 
+to analyze 
+to cheer up 
+to appreciate 
+to pass a test, approve 
+to point, note, aim 
+to start a machine, uproot 
+to drag, pull 
+to fix, arrange 
+to assume, take on 
+to attack 
+to attract 
+to dare 
+to base on, base upon 
+to drink 
+to calculate, figure out 
+to sing 
+to marry 
+to cause, bring about 
+to give way, yield 
+to celebrate 
+to cite, quote 
+to charge money 
+to commit 
+to compare 
+to compose, be part of 
+to grant, concede 
+to concentrate 
+to conclude, finish 
+to convict, condemn 
+to trust, confide 
+to confirm 
+to conform 
+to confuse 
+to consume, take in 
+to contribute 
+to control 
+to convince, persuade 
+to declare, testify 
+to rest 
+to describe 
+to assign, appoint 
+to destroy, ruin 
+to determine, decide 
+to give back, to return something [also retornar] 
+to enjoy [also gozar] 
+to divide 
+to have doubt 
+to practice, exercise 
+to elevate, raise 
+to entrust, [se] take charge of 
+to be wrong 
+to estimate, hold in esteem 
+to experience, experiment 
+to manufacture 
+to facilitate 
+to appear, represent, figure in 
+to found, base 
+to rotate, revolve 
+to enjoy&nbsp;[also disfrutar] 
+to record, engrave 
+to find out 
+to be unaware 
+to incorporate, include 
+to integrate, fit in 
+to interrupt 
+to invent, make up 
+to justify, excuse 
+to judge 
+to free, liberate 
+to limit 
+to cry 
+to fight, wrestle 
+to express, show 
+to walk, to work (like a machine) 
+to mix 
+to bother, disturb, upset 
+to name, appoint 
+to operate 
+to think, be of the opinion 
+to oppose 
+to put in order, organize 
+to stop moving 
+to hit, stick on 
+to pursue 
+to paint 
+to possess, own 
+to practice 
+to proceed, start 
+to try, seek 
+to protect 
+to project 
+to reject 
+to reflect 
+to laugh 
+to divide, deliver, distribute 
+to require 
+to resist, endure 
+to rob, steal 
+to surround 
+to jump, leap, hop 
+to solicit, request 
+to subject, submit, subjugate 
+to sound, ring 
+to endure, stand (something) 
+to surprise 
+to suggest, hint at 
+to fear 
+to transmit, broadcast 
+to move, transfer 
+to overcome, conquer 
+to wear, dress 
+to fly 
+accustomed 
+nice, pleasant 
+isolated 
+remote, distant, aloof 
+yellow 
+wide (adj) 
+elderly, aged 
+applied 
+Argentine 
+armed 
+artistic 
+advanced 
+pretty, nice 
+hot, warm, spirited 
+rural 
+expensive, difficult, dear 
+married 
+Castilian, Spanish 
+scientific (adj) 
+to circulate, go around, flow (v) 
+citizen (nm) 
+key (nf) 
+collective, joint (adj) 
+comfortable, convenient 
+in agreement 
+happy, content 
+continuous 
+convenient 
+critical (adj) 
+covered 
+determined, resolute 
+worthy 
+divine 
+domestic 
+sweet (adj) 
+effective [also eficaz] 
+effective&nbsp;[also efectivo] 
+elegant, smart, stylish 
+elemental, basic 
+elevated, high, lofty 
+understood 
+essential 
+spiritual 
+established 
+narrow 
+eternal 
+excessive 
+faithful, loyal 
+firm, steady 
+frequent 
+ideal, goal (nm) 
+incapable 
+incredible, unbelievable 
+indispensable, essential 
+inevitable, unavoidable 
+initial (adj) 
+interested 
+close, intimate 
+useless 
+left (opposite of right) 
+Latin (adj) 
+light (in weight), slight 
+limited 
+local (adj) 
+magnificent, splendid 
+wonderful, marvelous 
+mechanical 
+mental 
+multiple, many 
+worldwide 
+musical 
+negative, pessimistic 
+nocturnal, evening 
+nevertheless 
+busy, occupied 
+opportune, timely 
+opposite, contrary 
+eastern, oriental 
+powerful 
+beautiful, precious 
+worried, concerned 
+primary 
+probable 
+radical 
+round (adj) 
+reduced, limited 
+regular (adj) 
+relative (adj) 
+respective 
+revolutionary 
+surrounded 
+Roman 
+broken, torn 
+wise, learned 
+sacred 
+satisfied 
+secret (adj) 
+severe 
+sexual 
+significant, meaningful 
+situated, located 
+solid, strong 
+soft, gentle, mild 
+dirty, filthy, underhanded 
+loose 
+subject, individual (nm) 
+typical 
+worker, laborer (nm/f) [also obrero] 
+empty, vacant (adj) 
+dressed (adj) 
+outside 
+apparently 
+constantly 
+in fact, actually, indeed 
+evidently, obviously 
+exclusively 
+easily 
+fair, just (adj) 
+slowly 
+often 
+naturally 
+worse, worst (adj) 
+personally 
+possibly 
+enough (adv)&nbsp; 
+when (adv) 
+agent 
+lover 
+client, customer 
+specialist 
+guard, watch, lookout 
+official, officer (nc) 
+patient 
+performance, acting 
+alternative 
+friend (f) 
+anguish, distress 
+appearance, apparition 
+appearance, aspect 
+sand 
+library 
+bag, purse, stock exchange 
+bomb, explosion, pump 
+search 
+fall, drop, falling 
+jail, prison 
+highway, road 
+girl, female 
+figure, number, amount 
+tape, ribbon, film, strip 
+clearness, clarity 
+kitchen 
+line, queue, tail 
+collection 
+comparison 
+competition, contest 
+composition, make-up, essay 
+understanding (nf) 
+concentration, gathering 
+confusion 
+continuation, follow-up 
+current, common (adj) 
+quality, attribute 
+curiosity, quaintness 
+declaration, statement 
+definition 
+petition, request, demand 
+misfortune, bad luck 
+dimension, size 
+division 
+economy, economics, thriftiness 
+emotion, excitement 
+teaching, instruction 
+scale, ladder, rank 
+essence 
+wait 
+corner 
+evolution, development 
+requirement, demand 
+exhibition, display 
+reputation, fame 
+happiness 
+line, row, file 
+philosophy 
+company, signature, signing 
+formula 
+fortune, fate 
+fruit 
+ability, skill, talent 
+room, bedroom, habitat 
+humanity, mankind 
+identity 
+imagination, fantasy 
+independence 
+industry, factory 
+infancy, childhood 
+initiative 
+instruction 
+intervention 
+lesson 
+arrival 
+protest, manifestation 
+medicine 
+lie 
+mixture, blend 
+misery, wretchedness 
+morals, ethics (nf) 
+proof, sample, sign 
+nation 
+latest news, newness 
+cloud 
+observation 
+opposition 
+beach, seaside 
+poverty, lack, scarcity 
+poetry, poem 
+posture, position, attitude 
+power, potential 
+precision 
+presentation, introduction 
+production [also elaboración] 
+protection 
+province, region 
+speed, velocity [also velocidad] 
+race, lineage 
+network, net, system 
+reflection, thought 
+reservation, reserve 
+rose 
+section, cut 
+sensitivity 
+session, meeting 
+chart, board, table, plank 
+cloth, fabric 
+temperature 
+season, period, time 
+tension, stress, strain 
+shop, store, tent 
+tragedy 
+tranquility, peace 
+vacation 
+version, account 
+victim, casualty 
+victory, triumph 
+housing, dwelling 
+vocation, calling 
+area, zone (nf el) 
+abril 
+grandfather 
+actor 
+surrounding area, vicinity (nm) 
+sphere, space 
+increase, rise 
+automobile 
+advance, progress&nbsp;[also adelanto] 
+bathroom, bath, swim 
+edge 
+forest 
+gentleman, knight 
+calculation, calculus 
+channel, canal 
+singing, chant 
+car, cart 
+punishment, penalty 
+brain 
+climate 
+commerce, trade 
+continent 
+contract, agreement 
+growth, increase 
+credit, reputation 
+crime, murder 
+neck, collar 
+disaster 
+rest, interval, break 
+discovery 
+drawing, sketch 
+tooth, cog 
+disc, disk, record 
+dollar 
+power, control 
+essay, rehearsal 
+enthusiasm 
+stage, setting, scene 
+mirror, reflection 
+exterior, outside (nm) 
+extreme (adj) 
+factor, cause, influence 
+relative (nm) 
+February 
+civil servant 
+sort, gender, genre 
+cry, shout, scream 
+habit 
+iron 
+thread, yarn, wire 
+shoulder 
+hotel 
+bone 
+egg 
+mood, humor 
+ideal (adj) 
+impulse, momentum 
+index, forefinger 
+report 
+entrance, admission, income 
+garden 
+July 
+length (nm) 
+reader, lecturer 
+call, calling 
+place, quarters (nm) 
+luxury 
+evil (nm) 
+mechanism 
+worth, merit 
+soldier, military person (nm) 
+mountain (nm) 
+lot of, heap, pile 
+engine, motor 
+boy [also chico] 
+piece of furniture 
+outer wall, rampart 
+October 
+job, occupation, function 
+hearing, ear 
+smell, odor, fragrance 
+organ 
+payment 
+landscape 
+bird [also ave] 
+palace 
+park 
+courtyard, playground, yard 
+employer, landlord, patron saint, pattern 
+chest, breast
+permission, permit 
+and a bit :beak, peak 
+plate, dish 
+poem 
+dust, powder 
+prestige 
+cousin 
+privilege 
+procedure, proceedings 
+progress 
+recognition, acknowledgment 
+reflection (reflected image) 
+return [also retorno] 
+clock, watch 
+backwards, upside down, inside out 
+Saturday 
+priest 
+sacrifice 
+hall, room 
+secret (nm) 
+breast, bosom, cavity 
+sex 
+meaning 
+symbol 
+salary, pay 
+fastened, subject to (adj) 
+witness 
+uncle, guy 
+throw, shot 
+suit, dress, costume 
+transportation, transport 
+triumph, victory 
+emptiness, void (nm) 
+valley 
+nearby, neighboring (adj) 
+flight 
+shoe 
+lawyer 
+engineer 
+government secretary, minister 
+soldier 
+seventy 
+with me 
+you (obj prep singular familiar) 
+to advise, counsel 
+to be accustomed to&nbsp;[also soler] 
+to accuse 
+to move forward 
+to admire 
+to exhaust, wear out, run out 
+to thank for 
+to add, gather 
+to endure, put up with 
+to adjust, tighten 
+to feed, support 
+to alter, modify 
+to enlarge, increase, expand 
+to move away, separate 
+to provide, contribute 
+to throw (violently), to hurl [also lanzar] 
+to ascend, be promoted 
+to associate with 
+to aspire, want 
+to attribute 
+to investigate, find out 
+to erase 
+to capture, attract 
+to lack 
+to crash into, collide with 
+to hold, take, catch 
+to collaborate, work together 
+to fight against 
+to complete 
+to complicate, make difficult 
+to conceive, understand 
+to confess, admit 
+to consist of, comprise 
+to consult 
+to correct, rectify 
+to bring up, rear 
+to criticize 
+to cultivate, produce 
+duty, obligation (nm) 
+to call, name [also llamar] 
+to deposit, place, store 
+to derive, come from 
+to descend 
+to not know, not recognize 
+to dismiss, to say goodbye to 
+to replace, move, shift 
+to detach, release, remove 
+to dictate, announce 
+to decrease, diminish 
+to distribute, deliver 
+to bend, turn 
+to make, develop 
+to eliminate, exclude 
+to emit, give off 
+to pawn, pledge, engage 
+to push, shove 
+to shut in 
+to trick, deceive 
+to find out [se] 
+to hide, conceal 
+to examine, inspect 
+to explode, exploit 
+to fail, miss 
+to force 
+to spend money 
+to hit, strike 
+to shout 
+to flee, run away 
+to sink, submerge 
+to implicate, imply 
+to push, promote, drive 
+to bow, tilt, incline 
+to join, deposit, admit 
+to invade, overcome 
+to invest 
+to investigate [also indagar] 
+to wash 
+to clean 
+to modify 
+to obey 
+to hide 
+to suffer 
+opinion, looks (nm) 
+to go for a walk, ride 
+to fight, struggle 
+to penetrate 
+to notice [also notar] 
+to forgive, excuse 
+to do exactly, specify 
+to prohibit, forbid 
+to promise 
+to provide, supply 
+to come from, be from 
+to complain 
+to burn 
+to react 
+to demand, require 
+to recommend 
+to resort to 
+to give as a gift 
+to register, record [also inscribir] 
+to relate 
+to yield, to produce 
+to give up, renounce 
+to reproduce, repeat 
+to breathe 
+to reveal, disclose 
+to check, revise, inspect 
+knowledge (nm) 
+to greet, say hello 
+to satisfy 
+to survive, outlive 
+to dream 
+to suspect, suppose 
+to add up, amount to 
+to suspend, hang, fail 
+to substitute, replace 
+to translate 
+to occur, pass 
+to find, locate 
+abandoned 
+absurd 
+abundant, plentiful 
+academic 
+adult, grown-up (nm) 
+aggressive 
+sharp, acute 
+happy, lively, cheerful 
+kind, nice, friendly 
+anonymous 
+appropriate 
+Arab 
+artificial 
+attractive (adj) 
+basic, essential 
+fallen 
+tired, tiresome 
+characteristic 
+Catholic 
+composite, mixed 
+Communist 
+considerable 
+growing, increasing 
+cruel, harsh 
+square 
+guilty 
+definite 
+democratic 
+unpleasant 
+developed, grown 
+desperate, hopeless 
+desert (nm) 
+nude, naked 
+distant, far, remote 
+painful 
+dramatic 
+copy, issue (nm) 
+locked up 
+wrapped 
+mistaken, wrong 
+specific 
+spontaneous 
+strict, rigorous 
+exceptional, unusual 
+exclusive 
+extensive, large 
+external, outward 
+fantastic, unreal 
+favorable, suitable 
+ugly, nasty, rude 
+formal, polite 
+cool, healthy, fresh (adj) 
+generous 
+fat, thick 
+gray, gloomy 
+thick (adj) 
+humble, modest 
+identical 
+impressive, astonishing 
+indigenous, native 
+industrial 
+infinite (adj) 
+unfair, unjust 
+Japanese 
+Jewish 
+legal 
+liberal 
+masculine, manly, male 
+mere 
+modest, humble 
+dark, brown 
+mutual 
+worker, laborer (nm/f)&nbsp;[also trabajador] 
+occidental, western 
+hidden, occult 
+organized, clean 
+vulgar, ordinary 
+organized 
+proud, arrogant [also soberbio] 
+stopped, standing 
+parallel 
+painted 
+little bit 
+foreseen, planned 
+primitive 
+prohibited 
+dear, beloved 
+reasonable 
+remote, far-off 
+repeated 
+resolved, determined 
+rigid, stiff, firm 
+romantic 
+Russian 
+wild, savage, uncultivated 
+secondary 
+sensitive, sentient 
+solitary, lonely 
+surprising, astonishing 
+successive, following 
+stupid, dumb 
+uniform (nm) 
+university (adj) 
+urban, city, urbane 
+urgent 
+valid 
+valuable, precious 
+varied, mixed 
+visible 
+here, around here 
+now, at present 
+inside 
+approximately 
+necessarily 
+normally 
+fully 
+afterwards 
+principally, mainly 
+suddenly 
+simply 
+extremely, highly 
+lately, recently 
+oh no! oh my! 
+etcetera 
+colleague 
+merchant, businessman 
+guide, leader 
+leader 
+relative (nc) 
+grandmother 
+present time 
+administration 
+admiration 
+statement, assertion 
+ambition 
+threat 
+anecdote 
+application 
+association 
+atmosphere, environment 
+musical band, sash 
+flag 
+bottle, flask 
+joke 
+calm, lull 
+shirt 
+chance, coincidence 
+hunting (game) 
+ceremony 
+appointment, date, quotation 
+civilization 
+collaboration 
+colony, cologne 
+combination 
+commission, committee 
+comfort, convenience 
+female companion 
+conception 
+conference, lecture 
+consultation, advice 
+contradiction 
+conviction 
+cup, glass, top of a tree 
+copy 
+belief 
+creature, child 
+cord, rope 
+lady, dame 
+dance 
+weakness 
+decade 
+disappearance 
+destruction 
+debt 
+dignity 
+distribution 
+courtesy title (f), Mrs. 
+drug 
+edition, publication 
+performance, execution 
+delivery 
+writing, scripture 
+stay, stance, ranch 
+evidence, certainty 
+expectation, hope, prospect 
+explosion 
+extension, area, expanse 
+fantasy, fancy 
+phase, stage 
+photo, picture 
+guarantee, warranty 
+glory, fame 
+inheritance, legacy 
+wound, injury 
+tool 
+hypothesis 
+trace, track, footstep 
+slope, incline, tendency 
+installation, facilities 
+application, request 
+intensity, force 
+investment, outlay 
+invitation 
+working day, shift 
+tear, teardrop 
+tin can 
+legend 
+liberation 
+cleanliness, purity 
+key, faucet, wrench 
+madness, insanity 
+logic 
+moon 
+dawn, daybreak [also alba] 
+mom 
+stain, spot 
+wonder, marvel 
+average; a m.: halfways 
+goal, aim, purpose 
+multitude 
+nose 
+snow 
+occupation, use 
+offer, bid, supply 
+wave, billow 
+wave, ripple 
+option, choice 
+ear 
+shore, edge 
+darkness 
+patience 
+screen, monitor 
+leg, paw 
+native land, fatherland 
+ball 
+pension, boarding house 
+clue, track, trace 
+pen, feather 
+possession 
+preparation, training 
+spring, spring-like 
+promise 
+proportion 
+proposal, proposition 
+objection, protest 
+queen 
+laugh, chuckle 
+rock 
+knee 
+ruin, collapse 
+break-up, rupture 
+route 
+forest, jungle 
+separation 
+sympathy, affinity 
+loneliness, solitude 
+card 
+thesis, exposition 
+aunt 
+tower 
+whole, totality 
+transformation 
+sadness 
+troops, forces 
+tomb, grave 
+union 
+urgency 
+cow 
+variety 
+candle, sail, vigil 
+embarrassment 
+widow 
+wing, flank 
+oil 
+eagerness, zeal, effort 
+affection, fondness 
+alcohol 
+warehouse, store 
+angel 
+angle 
+advertisement, announcement 
+last name 
+arch, arc, bow 
+seat, chair 
+auto, car 
+bird [also pájaro] 
+random, chance, hazard 
+sugar 
+dance, ball 
+snack bar, café 
+wellbeing, welfare 
+block 
+pocket 
+corpse, body 
+candidate 
+chaos 
+captain, chief 
+love, affection 
+centimeter 
+cycle 
+zipper, closing 
+club, society 
+code 
+combat, battle, fight 
+concert, concerto 
+consumption 
+contrast 
+creator 
+glass, crystal, window 
+cultivation, crop 
+debate 
+crime, offense 
+sport 
+disorder, mess 
+office, study 
+design 
+double (nm) 
+drama 
+money (nm) 
+echo, response 
+episode, incident 
+scandal 
+slave 
+outline, diagram, plan 
+establishment 
+ghost, phantom 
+functioning, operation 
+livestock, cattle 
+gas 
+turn, draft, expression 
+hero 
+ice 
+homage, tribute 
+schedule, timetable 
+horizon 
+horror, atrocity 
+impact 
+inconvenience, drawback 
+exchange, interchange 
+June 
+laboratory 
+liquid 
+Monday 
+command, authority 
+handling, management 
+map 
+March 
+shade, tint, nuance 
+maximum (nm) 
+metal 
+miracle 
+minimum (nm) 
+mystery 
+myth 
+dead person (nm) 
+November 
+nucleus, core 
+objective, impartial (adj) 
+hatred 
+pride 
+East 
+stick, pole 
+panorama, landscape 
+pants, trousers 
+package, packet 
+supporter, partisan 
+fare, passage, lane 
+walk, ride 
+forgiveness, pardon 
+profile, outline 
+fish (alive) 
+planet 
+ray, beam, lightning 
+rejection, refusal 
+journey, itinerary, route 
+gift, present 
+register, record 
+kingdom, reign 
+tale, story 
+portrait, photograph 
+harshness, rigor 
+corner, nook 
+face, countenance 
+direction, course, bearing 
+taste, flavor, sensation 
+symptom 
+member, partner 
+talent, skill 
+workshop, shop 
+temple, church 
+terror, horror 
+testimony, evidence 
+bull 
+traffic, trade 
+treaty, treatise 
+turn; shift &nbsp; 
+universe 
+male, man 
+drinking glass, vase 
+dress (nm) 
+glass, pane 
+Friday 
+vote 
+painter 
+salesperson 
+priest (m), cure (f) 
+dad 
+fourteen 
+zero, naught, nil 
+two hundred 
+eighty 
+thirteen 
+twenty-five 
+tea 
+to encompass, comprise 
+to board, get in/on 
+to absorb, soak up 
+to consent, agree, accede 
+to accommodate, be/make comfortable 
+to adapt 
+to grasp, catch 
+to threaten 
+to anticipate, advance 
+to turn off, extinguish 
+to squeeze, tighten, compress 
+to come near, closer 
+to appear, show, stick (out) 
+to tie (up) 
+to notify [also notificar] 
+to dance 
+to offer 
+to grade, rate, qualify 
+to be/make quiet 
+to characterize, portray 
+to punish 
+to cease, stop 
+to hang up 
+to combine 
+to compete 
+to behave 
+to compromise 
+to conquer, win over 
+to hire, contract 
+to copy 
+to cure 
+to denounce 
+to carry out, fulfill 
+to undo, destroy, take apart 
+to designate 
+to draw, sketch 
+to shoot at 
+to amuse, entertain 
+to hurt 
+to educate 
+to execute, carry out 
+to undertake, embark on 
+to turn on 
+to wrap 
+to balance 
+to choose 
+to specialize, major in 
+to break out, explode, start 
+to exhibit, show off 
+to expel, throw out 
+to extract, take out 
+to favor, help 
+to formulate 
+to fail, to be unsuccessful 
+to smoke 
+to guarantee 
+to generate 
+to govern 
+to imitate, copy, mimic 
+to impress 
+to inaugurate, start 
+to have influence 
+to inspire, inhale 
+to put togerther, to get together&nbsp;[also reunir] 
+to rain 
+to (tell a) lie 
+to multiply 
+to choose, opt for 
+guide, show the way 
+to give, grant, award 
+to behave [se], carry 
+to turn on, apprehend 
+to foresee, anticipate, forecast 
+to extend, prolong 
+to protest, object 
+to break, bend, weaken 
+to reconstruct 
+to renew, renovate 
+to keep, retain 
+to dry 
+to situate, place, locate 
+to release, loosen, let out 
+to solve, settle 
+to cover, wrap 
+to change, vary 
+to watch over, guard 
+boring, bored 
+administrative 
+admirable 
+adolescent (nc) 
+aerial, air 
+tired, used up, sold out 
+bitter, sour, painful 
+apparent 
+attentive, careful, polite 
+absent 
+automatic 
+autonomous 
+savage, horrible 
+soft, limp, gentle 
+fierce, angry 
+brutal, coarse, clumsy 
+warm 
+committed, engaged 
+confused, mixed up 
+conservative 
+consequent 
+conventional 
+raw, crude, natural 
+cultured, educated (adj) 
+decisive, conclusive 
+sports, sporty 
+funny, amusing 
+golden, gold-plated 
+asleep, sleeping 
+school, scholastic 
+hidden 
+spectacular 
+splendid, generous 
+stable, steady 
+esthetic 
+exaggerated 
+existing 
+exquisite, superb 
+fateful, deadly, awful 
+favorite 
+philosophical 
+frustrated 
+giant, gigantic 
+skillful, clever 
+fed up with 
+iced, freezing, icy 
+wounded, injured (adj) 
+deep 
+horrible 
+hole, cavity (nm) 
+humid, damp 
+ideological 
+renowned, illustrious 
+essential, indispensable 
+inclined, slanting 
+uncomfortable 
+unconscious, thoughtless 
+indifferent 
+unexpected, unforeseen 
+innocent, naïve 
+restless, anxious 
+judicial 
+legal, juridical 
+young, juvenile 
+legitimate 
+slight, trifling, light 
+linked, joined 
+pretty, nice, lovely 
+bright, luminous 
+mature, ripe 
+magic, magical 
+marine, naval 
+mid, middle 
+metallic 
+mixed 
+mysterious 
+municipal, town 
+noble (adj) 
+obvious 
+peculiar 
+thought-out, designed 
+plastic (nm) 
+borrowed, lent 
+prolonged, lengthy 
+sensible, prudent 
+chemical 
+rational 
+realistic 
+right, straight, honest 
+reserved, booked 
+rigorous, severe 
+rural, country 
+sentimental 
+nice, likeable, friendly 
+sincere 
+single, singular 
+socialist 
+loud, resounding 
+deaf, dull 
+superficial 
+supreme 
+subtle 
+telephone 
+theoretical 
+tender, soft 
+timid, shy, half-hearted 
+tragic 
+transparent, clear 
+vast, immense, huge 
+voluntary, volunteer 
+vulgar, common, banal 
+luckily, fortunately 
+previously&nbsp;[also previamente] 
+certainly, indeed 
+continuously 
+in front of 
+immediately, at once 
+strictly 
+frankly, openly 
+fundamentally, basically 
+freely 
+slightly, lightly 
+particularly, personally 
+previously&nbsp;[also anteriormente] 
+purely, simply 
+recently 
+relatively 
+right away, at once 
+eh 
+oh 
+East (n) 
+helper, assistant 
+protagonist, main character 
+visitor 
+acceptance, approval 
+agency, branch 
+feeding, food 
+harmony 
+architecture 
+attendance, assistance 
+ambition, aspiration 
+attraction 
+avenue 
+bar, rod, rail 
+barrier, obstacle 
+garbage, rubbish 
+drink, beverage 
+marriage, wedding 
+ball, sphere 
+goodness, kindness 
+boot, wineskin 
+bell 
+wallet, satchel 
+dinner 
+nearness, proximity 
+certainty 
+talk, chat 
+circulation, traffic 
+coincidence 
+conquest 
+coexistence, living together 
+crown 
+correspondence, connection 
+harvest, crop 
+account, chronicle 
+cross, burden 
+quota, share, dues 
+curve 
+democracy 
+demonstration 
+accusation, complaint, denunciation 
+dependence, dependency 
+defeat, loss 
+description 
+desperation, exasperation 
+determination 
+dictatorship 
+distinction 
+dozen 
+doctrine, teachings 
+dose 
+efficiency, effectiveness 
+entity 
+stairs, ladder 
+sphere, globe 
+specialty, specialized field 
+strategy 
+fever, excitement 
+flight, escape 
+geography 
+management, step, negotiation 
+drop 
+seriousness, gravity 
+guitar 
+herb, grass, weed 
+strike, protest 
+humidity 
+identification 
+equality 
+uncertainty 
+nature, temperament 
+injustice 
+private life, intimacy 
+invasion 
+jewel, treasure 
+lagoon 
+limitation 
+maturity, ripeness 
+magnitude, extent 
+maneuver, operation 
+apple, city block 
+goods, merchandise 
+honey 
+religious mass 
+fly (insect) 
+girl 
+orange (fruit) 
+spacecraft, ship 
+notion, idea 
+girlfriend, bride 
+prayer 
+orientation, direction 
+palm tree, palm 
+pause 
+perfection 
+caution, forethought 
+preference 
+piece of clothing 
+dam, prisoner (f) 
+pretension, claim 
+prison, imprisonment 
+promotion 
+advertising, propaganda 
+publication 
+advertising, publicity 
+complaint 
+rage 
+fulfillment, realization 
+recommendation 
+reform, improvement 
+residence 
+resolution 
+wisdom, knowledge 
+salt 
+selection, choice 
+seed 
+young woman 
+legal sentence, judgment 
+synthesis 
+solidarity, togetherness 
+smile 
+suspicion 
+succession, series 
+substance, essence 
+technology 
+temptation 
+storm 
+trick, trap; to cheat 
+tribe 
+usefulness, utility 
+variation 
+surveillance, vigilance 
+speech, talking 
+abandonment, desertion 
+overcoat, shelter 
+abuse, misuse 
+accent, stress 
+goodbye 
+adult, grown-up (adj) 
+airport 
+saving, thrift 
+master, boss (m) 
+antecedent 
+learning, apprenticeship 
+arrangement 
+warning 
+clay, mud 
+button 
+hair&nbsp;[also pelo] 
+cable, wiring 
+drawer 
+truck, van, tanker 
+tiredness, weariness 
+caprice, whim 
+zeal,&nbsp;jealousy 
+cemetery, graveyard 
+joke, funny story 
+crash, collision 
+cigarette 
+community, citizen (adj) 
+collaborator 
+complex (nm) 
+component, ingredient 
+competition, gathering 
+context 
+choir, chorus 
+crossing, intersection 
+quarters, barracks 
+knife 
+leather, skin 
+worship, cult (nm) 
+fulfillment, compliment 
+deposit, sediment 
+challenge, provocation 
+contempt, disdain 
+devil 
+axis, shaft, crux 
+exemplary, model (adj) 
+manager, entrepreneur 
+emphasis 
+environment, surroundings 
+spectator, onlooker 
+husband, spouse 
+stimulus, encouragement 
+stomach 
+experiment 
+railway 
+philosopher 
+focus 
+freshness, coolness (nm) 
+foundation, ground 
+soccer 
+genius, temper, genie 
+grain, kernel 
+smoke 
+tax 
+fire, conflagration 
+beginning, start 
+instinct 
+guest 
+Thursday 
+toy 
+kilogram 
+lip 
+lake 
+bow, knot, tie, lasso 
+lion 
+noon, midday 
+monument 
+museum 
+nerve 
+grandchild 
+boyfriend, groom 
+obstacle 
+forgetfulness, omission 
+pact, agreement 
+Pope (m), potato (f) 
+paradise 
+hall, corridor 
+sin 
+piece, bit 
+fish (cooked) 
+piano 
+plastic (adj) 
+future, time to come 
+well, shaft 
+prejudice 
+budget 
+pretext, excuse 
+prince 
+owner 
+shelter, refuge 
+prerequisite, requirement 
+support, backing, back 
+summary 
+theft, robbery 
+rumor, murmur 
+sack, bag, plunder 
+greeting 
+stamp, seal 
+September 
+hat, sombrero 
+event, incident 
+suffering 
+tobacco, cigarette, cigar 
+fabric, tissue 
+treasure, thesaurus 
+traffic, transit 
+transfer 
+court 
+trunk, torso 
+piece, chunk 
+tube, pipe 
+tunnel 
+vapor, steam 
+verse, poem 
+vice, bad habit, defect 
+architect 
+scientist (nm/f) 
+broker, corridor, runner 
+researcher, investigator 
+musician 
+working class (adj) 
+technician (nm/f) 
+dessert; in the end 
+eighteen 
+sixteen 
+twenty-four 
+yours (singular familiar) 
+to hug, embrace 
+to be plentiful 
+to accent, stress 
+to welcome, accept 
+to guess, solve 
+to administer, manage 
+to face, confront 
+to drown, choke, flood 
+to save (money, time) 
+to enlarge, elongate 
+to be/make happy 
+to lift, raise 
+to annotate, jot, note 
+to annul, cancel 
+to arm, put together 
+to assimilate 
+to frighten, scare 
+to authorize, legalize 
+to shine, twinkle, be outstanding 
+to sprout 
+to warm, heat 
+to tire, annoy 
+to center, focus, base on 
+to specify, materialize, fulfill 
+to contract, shrink, abbreviate 
+to converse, talk 
+to coexist 
+to convene, summon 
+to deduce, infer 
+to defeat, beat 
+to discard, reject, rule out 
+to deviate, divert, change 
+to detect 
+to differentiate, distinguish 
+to spread out 
+to design, develop 
+to distract 
+to carry out, cause to happen 
+to be very pleasing to 
+to enrich 
+to bury 
+to entertain, amuse 
+to make an effort, exert oneself 
+to stimulate, encourage 
+to exaggerate 
+to miss, long for 
+to float, flutter 
+to brake, restrain 
+to generalize, popularize 
+to guide, lead, steer 
+to inhabit 
+to inherit 
+to illuminate, light up 
+to print 
+to lead to,&nbsp;induce 
+to swear, take an oath 
+to regret 
+to liberate, set free 
+to show off, shine 
+to give rise to, cause 
+to fish 
+to bite, sting, itch, chop 
+to step on 
+to plan 
+to plant 
+to press, pressure 
+to deprive of 
+to proclaim 
+to progress 
+to promote 
+to continue, carry on 
+to provide 
+to edit, write, compose 
+to reflect, consider on 
+to reiterate, repeat 
+to tell, narrate 
+to go back to (time) 
+to repair, to mend, to fix 
+to rescue, save 
+to reserve, book 
+to reside, live in 
+to subtract, minimize 
+to go back 
+to pray, recite 
+to sacrifice 
+to shake, jolt 
+to select 
+to sow, plant 
+to be too much, left over 
+to smile 
+to fasten, attach, hold 
+to suppress, delete 
+to sew, weave 
+to tolerate, put up with 
+to swallow 
+to transport, carry 
+to draw, trace 
+to triumph 
+to trip, stumble 
+to value 
+to violate, trespass, rape 
+acceptable, suitable 
+very high, tall 
+ambitious, greedy 
+loving, affectionate 
+excited, lively 
+anxious eager 
+auxiliary, ancillary 
+British 
+brusque, abrupt, sudden 
+quiet, reserved 
+homemade 
+famous, renowned 
+Chilean 
+hanging 
+colonial 
+comic 
+contemporary 
+contradictory 
+tenth 
+thin, skinny 
+delicious, delightful, charming 
+slow, slowly 
+outstanding, leading 
+saying, proverb (nm) 
+discreet, tactful 
+available 
+distinguished 
+endowed, gifted 
+doubtful, dubious 
+executive 
+electoral 
+electronic 
+in love 
+pleased, delighted 
+turned on, burning 
+energetic, vigorous 
+frightening, dreadful 
+marvelous, stupendous 
+stupid, idiotic 
+financial 
+flexible 
+formidable, tremendous 
+fragile, weak 
+brilliant, inspired 
+geographical 
+funny, charming, amusing 
+agreeable, pleasant 
+free, arbitrary, gratuitous 
+heroic 
+honest 
+ignorant 
+illuminated 
+learned, illustrated 
+indirect 
+unnecessary 
+innumerable, countless 
+unbearable, intolerable 
+insufficient 
+intact 
+interim, intermediate (adj) 
+endless, interminable 
+irregular 
+labor, industry (adj) 
+regrettable 
+maternal 
+average, medium, ordinary 
+wretched, miserable 
+annoyed, bothered, upset 
+mortal, lethal, deadly (adj) 
+mute, silent 
+native 
+notorious, noticeable 
+obligatory, compulsory 
+optimistic 
+peaceful 
+pale, ghastly, faded 
+passenger (nm) 
+poetic 
+police (adj) 
+potent, powerful 
+preferable 
+prisoner (nm) 
+coming from&nbsp;[also proveniente] 
+psychological 
+punctual 
+burned, burnt 
+still, motionless, calm 
+concerning 
+regional 
+sudden [also súbito] 
+remaining 
+ridiculous, absurd (adj) 
+categorical 
+blonde, fair 
+satisfactory 
+sixth 
+quiet, silent 
+symbolic 
+solemn 
+single, not married 
+surprised 
+sustained, steady 
+late, belated 
+theatrical 
+temporary 
+tight, tense 
+worn out, old, used 
+vague 
+brave, courageous, bold 
+vain, useless 
+plant, vegetable (adj) 
+verbal, oral 
+vertical, upright 
+connected 
+your (plural familiar) 
+last night 
+automatically 
+specifically, exactly 
+strangely, funnily enough 
+unfortunately 
+with difficulty 
+habitually 
+doubtless, undoubtedly 
+logically 
+I hope that 
+permanently 
+exactly, properly 
+seriously 
+successively, step by step 
+calmly, peacefully 
+housekeeper, housewife 
+assistant 
+singer 
+civilian (nc) 
+descendant 
+leader, director, manager 
+tourist (nc) 
+abundance 
+adolescence 
+warning, notice 
+fondness, interest 
+aggression, attack 
+alarm 
+small village 
+rug, carpet mat 
+anxiety 
+opening, beginning 
+audience, hearing 
+autonomy, range 
+bullet, shot 
+beard 
+cane, reed 
+lack, shortage [also falta] 
+catastrophe 
+celebration 
+cell (biology) 
+beer, ale 
+waist 
+key (adj) 
+comedy, play, pretense 
+complication 
+awarding, concession 
+connection, relationship 
+confession, admission 
+perseverance 
+continuity 
+convenience, usefulness 
+tie, sash 
+corruption 
+decline, decay 
+depression, slump 
+distrust 
+fun, entertainment 
+duration, length 
+emergency 
+envy 
+scarcity, shortage 
+sword 
+stability 
+statistic 
+statue 
+excellence 
+skirt 
+fair, festival 
+fiber, grain 
+fiction 
+purpose, aim 
+fortress, strength 
+frustration 
+gallery, balcony 
+hen, coward 
+throat, gorge 
+greatness, size 
+grease, fat 
+female, woman 
+ideology 
+ignorance 
+indifference 
+inspiration, inhalation 
+introduction 
+hierarchy, rank 
+meeting, conference, seam 
+justification 
+lamp 
+wool 
+shame, pity 
+license, permission 
+magic 
+sleeve 
+mask 
+mathematics 
+improvement 
+mention 
+mindset, mind 
+mine (nf) 
+bother, nuisance, trouble 
+motivation 
+doll, wrist 
+negative, denial 
+nostalgia, homesickness 
+mania, obsession 
+orchestra, dance band 
+straw, thatching 
+guideline, rule, standard 
+fight, quarrel 
+permanence, tenure 
+pursuit, persecution 
+nightmare 
+fishing 
+request, petition 
+plaque, plate, badge 
+fullness, abundance 
+part, portion, share 
+filth, junk 
+forecast, precaution 
+female cousin, down payment 
+hurry 
+proximity 
+projection, screening 
+purity, chastity 
+rat 
+line, ray, stripe 
+reception, waiting-room 
+recipe, prescription 
+recovery, recuperation 
+income, rent  
+repetition 
+republic 
+respiration, breath 
+routine 
+sequence 
+thirst 
+silk 
+seriousness 
+mountain range, saw 
+cover, lid 
+cup, bowl 
+shyness, timidity 
+ink 
+stupidity, stupid thing&nbsp;[also estupidez] 
+translation 
+treason, betrayal 
+transition 
+transcendent nature, significance 
+trajectory, path 
+nail, fingernail, toenail 
+use, utilization 
+revenge, vengeance 
+really, for real 
+steel 
+decoration, adornment 
+fan, devotee 
+hole, opening 
+mayor 
+breath, courage, spirit 
+lunch 
+daybreak, dawn (nm) 
+ring 
+applause, praise, acclaim 
+archive, file, filing cabinet 
+rice 
+promotion, climb 
+murder, assassination 
+killer, assassin 
+attraction, charm (nm) 
+help, aid, assistance 
+outcome, balance 
+balcony 
+faction, side 
+baby 
+kiss 
+ticket, bill, note 
+shine, twinkling, sparkle 
+bronze 
+cancer 
+canyon, cannon 
+poster 
+cardboard, carton, sketch 
+helmet 
+castle 
+riverbed, ditch 
+cement, concrete 
+hundred (nm) 
+pig, sow, slob 
+hill 
+dining room 
+congress 
+courage, toughness 
+side, flank 
+price, cost, expense 
+critic (nm) 
+notebook, workbook 
+defender 
+demon, devil 
+breakfast 
+residence, address 
+bedroom, dormitory 
+candy, sweets (nm) 
+insistence, determination 
+charm, spell 
+confrontation 
+deceit, falsehood, hoax 
+understanding 
+shield, coat of arms 
+exile 
+cutting edge 
+fragment, passage 
+balloon, globe 
+glove 
+finding, discovery 
+oven, furnace 
+empire, fortune 
+incident 
+indication, sign 
+hell, inferno 
+ingenuity, talent, wit 
+invention 
+player, gambler 
+brick 
+pencil 
+Latin (nm) 
+success, achievement 
+male, manliness 
+corn, maize 
+discomfort, unease, unrest 
+mandate, order, command 
+to show 
+Tuesday 
+Wednesday 
+ministry 
+monkey 
+monster, monstrosity 
+muscle 
+nest 
+knot 
+bishop 
+observer 
+autumn 
+panic 
+paragraph 
+patrimony, inheritance 
+oil, petroleum 
+flat, plain, even, level (adj) 
+lead, bullet 
+chicken 
+percentage 
+bearer, carrier 
+prisoner 
+lung 
+task, job, chore 
+cheese 
+rank, range 
+track, sign, flea market 
+reasoning 
+grounds, precincts 
+distribution, delivery 
+restaurant 
+challenge, defiance 
+return [also regreso] 
+rite, ritual 
+salary, wages 
+insurance (nm) 
+suicide 
+fright, scare 
+taxi, cab 
+television set 
+doorbell, bell, seal, stamp 
+touch, ringing, warning 
+procedure, step, requirement 
+section, stretch, plot 
+passing, course, lapse 
+trajectory, course, path 
+traveler, passenger 
+womb, belly 
+force, strength, vigor 
+tie, bond, link 
+hunter 
+driver, conductor 
+nurse 
+historian 
+shepherd, pastor 
+seventeen 
+ninety 
+five hundred 
+three hundred 
+except for 
+with you 
+you (subj singular familiar) [also tú] 
+to accelerate, speed up 
+to get right 
+to put/go to bed 
+to worship, adore 
+to shake, move 
+to isolate, insulate 
+to encourage 
+to lighten, relieve, comfort 
+to alternate 
+to allude to 
+to flatten, crush, smash 
+to clap, applaud 
+to take power 
+to burn, glow 
+to snatch, grab 
+to risk, venture 
+to settle, establish, locate 
+to murder, assassinate 
+to assign, allocate 
+to bathe, take a bath 
+sweep, clean out 
+to beat an object 
+to baptize, christen 
+to benefit 
+to mock 
+to calm, soothe, relieve 
+to hunt 
+to dine 
+to nail 
+to cook 
+to compensate, make up for 
+to connect, plug in 
+to culminate, accomplish 
+to debate, discuss 
+to delay, take time 
+to untie, unleash, spark off 
+to unleash, unload 
+to neglect 
+to flow, lead into 
+to unfold, deploy 
+to despise, scorn 
+to disguise, hide, pretend 
+to dissolve 
+to dispute, contest 
+to evade, avoid, elude 
+to emerge, surface 
+to fall in love 
+to insert, fit well 
+to test,&nbsp;rehearse 
+to evolve, develop 
+to exclude, reject 
+to pass away (to die) 
+to end, finalize 
+to flow 
+to wound, hurt 
+to improvise 
+to insinuate, hint 
+to locate, find, localize 
+to motivate, cause 
+to swim 
+to navigate, sail 
+to occasion, bring about 
+to hate 
+to smell 
+to perfect 
+to endanger 
+to persist 
+to precede 
+to plunge, hurl, rush 
+to preserve 
+to preside over 
+to boast, show off, suppose 
+to avoid, prevent [also evitar] 
+to plan, program 
+to replace 
+to reinforce, strengthen 
+to rule, govern, manage 
+to remit 
+to replace, restore 
+to summarize 
+to retake, restart 
+to roll, run, scatter 
+to implore, pray, ask 
+to touch lightly 
+to blow (wind) 
+to underline, highlight, emphasize 
+to arouse, provoke 
+to tremble, shake 
+to transform, turn 
+to watch over 
+to turn/knock over, empty 
+to vote 
+abstract 
+African 
+agricultural, farming 
+ambiguous 
+annual, yearly 
+passionate 
+tight, jammed 
+appropriate, fit, able 
+amazing 
+rough, coarse, harsh 
+scared, frightened 
+authoritarian 
+authorized 
+biological 
+brutal, savage 
+civilized 
+comparable 
+additional, complementary 
+dedicated, consecrated 
+costly, expensive 
+creative 
+Cuban 
+heavy, dense, thick 
+missing 
+uneven, unequal 
+awake 
+diplomatic (adj) 
+spread out 
+dominant 
+educational 
+efficient 
+selfish 
+pregnant 
+emotional 
+charming 
+thick, dense, stiff 
+static, motionless 
+studious 
+demanding, urgent 
+exotic 
+fabulous, fantastic 
+fascinating 
+ferocious, fierce 
+thin, frail 
+open, frank, outspoken 
+functional 
+furious 
+global, overall 
+glorious 
+horizontal 
+hostile, unfriendly 
+imaginary 
+printed 
+uncertain 
+unpublished 
+naive, ingenuous 
+insignificant 
+unusual, uncommon 
+integral, part of a group 
+inverse, opposite 
+invisible 
+Latin American 
+loyal, faithful 
+linguistic 
+smooth, flat, straight 
+luxurious 
+manual, handbook (nm) 
+marginal, minor 
+mass, massive 
+mathematical 
+monthly 
+Mexican 
+oral 
+organic 
+partial, biased 
+brown, dark, dim 
+painful, laborious 
+dreadful, awful 
+populated 
+Portuguese 
+preferred, favorite 
+privileged 
+progressive 
+appropriate, suitable 
+rebel (adj) 
+full, overcrowded 
+representative (adj) 
+respectful 
+healthy, wholesome [also sano] 
+bloody 
+systematic 
+solar 
+suspicious 
+underground 
+utmost, highest 
+technological 
+fearful 
+spread, hung, laid out 
+lukewarm 
+clumsy, awkward, slow 
+tropical 
+Turkish 
+Basque 
+in force, valid 
+virgin (nf) 
+to where? 
+in days gone by, last year 
+beforehand, in advance 
+as well, also, moreover 
+basically 
+daily (adv) 
+enormously 
+completely, entirely 
+excessively 
+extraordinarily 
+physically 
+frequently, often 
+strongly 
+including, even 
+inevitably 
+intensely 
+regrettably 
+literally 
+obviously 
+simultaneously 
+sincerely 
+softly 
+carefully 
+fellow countryman 
+rival 
+accumulation 
+accusation, charge 
+adaptation 
+acquisition 
+agriculture, farming 
+needle, spire, stylus 
+alliance 
+alteration, change 
+allusion, hint 
+breadth, extent, range 
+antiquity, seniority 
+approval, consent 
+assembly 
+scholarship, grant 
+beast, brute 
+bicycle 
+head, header 
+chapel 
+charity 
+cottage 
+ash 
+censorship, criticism 
+headquarters (nf) 
+spark 
+clinic 
+communion 
+sentence in prison, penalty 
+conservation 
+correction, amendment 
+curtain, screen 
+cruelty, harshness 
+city block, stable 
+covering, top, lid 
+summit, top 
+cradle, birth, lineage 
+cupola, dome 
+dedication, devotion 
+devotion 
+diet 
+spread, diffusion 
+dispute, argument, quarrel 
+landlady, owner (f) 
+hardness, toughness 
+production [also producción] 
+electricity 
+speculation, conjecture 
+thorn, spine 
+ethics 
+label, etiquette 
+accuracy 
+excursion 
+excuse 
+expansion, spreading 
+expedition 
+exploitation, cultivation 
+front of a building 
+index card, chip, token 
+faithfulness, accuracy 
+strip, stripe, fringe 
+generosity 
+tour 
+rubber 
+ranch 
+flour 
+deed, heroic feat 
+illumination, lighting 
+inability, incompetence 
+innocence 
+inscription, registration 
+insecurity 
+insistence, persistence 
+interruption 
+intuition 
+invention, contrivance 
+rage, wrath 
+irony 
+sheet of metal 
+loyalty, faithfulness 
+slowness 
+flame, llama 
+town, locality 
+teacher (f) 
+machinery 
+butterfly, wing nut 
+mechanics, mechanism 
+medal, medallion 
+modification, alteration 
+nun 
+city wall 
+ease, spontaneity 
+opera 
+sheep, ewe 
+dove 
+transportation stop 
+pasta, dough 
+membership, property 
+peseta (money) 
+plague, pestilence, pest 
+battery, pile, sink 
+gun, pistol 
+platform, springboard 
+polemics, argument 
+proposition 
+prudence, moderation 
+rebelliousness, defiance 
+editing, wording, essay 
+reduction 
+renewal, renovation 
+resignation, renunciation 
+answer, retort, copy 
+repression 
+reproduction 
+retreat, withdrawal 
+revelation 
+checking revision 
+rein, restraint 
+round (nf) 
+bed sheet 
+salvation, rescue 
+similarity, likeness 
+sign, mark, seal 
+serenity, calm 
+request, application 
+soup 
+suggestion 
+survival 
+tenderness 
+tolerance 
+torture 
+plot, theme 
+position, location 
+grape 
+vanity, conceit 
+variant, difference 
+vegetation 
+vein 
+village, villa 
+eve 
+vitality, health 
+anxiety, anguish 
+classroom 
+abyss, large gap 
+hug, embrace 
+absurdity, nonsense 
+acid 
+agreement, accord 
+adversary 
+cotton 
+rent, rental 
+width (nm) 
+anniversary 
+ancestor 
+contribution (nm) 
+note, annotation 
+aroma 
+assault, robbery 
+elevator 
+amazement, astonishment 
+small boat 
+bulk, shape 
+large ship 
+calendar 
+camp, camping 
+coal, charcoal 
+chocolate 
+belt 
+circus 
+circuit, circumference, track 
+copper 
+collective, group (nm) 
+climax; to top it all 
+commander, commanding officer 
+colonel 
+mail, post office 
+birthday 
+decree, order 
+decline, descent, lowering 
+parade, line, formation 
+deserted, desolate (adj) 
+movement, removal 
+diagnosis 
+aforementioned, said (adj) 
+deputy, member 
+disciple 
+disgust, annoyance 
+shot, discharge 
+divorce 
+grief, affliction 
+job, order, errand 
+focus, approach 
+desk, bureau 
+ghost, specter 
+splendor 
+stadium 
+event 
+dossier, proceedings 
+mistake, blunder, fault 
+flow, tide, discharge 
+brake 
+founder 
+rooster 
+governor 
+heir, heiress 
+hymn, anthem 
+human (nm) 
+insect 
+institute 
+insult 
+participant in a dialog 
+juice 
+bed 
+motto, slogan 
+wolf 
+maintenance, sustenance 
+cloak 
+mate (beverage) 
+mold, cast, pattern 
+ocean 
+West 
+optimism 
+original (nm) 
+handkerchief, shawl 
+kinship 
+birth 
+grass, pasture 
+perfume 
+damage, loss 
+proposal, exposition 
+pole, polo, polo shirt 
+imprisoned, confined (adj) 
+loan, borrowing 
+benefit, use 
+pulse, pulsation 
+fist, handle, cuff 
+mouse, rat 
+realism 
+clipping, cutting, trimming 
+regulations, rules 
+relief&nbsp;(scupture or Earth surface); to emphasize 
+yield, output, efficiency 
+rest, peace 
+residue, waste 
+delay 
+ridicule (nm) 
+ritual, rite 
+armchair, seat 
+trade union 
+nephew 
+tremor, shudder, shiver 
+lieutenant, deputy mayor 
+third (one-third) 
+headline, holder (nm) 
+tomato 
+wheat 
+threshold, outset 
+uniform (adj) 
+vocabulary 
+administrator, manager 
+ambassador 
+physicist (nm/f) 
+fisherman 
+comma (f), coma (m) 
+to abuse 
+to carry, result in, entail 
+to happen, come about 
+to please 
+to wait for, await 
+to lodge, harbor 
+to plead, argue 
+to have lunch 
+to rent, hire [also arrendar] 
+to light, illuminate 
+to dawn, get light (v) 
+to call upon, appeal to 
+to wager, bet 
+to repent, regret 
+to assault 
+to amaze, astound 
+to trap, catch 
+to kiss 
+to chat, talk 
+to classify, sort, file 
+to please, satisfy 
+to complement, supplement 
+to move, affect 
+to consent to, pamper 
+to console 
+to complete, carry out, consummate 
+to contrast 
+to sew 
+to question 
+to damage 
+to knock down, to demolish 
+to knock down, demolish 
+to overflow, spill over 
+to decompose, break down 
+to throw out 
+to unleash, unchain 
+to unwrap 
+to slide, glide, slip 
+to rip/break into pieces 
+to dispel, dissipate 
+to endow, bestow 
+to embark, load 
+to emigrate 
+to front, confront 
+to embody 
+
+to cool 
+to fill with enthusiasm, excite 
+to be equivalent, tantamount to 
+to stretch, strain 
+to tighten, make closer 
+to use for the first time, debut 
+to explore 
+to extinguish, put out 
+to congratulate 
+to seep, filter 
+to flower, bloom, flourish 
+to foster, promote, encourage 
+to melt, cast, smelt 
+to honor 
+to illustrate 
+to incite 
+to increase [also aumentar] 
+to register, record [also registrar] 
+to exchange 
+to question, interrogate 
+to mature, ripen 
+to meditate, ponder 
+to make wet, dampen 
+to bite 
+to mobilize 
+to move, change 
+to narrate, tell 
+to negotiate, deal with 
+to offend 
+oscillate 
+to paralyze 
+to give birth 
+to sin 
+to preach 
+to do without 
+to be present at, witness 
+to deepen, analyze in depth 
+to favor, foster, aid 
+to lie, be situated 
+to ratify 
+to renew, resume 
+to recite 
+to recover, regain 
+to trim, cut off, clip 
+to take shelter, give refuge 
+to remove, stir 
+to repress 
+to reproach 
+to emphasize 
+to return, give back&nbsp;[also devolver] 
+to revive 
+to stir, to make upset, to rummage through 
+feeling (nm) 
+to pretend, simulate 
+excel, out perform 
+to stand out, excel 
+to subsist, survive 
+to betray 
+to calm down 
+to go beyond, cross over 
+to empty, pour out 
+to verify 
+correct, accurate 
+additional 
+agile 
+agitated, irritated 
+agrarian, agricultural 
+alternating, alternative 
+traveling 
+threatened 
+friendly 
+turned off 
+arbitrary,&nbsp;high-handed 
+passionate, ardent 
+trapped 
+behind, slow 
+audacious, bold 
+Brazilian 
+affectionate 
+Catalan 
+heavenly, sky-blue 
+jealous 
+undercover, clandestine 
+coherent, connected 
+compact, dense 
+understandable 
+of the community 
+conditioned 
+constitutional 
+convincing (adj) 
+criminal (nc) 
+careful, cautious 
+defensive 
+barefoot 
+desirable 
+messy, confused 
+destroyed 
+detailed, thorough 
+fortunate, happy 
+diminutive, tiny, minute 
+dynamic 
+disguised 
+ephemeral, short-lived 
+aware of 
+buried 
+enthused, excited 
+equivalent (adj) 
+erotic 
+spatial, space 
+state, government-owned 
+sterile, barren 
+strategic 
+ethical 
+experimental 
+explicit 
+expressive 
+express, explicit 
+fiscal, treasury (adj) 
+photographic 
+genetic 
+gigantic (adj) 
+graphic, explicit 
+magnificent, grandiose 
+crude, rude, crass 
+handsome, beautiful 
+Dutch 
+honest, respectable 
+buried, sunken 
+imperial, imperialist 
+unforeseen, unexpected 
+incipient, beginning 
+incomprehensible 
+vague, indefinite 
+indisputable, unquestionable 
+unquestionable 
+unexplainable 
+unhappy, unfortunate 
+engrossed, immersed 
+imminent 
+immovable, motionless 
+unforgettable 
+disquieting 
+reversed, inverted 
+irrational 
+justifiable, justified 
+latent 
+side, lateral 
+light, frivolous 
+striking 
+damned, wretched 
+matrimonial 
+medieval 
+mediocre 
+meticulous, thorough 
+mixed, co-ed 
+wet 
+monotonous 
+poor, needy 
+dull, opaque, heavy 
+optimum 
+positioned, guided 
+paralyzed 
+passive 
+penal 
+journalistic 
+continual, perpetual 
+pertaining, belonging 
+Peruvian 
+perverse, wicked 
+picturesque 
+potential 
+precarious 
+presidential 
+fundamental, primary 
+coming from [also procedente 
+advertising 
+refined 
+reflected 
+relevant, significant 
+republican 
+respectable 
+confused, messed up 
+pink, rosy 
+noisy 
+rustic, rural 
+health, sanitary, clean 
+weekly 
+serene, calm 
+wild 
+united, jointly shared 
+shady, dark, dismal 
+Soviet 
+sudden [also repentino] 
+Swiss 
+susceptible 
+tenuous, flimsy 
+transitory 
+fast, quick 
+visual 
+to where 
+highly 
+widely 
+quickly, sharply 
+correctly 
+decidedly, decisively 
+specifically 
+extremely 
+independently 
+intimately 
+mutually, each other 
+radically 
+supposedly, allegedly 
+violently 
+grateful, thankful 
+retired, remote, secluded 
+adolescent (adj) 
+accomplice 
+criminal (adj) 
+delinquent 
+ruler, leader 
+question, interrogator 
+nobleman, noble (nc) 
+novelist 
+rebel, insurgent (nc) 
+academy 
+outskirts, suburbs 
+agitation, excitement 
+alert 
+bitterness, sorrow 
+appreciation, assessment 
+approximation 
+wager, bet 
+authorization 
+tray 
+atrocity 
+biography 
+witch, hag 
+mockery, joke, trick 
+hip 
+evaluation, qualification 
+T-shirt 
+playing field, court 
+hearty laughter, guffaw 
+academic chair 
+cathedral 
+eyebrow, brow 
+jacket 
+chimney, fireplace 
+summit, peak, top 
+classification 
+hill, slope 
+compensation 
+computer 
+watchword, motto, slogan 
+constitution 
+contest, dispute 
+contribution (nf) 
+mountain range 
+courtesy 
+bark, crust, rind, peel 
+breeding, raising 
+density, thickness 
+dynamics 
+elegance, style 
+embassy 
+poll, survey, inquiry 
+era, age 
+sculpture, carving 
+stature, height 
+stupidity, stupid thing [also tontería] 
+eternity 
+exaggeration 
+exploration 
+export, exportation 
+task, job, performance 
+flaw, failure 
+pharmacy, drugstore 
+fatigue 
+property, estate 
+firmness 
+fraction 
+foundation 
+fury, rage 
+gala (performance/dinner) 
+gain, profit 
+recording 
+humiliation 
+departure, first half of a trip 
+illustration 
+imitation 
+impossibility 
+imposition 
+printing house 
+inclusion, incorporation 
+indication 
+indignation 
+infinity, countless 
+innovation 
+integration 
+integrity 
+cage, crate, playpen 
+firewood 
+plain, prairie, plainness 
+length, longitude 
+suitcase, case 
+blanket 
+wave, tide, ebb 
+melody 
+favor, mercy 
+shit, crap, excrement 
+minority 
+nationality 
+narration, account 
+fog 
+childhood, infancy 
+normality 
+piece of property 
+parish 
+pill, capsule 
+kick, punt 
+perception 
+pearl 
+pity, mercy 
+electric iron, plate, sheet 
+presidency 
+princess 
+probability 
+procession 
+prohibition 
+psychology 
+rebellion 
+reconstruction 
+resonance, repercussion 
+sanction, approval, penalty 
+headquarters, seat 
+simplicity 
+drought 
+snake 
+siesta, afternoon nap 
+sincerity 
+superiority 
+size (of clothing), stature 
+terrace, balcony 
+get-together, meeting of friends 
+strip, strap 
+ton 
+broadcast, transmission 
+transparency, slide 
+validity 
+vanguard, forefront 
+old age 
+vegetables, greenery 
+violation, rape 
+virgin (adj) 
+range, handheld fan 
+boredom 
+approach, approximation 
+good aim, guess, hit 
+advance, progress [also avance] 
+isolation 
+adjustment, settlement 
+wire 
+ally 
+relief, unburdening 
+altar 
+protection, shelter 
+longing, yearning 
+appetite 
+start, outburst, kick-start 
+brook, stream, gutter 
+disgust 
+evening, dusk 
+attribute, quality 
+walking cane 
+mustache 
+on board 
+catalog 
+volume, abundance, fortune 
+stream, jet, spurt 
+nail, tack, peg 
+elbow 
+mattress 
+collar, necklace 
+commissioner, delegate 
+rhythm, time, compass 
+buyer 
+rabbit 
+expert, judge, connoisseur 
+comfort, consolation 
+outline, perimeter, edge 
+convent, monastery 
+corral, yard 
+horn, antler 
+disagreement 
+deterioration, damage 
+dictionary 
+nonsense, blunder 
+selfishness 
+praise, eulogy, compliment 
+pregnancy 
+transmitter, emitter 
+link, connection, bond 
+burial 
+training 
+skeleton, framework 
+crash, outbreak, explosion 
+bottle, jar, flask 
+bulk, mass (nm) 
+wounded (person) (nm) 
+liver 
+interval, gap 
+young person 
+maze, labyrinth 
+lapse 
+mess, problem, bad situation 
+liter 
+crying, weeping 
+handle, mango 
+manual (adj) 
+marble 
+waiter, youth, bellboy 
+leisure time 
+pillar, column 
+pine tree 
+litigation, suit, dispute 
+producer 
+protector, defender 
+bunch of flowers, branch 
+claim, complaint, protest 
+grudge, spite 
+repertoire, list, index 
+news report 
+resentment 
+kidney 
+roll, coil 
+rosary, beads, string 
+follower, supporter, fan 
+seminar, seminary 
+foot path 
+sweat, perspiration 
+board, panel 
+sense of touch, feel 
+heel, check, coupon, stub 
+drum 
+earthquake 
+tint, dye 
+drink, [a] swallow 
+traitor 
+trance, fix, enrapture 
+rag, cloth 
+confusion, trouble, upheaval 
+triangle 
+trick, ruse 
+tourism 
+poison, venom 
+verb 
+steering wheel 
+adviser, consultant 
+cook 
+advisor, counselor 
+photographer 
+pilot, driver 
+porter, doorkeeper, goalkeeper 
+senator 
+servant 
+hardworking (adj) 
+lens, [pl] glasses 
+you (subj plural familiar) 
+to bore, tire 
+to stroke, fondle, caress 
+to adorn, to decorate 
+to grasp, clutch 
+to aggravate, worsen 
+to put in a group 
+to give the appearance 
+to hurry up 
+to hurry (LAm) 
+to argue, deduce 
+to raze, ravage 
+to articulate 
+to abide by, comply with 
+to wear shoes 
+to capture 
+to adhere to, fit tightly, encircle 
+to suck 
+circular (adj) 
+to slip in [se]
+to coincide, concur, meet 
+to condition, determine 
+to form, configure  
+to consecrate, establish 
+to consolidate 
+to prove, verify 
+to infect, infest 
+to contradict, be inconsistent 
+to crown, top 
+to weaken, debilitate 
+to shed, pour out 
+to defy, stand up to 
+to march, parade 
+to deprive, rob 
+to devour, consume 
+to dilute, weaken 
+to excuse 
+to disperse, scatter, spread 
+to edit, publish, release 
+to move, make/get excited 
+to head, lead off 
+to head for, guide 
+to engender, beget 
+to link, connect 
+to interview 
+to scare, frighten 
+to evaluate, assess 
+to evoke, recall 
+to expand 
+to vouch for, confide, trust 
+to feign, pretend 
+to fortify 
+to frequent, visit 
+to boil 
+to equate, equalize 
+to make uneasy, disturb 
+to insult, berate 
+to interpose, intervene 
+to sense 
+to flood, inundate 
+to invoke 
+to beat (heart) 
+to liquidate, sell off 
+to manipulate, handle 
+to work, act 
+to get dark 
+to flaunt, show off 
+to feel, touch, fondle 
+to last, live on, endure 
+to populate, inhabit 
+to predict 
+to prevail 
+to prosper, thrive 
+to reappear 
+to lower, reduce, discount 
+to water, irrigate 
+to regulate, adjust (v) 
+to reign, prevail 
+to finish off, finish up 
+to heal, cure 
+to review, revise 
+to reply 
+to restore, reinstate 
+to delay, fall behind 
+to burst, puncture 
+to submerge, plunge 
+to maintain, support 
+to title, call (v) 
+to run into, bump into 
+to twist, bend, distort 
+to climb 
+to vacillate, hesitate 
+to vibrate, tremble 
+to connect, link, bind 
+open, unlocked 
+tall, high 
+both 
+previous, preceding 
+old, ancient, former 
+that (over there) 
+under, underneath (prep) 
+white 
+good (adj) 
+each, every 
+capable, able 
+certain, sure, true 
+clear (adj) 
+complete 
+common 
+contrary, opposite 
+in terms of, regarding 
+whose 
+the rest, others 
+too much, too many 
+right, justice, law (nm) 
+different, separate 
+difficult, hard 
+distinct, different 
+economic 
+enormous, vast 
+that 
+Spanish 
+special 
+this (adj) 
+finally, in the end 
+general (adj) 
+large, great, big 
+human (adj) 
+equal, same as 
+important 
+young (adj) 
+together with, next to (adv) 
+long (adj) 
+free, vacant 
+bad 
+larger, older, main 
+means, middle (nm) 
+best, better (adv) 
+younger, youngest 
+less, fewer 
+my 
+same 
+natural 
+necessary 
+black 
+our 
+new 
+other, another 
+past, last (adj) 
+little, small, young 
+poor 
+little, few, a little bit (adv) 
+political (adj) 
+possible 
+first 
+main, principal 
+deep, profound 
+own, proper, typical 
+next 
+public (adj) 
+royal, real, authentic 
+second (adj) 
+following, next 
+social 
+lonely, alone (adj) 
+his/her/their/your (formal) 
+such a 
+so much, so many 
+third 
+all, every 
+your (singular familiar) 
+last, final 
+only, unique, sole 
+several, various 
+true, real 
+old, aged 
+alive, bright 
+rather, fairly, quite a bit 
+much, many, a lot 
+some, someone 
+any, anyone 
+no, none, nobody 
+also, as well, besides 
+there 
+now 
+there, over there 
+there [also ahí] 
+before 
+here 
+like that 
+behind 
+still, yet [also todavía] 
+well (adv) 
+well (adv) 
+almost, nearly 
+close, near 
+of course, clearly (adv) 
+like, as 
+when (conj) 
+inside 
+after 
+where 
+during, for (time) 
+above, on top, in addition 
+so, then 
+out, outside, away 
+today, nowadays 
+including, even (adv) 
+far away, far off 
+later, afterwards 
+badly (adv) 
+morning, tomorrow (nf) 
+very, really 
+no 
+never, ever 
+soon, quick 
+perhaps, maybe 
+really, actually, in fact 
+if, whether 
+always, forever 
+only [also únicamente] 
+only, just (adv) 
+also 
+neither, nor, either 
+such, as, too, so 
+afternoon, evening (nf) 
+still, yet [also aún] 
+across, over, through 
+already, still 
+he, [ellos] them (m) 
+the (neuter art) 
+a, an 
+although, even though 
+how? 
+where? 
+more 
+while, whereas, as long as 
+not even, neither, nor 
+or 
+but, yet, except 
+because 
+then, well then 
+that, which 
+yes 
+but, except, rather 
+and 
+action, act, deed 
+activity, action 
+attention 
+base, basis 
+head (part of body) 
+street 
+quantity, amount 
+face, expression 
+career, course, race 
+house 
+city 
+kind, class, order 
+condition 
+thing 
+bill, account 
+question, matter 
+difference 
+doubt 
+age 
+time, age, period 
+kind, sort, species 
+experience 
+lack, shortage [also carencia] 
+family 
+figure 
+form, shape, way 
+strength, force, power 
+people 
+thank you, grace, favor 
+war, warfare 
+history, story 
+hour, time (specific) 
+idea 
+image, picture 
+importance 
+law, bill, rule 
+freedom, liberty 
+line, course 
+light 
+mother 
+way, manner (nf) 
+hand 
+measure: to the extent 
+table, board 
+death 
+woman, wife 
+necessity, need 
+night, evening 
+work, book, deed 
+opportunity, occasion 
+word 
+part, portion 
+person 
+possibility 
+question 
+door 
+reason 
+reality, actuality 
+relationship, relation 
+answer, reply 
+week 
+situation 
+society 
+earth, land, ground 
+truth 
+time (specific occurrence) 
+life 
+view, sight 
+voice 
+area, zone (nf) 
+water 
+accord: in agreement 
+air, wind, appearance 
+friend 
+love 
+animal 
+year 
+aspect, appearance 
+end, bit 
+change 
+road, route, path 
+field, country 
+case, occasion 
+center, middle, downtown 
+color 
+knowledge 
+body 
+should, ought to; to owe (v) 
+day 
+money 
+god, divinity 
+courtesy title (m), Mr., gift 
+effect 
+example 
+nevertheless 
+effort, endeavor 
+space, room 
+state, condition, status 
+study, learning 
+favor, benefit 
+end 
+background, back, bottom 
+government 
+group 
+fact, happening 
+son, [pl] children 
+man, mankind, husband 
+interest 
+game, play, sport 
+side 
+thief 
+book 
+place, position 
+half, middle (adj) 
+month 
+fear [also temor] 
+minute 
+way, manner (nm) 
+moment, time 
+movement 
+world 
+child, little boy 
+level 
+name, noun 
+number 
+object, thing 
+eye 
+father 
+country 
+paper, role, part 
+to seem, look like (v) 
+party, group, sports match 
+step, pace 
+sorrow (nm) 
+peso (money), weight, load 
+foot, base 
+to be able to, can (v) 
+beginning, principle 
+problem 
+process, procedure 
+program, plan 
+people, village 
+point, dot, period 
+respect: with regards to 
+rest, remainder, leftover 
+result, outcome 
+to know (a fact), find out (v) 
+saint (m) 
+sir, Mr., lord 
+sense, feeling 
+to feel, regret (v) 
+to be (norm) (v) 
+service, helpfulness 
+century, age 
+system 
+ground, floor 
+you (obj, familiar) 
+theme, subject, topic 
+time (general), weather 
+type, kind 
+work, job, effort 
+value, worth (n) 
+travel, trip 
+facing; across from 
+order; sequence (m), religious (f) 
+hundred (num) 
+five 
+four 
+ten 
+two 
+thousand 
+eight 
+six 
+seven 
+three 
+one 
+to, at 
+before, in the presence of 
+short, low (adj) 
+with 
+against, opposite 
+of, from 
+from, since 
+in, on 
+between, among 
+toward, towards 
+until, up to, even (adv) 
+for, to, in order to 
+by, for, through 
+according to 
+without 
+on top of, over, about 
+something, somewhat 
+somebody, someone, anyone 
+which, who, whom 
+which? 
+the 
+she,&nbsp;them (f) 
+it (subj-n) 
+that (pron) 
+this one 
+this (pron) 
+3rd person dir obj-f
+3rd person indir obj
+3rd person dir obj-m
+me (pron) 
+me (pron) 
+nothing, not at all 
+nobody, anybody 
+us 
+we 
+what?, which?, how (adj)! 
+who, whom 
+who?, whom? 
+
+you (subj formal) 
+I (pron) 
+to open 
+to have just 
+to accept 
+to come near 
+to reach, catch up with 
+to appear 
+to learn 
+to help 
+to look for 
+to fall 
+to change 
+to close 
+to begin, start [also empezar] 
+to eat 
+to buy 
+to understand [also entender] 
+to know (someone or place) 
+to get, acheive 
+to consider 
+to tell, count 
+to continue 
+to convert, change, become 
+to run 
+to create 
+to believe, think 
+to fulfill 
+to give 
+to decide 
+to tell, say 
+to dedicate, devote 
+to let, leave 
+to develop 
+to discover 
+to stop, detain 
+to direct, manage 
+to throw 
+to choose, elect 
+to begin, start [also comenzar] 
+to find 
+to understand [also comprender] 
+to enter 
+to write 
+to listen to 
+to wait, hope for, expect 
+to be (location, change from norm) 
+to study 
+to avoid, prevent [also prevenir] 
+to exist 
+to explain 
+to set, fix, [se] notice 
+to form 
+to win, earn 
+to be pleasing to 
+to have (aux v) 
+to speak, talk 
+to do, to make 
+to imagine 
+to matter, import 
+to indicate 
+to try, attempt 
+to interest 
+to go 
+to play (sport/game) 
+to read 
+to raise, lift 
+to call, name [also denominar] 
+to arrive 
+to take, carry 
+to get, to manage to (do something) 
+to keep, maintain 
+to look, watch 
+to die 
+to show 
+to move, incite 
+to be born 
+to need 
+to observe, to notice 
+to obtain 
+to occupy, use 
+to happen, occur 
+to offer, present 
+to hear 
+to forget 
+to pay 
+to leave, split 
+to pass, spend time 
+to ask for, request 
+to think 
+to lose, miss 
+to allow, permit 
+power (nm) 
+to put on 
+to ask a question 
+to prepare 
+to introduce, present 
+to produce, cause 
+to propose 
+to remain, stay 
+to want, love 
+to fulfill, carry out 
+to receive 
+to recognize, admit 
+to remember, remind 
+to refer to, tell 
+to repeat 
+to answer, respond 
+to result, turn out 
+to take out 
+to leave [also partir] 
+to follow, to go on 
+to point out, signal 
+being (nm) 
+to serve 
+to be accustomed to [also acostumbrar] 
+to go up 
+to happen 
+to suffer, undergo 
+to suppose, assume 
+to have 
+to finish, end 
+to touch, play an instrument 
+to take, drink 
+to work 
+to bring, carry 
+to try, treat, deal with 
+to use 
+to use, utilize 
+to be worth, cost 
+to come 
+to see 
+to live 
+to turn, to turn over, to return to a place 
+accessible 
+accelerated, quick 
+well-to-do, suitable 
+related, similar 
+fortunate 
+alarming 
+Andalusian 
+anguished, distressed 
+distressing 
+crushed, flattened 
+arid, dry 
+amazed, bewildered 
+atrocious 
+bank, banking 
+warlike 
+blessed 
+biblical 
+of the street 
+capricious, whimsical 
+lacking, devoid 
+cerebral 
+clinical 
+Colombian 
+red, colored 
+combined 
+understanding (adj) 
+confused 
+frozen 
+constructive 
+decisive, blunt, forceful 
+cordial, friendly 
+of the body, corporal 
+chronic 
+respectable, decent 
+disoriented, disconcerted 
+ecclesiastical 
+educated 
+eloquent 
+enthusiastic 
+sporadic 
+statistical 
+exempt, free 
+extra 
+fertile, rich 
+trivial, frivolous 
+frontal 
+geometric 
+grotesque, ridiculous 
+warrior, warlike (adj) 
+Hispanic 
+illegal 
+unlimited 
+impeccable, faultless 
+relentless, implacable 
+impressive, magnificent 
+imported 
+imprecise 
+unstable, unsteady 
+non-existent 
+informative 
+ingenious, clever 
+unsure, unsafe 
+inseparable 
+institutional 
+whole, entire, honest 
+involuntary 
+ironic, mocking 
+unreal 
+irreversible 
+laborious, industrious 
+very long 
+flat, level, plain 
+evil, malignant 
+brown 
+melancholy 
+minute, insignificant 
+very same 
+mystical 
+monstrous 
+monumental 
+mobile 
+neutral 
+clear, clean, neat 
+void, null 
+occasional, random 
+parliamentary 
+paternal 
+patriotic 
+pedagogical, teaching 
+very small, tiny 
+persistent 
+pious, devout, merciful 
+premature 
+prestigious 
+alleged, presumed 
+foreseeable 
+prodigious, famous 
+productive, profitable 
+provincial 
+reciprocal 
+rhythmic 
+strong, robust, sturdy 
+rude, crude, coarse 
+delicious, tasty 
+secular, lay 
+seventh 
+simultaneous 
+sinister 
+synthetic 
+sovereign, self-assured 
+proud, arrogant [also orgulloso] 
+sophisticated 
+smiling 
+subjective 
+sunken, drowned 
+earthly, of the earth 
+momentous, transcendental 
+transcendent 
+behind, back 
+triple 
+tourist (adj) 
+normal, usual 
+dizzying 
+vigorous, strong 
+vulnerable 
+openly 
+briefly 
+properly, duly 
+harshly, severely 
+economically 
+essentially 
+spontaneously 
+firmly 
+initially 
+for a long time, at length 
+mentally 
+officially 
+partially 
+publicly, in public 
+terribly 
+traditionally 
+vice versa 
+voluntarily 
+hello, hi 
+district attorney, prosecutor (nc) 
+giant (nc) 
+idiot, dunce 
+immigrant 
+performer, interpreter 
+mortal (nc) 
+bee 
+abstraction 
+sidewalk 
+actress 
+adherence 
+agony, grief 
+aggressiveness 
+pillow 
+enlargement, extension 
+antenna 
+spider 
+boldness, audacity 
+freeway, motorway 
+bay 
+balance, (measuring) scale 
+battery, gun deck 
+cellar, pantry, warehouse 
+cavalry, knighthood 
+cabin, cockpit 
+goat 
+lime, whitewash 
+caution 
+wax 
+customers, clients 
+complexity 
+involvement, complicity 
+coming together, participation 
+consistency 
+conspiracy 
+answer 
+convention, assembly 
+cooperation 
+cream 
+socket, basin, bowl 
+cave 
+ten (of something) 
+disappointment, disenchantment 
+decoration 
+gentleness, tenderness 
+name, denomination 
+unloading, discharge 
+disappointment, letdown 
+goodbye, farewell 
+skill 
+detention, arrest 
+fortune, happiness, luck 
+diligence 
+apology, excuse 
+distraction, amusement 
+diversity, variety 
+documentation 
+construction, building 
+efficiency 
+rise, elevation, increase 
+broadcast, emission 
+insides, bowels 
+breadth, expanse 
+mistake, misconception 
+foam, lather 
+print, engraving, illustration 
+aesthetics 
+euphoria, elation 
+exhibition, showing 
+expulsion, ejection 
+extinction 
+manufacture, production 
+face feature, faction 
+invoice, bill 
+wild beast 
+arrow, dart 
+coldness, indifference 
+range, musical scale 
+claw, fang 
+gratitude 
+crack, opening, slit 
+hectare 
+hygiene 
+ant 
+hostility, enmity 
+impotence 
+incidence, impact 
+invasion, incursion 
+infection 
+initial (letters) (nf) 
+inspection 
+flood, deluge 
+shot, injection 
+move, play 
+latitude 
+legislation 
+injury, wound, harm 
+pound (money/weight) 
+bookstore 
+alms, charity 
+evil, wickedness 
+damnation, curse 
+obsession, mania 
+slaughter, carnage 
+cheek 
+metaphor 
+mode, manner 
+razor, blade, navaja 
+navigation, shipping 
+negotiation 
+nobility, uprightness 
+obedience 
+idea, witty remark 
+pot, kettle 
+orbit, socket, field 
+shovel 
+particle 
+penetration, insight 
+semidarkness, twilight 
+pint, aspect, dot 
+pyramid 
+swimming pool 
+gunpowder, powder 
+prevention, warning 
+priority 
+origin, source 
+extension 
+prose 
+battle, struggle 
+whore, prostitute 
+reward, recompense 
+claim, demand, redemption 
+repercussion, impact 
+resignation, acceptance 
+restriction 
+rigidity 
+path, lane 
+staff of servants, servitude 
+meaning, significance 
+siren, mermaid 
+sovereignty 
+excess, surplus, leftover 
+tactics, strategy 
+rate, fee, levy 
+towel 
+cake 
+truce, rest 
+rod, stick 
+nearness, vicinity 
+vehicle window, box office 
+path, sidewalk 
+vibration 
+meeting proceedings, minutes 
+adjective 
+admirer 
+gratitude, gratefulness 
+trouble, predicament 
+artifact, device 
+asylum, shelter 
+star (nm) 
+attack, offense 
+bus 
+high school diploma 
+banquet, feast 
+bug, creature 
+ox 
+donkey 
+broth, bouillon, soup 
+champion 
+piece of candy, caramel 
+cent 
+fence, circle, ring 
+kid, youngster 
+coconut 
+rocket 
+command, order 
+complement, supplement 
+communism 
+convincing (nm) 
+cord, yarn, braid 
+skull, cranium 
+delirium, nonsense 
+disorder, chaos 
+neglect, oversight 
+outcome, result 
+imbalance, unsteadiness 
+waste, refuse, garbage 
+deployment, display 
+diamond 
+dictator 
+elephant 
+emperor 
+lace 
+enigma, mystery 
+entity, being, firm 
+entertainment 
+equivalent (nm) 
+showcase, display window 
+manuscript, writing 
+match, match stick 
+cabinet, den, office 
+winner 
+worm, caterpillar 
+hollow (adj) 
+increase, raise 
+infinite, infinity (nm) 
+ingredient 
+means, interval (nm) 
+rider, horseman 
+back, loin, spine 
+hammer 
+medicine, drug 
+microphone 
+mill, windmill 
+mosaic 
+wharf, dock 
+thigh 
+sense of smell 
+bear 
+oxygen 
+pavilion, sports hall 
+godparent, sponsor 
+place, spot 
+parenthesis, digression 
+participant 
+fleeting, transitory (adj) 
+duck 
+unskilled laborer, field hand 
+journalism 
+pioneer 
+precedent 
+prophet 
+fistful, small group 
+ranch, farm 
+herd, flock 
+mistrust, suspicion 
+container, recipient, tank 
+reproach, criticism 
+rescue, ransom 
+withdrawal, retreat 
+movement backwards 
+brush, rubbing, contact 
+role 
+sergeant 
+support, endorsement 
+basement 
+tank, large container 
+roof, housetop 
+temperament, personality 
+tennis 
+meaning, sense, tenor 
+tiger 
+trolley, tram, streetcar 
+line, stroke 
+throne 
+swinging, rocking 
+plant, vegetable (nm) 
+veil 
+wardrobe, changing room 
+violin 
+volcano 
+whisky 
+farmer 
+dancer 
+surgeon 
+diplomat (nm/f) 
+economist 
+editor, publisher 
+warrior, soldier (nm/f) 
+inspector 
+sailor 
+psychologist 
+rage (f), cholera (m) 
+comet (m), kite (f) 
+publisher (f), editorial article (m) 
+twenty-two 
+to comply with, abide by 
+to penetrate, go inside 
+to adhere, attach 
+to loosen 
+to alarm 
+to alert, warn 
+to host, accommodate 
+walk, gait, pace (nm) 
+to assent, agree 
+to venture, risk 
+to border 
+to confer 
+to decay, wane 
+to claim, sue 
+to have breakfast 
+to decipher 
+to despair, lose hope 
+to contradict 
+to clear up 
+to deteriorate 
+to confer, talk 
+to flow, pass, roam 
+to disguise, hide, conceal 
+to commend, entrust 
+harden, make hard 
+to become ill 
+to fatten, get fat 
+to entangle, ensnare 
+to get dirty 
+to start, establish 
+to train 
+to enumerate, count 
+to envy 
+to ruin, mess up 
+to exceed, excel 
+to excite 
+to fascinate 
+to finance 
+to impart, administer 
+to influence, affect 
+to incur, fall into 
+to investigate [also investigar] 
+to insert, put in 
+to instruct 
+to confine 
+to irritate 
+to burst in, raid 
+to f**k, screw (around/up) 
+to let go, start out 
+to tie, link, bind 
+to mediate 
+to inform, become aware 
+to outline, shape 
+to perturb, upset 
+to rest, pose, land 
+to predominate 
+to award 
+to sense in advance 
+to propagate, spread 
+to scratch, scrape 
+to reason out, think 
+to exceed, pass over 
+to recreate, amuse 
+to rectify, straighten out 
+to relax 
+to be reborn, reappear 
+to rest, lie down 
+to resign, relinquish 
+to reestablish, restore 
+to resuscitate, revive  
+to seduce, tempt 
+to happen unexpectedly, befall, ensue 
+to sweat 
+to sigh 
+to tempt, entice 
+to roam, go by 
+to knock over, cast down 
+to take revenge, avenge 
+to pour, spill, shed 
+to glimpse 
