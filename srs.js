@@ -7,10 +7,8 @@
 // TODO: 
 /*
  - change options 
-    - users should be able to upload their own data set 
  - change the extention image from default
- - add branding to page ✅
- - display image on card
+ - user can change cards w/out refreshing the page
  - Google analytics
 
 */
@@ -26,7 +24,7 @@ const init = () => {
         const selectedWord = words[r];
 
         let front = document.querySelector('#frontWord');
-        front.innerHTML = getIconHtml(`${selectedWord.icon}`) + "<br>" + selectedWord.front;
+        front.innerHTML = selectedWord.front;
 
         let back = document.querySelector('#backWord');
         back.innerHTML = selectedWord.back
@@ -36,10 +34,6 @@ const init = () => {
         document.body.style.backgroundColor = colorPair.primary;
     });
 
-}
-
-const getIconHtml = (icon) => {
-    return `<img class="card-icon" src='${icon}'/>`
 }
 
 const makeColors = () => {

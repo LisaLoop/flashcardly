@@ -7,23 +7,22 @@
     "version": "1.0",
     "description": "Study Flashcards while browsing the web!",
     "permissions": [
-        "storage","declarativeContent","activeTab","tabs","topSites","chrome-search"
+        "storage","declarativeContent","activeTab","tabs","topSites"
     ],
     "manifest_version": 2,
-    "page_action": {
-        "default_popup": "popup.html",
+    "browser_action": {
       "default_icon": {
-        "16": "images/get_started16.png",
-        "32": "images/get_started32.png",
-        "48": "images/get_started48.png",
-        "128": "images/get_started128.png"
+        "16": "images/flashcardly16.png",
+        "32": "images/flashcardly32.png",
+        "48": "images/flashcardly48.png",
+        "128": "images/flashcardly128.png"
       }
     },
     "icons": {
-        "16": "images/get_started16.png",
-        "32": "images/get_started32.png",
-        "48": "images/get_started48.png",
-        "128": "images/get_started128.png"
+        "16": "images/flashcardly16.png",
+        "32": "images/flashcardly32.png",
+        "48": "images/flashcardly48.png",
+        "128": "images/flashcardly128.png"
       },
     "background": {
         "scripts": [
