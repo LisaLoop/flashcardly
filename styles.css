@@ -39,7 +39,7 @@ body * {
     position: relative;
     transition: transform 1s;
     transform-style: preserve-3d;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
 }
 
 .card-icon {
@@ -103,6 +103,24 @@ body * {
     width: 30%;
     margin: 0 auto;
     flex-flow: wrap;
+}
+
+.action-panel {
+    display: flex;
+    justify-content: center;
+    margin:0 auto;
+    width:30%;
+    padding:10px;
+}
+
+.change-word {
+    background-color:transparent;
+    border:none;
+    outline:none;
+}
+
+.change-word:hover {
+    background-color:blueviolet;
 }
 
 

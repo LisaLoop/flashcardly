@@ -7,31 +7,55 @@
 // TODO: 
 /*
  - change options 
- - change the extention image from default
+ - change the extention image from default ☑️
  - user can change cards w/out refreshing the page
  - Google analytics
 
 */
 
+
+
 const flipCard = () => {
     let front = document.querySelector('#card');
-    front.classList.toggle("is-flipped")
+    front.classList.toggle("is-flipped");
 }
+
+const showFrontCard = () => {
+    let front = document.querySelector('#card');
+    front.classList.remove('is-flipped');
+}
+
+const swapCard = () => {
+    document.querySelector('body').style.backgroundColor= makeColors().primary;
+    getActiveWords((words) => {
+        showFrontCard();
+        setTimeout(() => {
+            showRandomWord(words)
+        },300)
+        
+    });
+}
+
+const showRandomWord = (words) => {
+    let r = Math.floor(Math.random() * (words.length - 1));
+    const selectedWord = words[r];
+    let front = document.querySelector('#frontWord');
+    front.innerHTML = selectedWord.front;
+
+    let back = document.querySelector('#backWord');
+    back.innerHTML = selectedWord.back
+
+}
+
 
 const init = () => {
     getActiveWords((words) => {
-        let r = Math.floor(Math.random() * (words.length - 1));
-        const selectedWord = words[r];
-
-        let front = document.querySelector('#frontWord');
-        front.innerHTML = selectedWord.front;
-
-        let back = document.querySelector('#backWord');
-        back.innerHTML = selectedWord.back
-
+        showRandomWord(words);
         let card = document.getElementById("card")
         card.addEventListener("click", flipCard)
         document.body.style.backgroundColor = colorPair.primary;
+        let button = document.querySelector('#flip_card');
+        button.addEventListener("click", swapCard)
     });
 
 }
@@ -58,15 +82,15 @@ const getTopSites = (callback) => {
 const makeSiteWidget = (site) => {
     let siteUrl = site.url
     let hostname = (new URL(siteUrl)).hostname;
-    console.log("siteUrl: ", siteUrl);
-    console.log("hostname: ", hostname);
+    // console.log("siteUrl: ", siteUrl);
+    // console.log("hostname: ", hostname);
     let letters = hostname
         .replace('www.', '')
         .replace('.com', '')
         .replace('.edu', '')
         .replace('.org', '')
         .toUpperCase()
-        // .substr(0, 9);
+    // .substr(0, 9);
     return `<div class="widget">
                 <a href="${siteUrl}"><div 
                     style="background-color: ${colorPair.complementary}; 
