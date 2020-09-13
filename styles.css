@@ -170,4 +170,8 @@ body {
     border: none;
 }
 
+.hide-top-sites {
+    display: none;
+}
+
 

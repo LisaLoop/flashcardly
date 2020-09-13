@@ -61,6 +61,7 @@ const showRandomWord = (words) => {
 
 const init = () => {
     optionsEventHandler();
+    toggleTopSites();
     getActiveWords((words) => {
         showRandomWord(words);
         let card = document.getElementById("card")
@@ -103,7 +104,8 @@ const makeSiteWidget = (site) => {
         .replace('.org', '')
         .toUpperCase()
     // .substr(0, 9);
-    return `<div class="widget">
+    return `
+    <div id="widget" class="widget">
                 <a href="${siteUrl}"><div 
                     style="background-color: ${colorPair.complementary}; 
                         background-image: url(${siteUrl}favicon.ico);
@@ -125,9 +127,14 @@ getTopSites((sites) => {
     document.getElementById("siteList").innerHTML = html.join('');
 });
 
-// function toggleTopSites(){
-
-// }
+function toggleTopSites(){
+    let button = document.getElementById('toggle-top-sites');
+    let siteList = document.getElementById("siteList");
+    button.addEventListener('click', () => {
+        console.log("click")
+        siteList.classList.toggle('hide-top-sites');
+    })
+}
 
 function showOptions() {
     chrome.tabs.create({ url: "options.html" });
