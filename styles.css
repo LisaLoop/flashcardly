@@ -8,6 +8,11 @@ body * {
     font-style: normal;
     /* font-size: 44pt; */
 }
+body {
+    background-color: black;
+    color:white;
+    padding:20px;
+}
 .logo {
     font-family: copal-std-decorated,sans-serif;
     font-weight: 400;
@@ -16,6 +21,7 @@ body * {
     line-height: 0;
     padding-left: .25em;
     color: rgb(230,230,230);
+    text-align: center;
 }
 
 .scene {
@@ -65,11 +71,13 @@ body * {
   }
 .card__face--front {
     background-color: rgb(230,230,230);
+    color:rgb(30,30,30);
 }
   
 .card__face--back {
     background-color: rgb(230,230,230);
     transform: rotateY( 180deg );
+    color:rgb(30,30,30);
 }
 
 .is-flipped {
@@ -121,6 +129,45 @@ body * {
 
 .change-word:hover {
     background-color:blueviolet;
+}
+
+.options-box-container {
+    border:2px solid red;
+}
+
+.options-box-title {
+    font-size: 44pt;
+    margin-bottom: 20pt;
+}
+.options-box-button {
+    font-size: 32pt;
+}
+.deck-options-label {
+    font-size: 24pt;
+    color:white;
+}
+
+#options_page {
+    margin:0 auto;
+}
+
+  button {
+    outline: none;
+    margin: 10px;
+  }
+
+.cog-button-container {
+    position: fixed;
+    right:0;
+    top:0;
+    width:100px;
+    padding:20px;
+    z-index: 9999;
+}
+.cog-button {
+    font-size: 44px;
+    background-color: transparent;
+    border: none;
 }
 
 

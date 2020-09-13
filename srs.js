@@ -6,10 +6,21 @@
 
 // TODO: 
 /*
- - change options 
- - change the extention image from default ☑️
- - user can change cards w/out refreshing the page
- - Google analytics
+- center the title ✅
+- show/hide top sites
+- change options 
+    - add a cog button to the top right of the page ✅ 
+      to see user options. 
+        - change language deck 
+            - show what the currently selected deck is
+        - show/hide top sites
+      - hide the options on the page inside of a 
+      full page that appears on clicking the cog button.✅
+    - make the options page nicer
+        - style buttons and text
+- new decks avaiable hirigana, katakana
+- Google analytics
+- attribution link
 
 */
 
@@ -26,13 +37,13 @@ const showFrontCard = () => {
 }
 
 const swapCard = () => {
-    document.querySelector('body').style.backgroundColor= makeColors().primary;
+    document.querySelector('body').style.backgroundColor = makeColors().primary;
     getActiveWords((words) => {
         showFrontCard();
         setTimeout(() => {
             showRandomWord(words)
-        },300)
-        
+        }, 300)
+
     });
 }
 
@@ -49,6 +60,7 @@ const showRandomWord = (words) => {
 
 
 const init = () => {
+    optionsEventHandler();
     getActiveWords((words) => {
         showRandomWord(words);
         let card = document.getElementById("card")
@@ -113,5 +125,18 @@ getTopSites((sites) => {
     document.getElementById("siteList").innerHTML = html.join('');
 });
 
+// function toggleTopSites(){
+
+// }
+
+function showOptions() {
+    chrome.tabs.create({ url: "options.html" });
+}
+function optionsEventHandler() {
+    let cogButton = document.querySelector('#cog_button');
+    cogButton.addEventListener("click", () => {
+        showOptions();
+    })
+}
 
 window.onload = init;

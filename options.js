@@ -1,13 +1,10 @@
-let page = document.getElementById('page');
+let page = document.getElementById('options_page');
 const languageDecks = ["ES", "FR"];
 
   function constructOptions(languageDecks) {
-    let messageBox = document.createElement('div');
-    messageBox.textContent = "Choose a language deck"
-    page.appendChild(messageBox)
-    
     for (let language of languageDecks) {
       let button = document.createElement('button');
+      button.classList.add('options-box-button')
       button.innerHTML = language;
       
       button.addEventListener('click', function() {
