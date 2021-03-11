@@ -169,7 +169,11 @@ body {
     background-color: transparent;
     border: none;
 }
-
+.toggle-top-sites {
+    background-color: transparent;
+    border:none;
+    font-size: 28pt;
+}
 .hide-top-sites {
     display: none;
 }

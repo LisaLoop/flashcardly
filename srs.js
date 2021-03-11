@@ -6,19 +6,16 @@
 
 // TODO: 
 /*
-- center the title ✅
-- show/hide top sites
 - change options 
-    - add a cog button to the top right of the page ✅ 
-      to see user options. 
         - change language deck 
             - show what the currently selected deck is
-        - show/hide top sites
-      - hide the options on the page inside of a 
-      full page that appears on clicking the cog button.✅
     - make the options page nicer
         - style buttons and text
-- new decks avaiable hirigana, katakana
+
+STRETCH GOALS
+- Put a list to hide certain links from top sites, customize top sites
+- A user can add any site to the list of top sites
+- The default shows language, education websites (wikipedia, us)
 - Google analytics
 - attribution link
 
@@ -126,15 +123,6 @@ getTopSites((sites) => {
     })
     document.getElementById("siteList").innerHTML = html.join('');
 });
-
-function toggleTopSites(){
-    let button = document.getElementById('toggle-top-sites');
-    let siteList = document.getElementById("siteList");
-    button.addEventListener('click', () => {
-        console.log("click")
-        siteList.classList.toggle('hide-top-sites');
-    })
-}
 
 function showOptions() {
     chrome.tabs.create({ url: "options.html" });
