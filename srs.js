@@ -6,17 +6,35 @@
 
 // TODO: 
 /*
+- SRS  
+    - the first time the extension is loaded the selected deck is loaded into user's local storage.
+      when we render cards we render them from local storage. 
+      - Every time we render a card we store the last time it was rendered 
+      - The user can modify the card status as easy 
+        which will disable the word from appearing in the deck for 999 days 
+         unless the user enables it before that time in an
+         edit grid on the settings page for that deck.
+        - this information is saved in local storage and associated to the card. 
+       
+
+- Viewed card history 
+ - allows a user to view the last n cards that appeared
+- Show currently selected deck in new tab
 - change options 
         - change language deck 
             - show what the currently selected deck is
-    - make the options page nicer
+            - when the user changes the currently selected deck
+            there should be some message letting her know 
+            that the deck changed successfuly.
+    - Add a close or back button to go back to the open tab
+     - if possible without losing the state  
         - style buttons and text
+- Google analytics
 
 STRETCH GOALS
 - Put a list to hide certain links from top sites, customize top sites
 - A user can add any site to the list of top sites
 - The default shows language, education websites (wikipedia, us)
-- Google analytics
 - attribution link
 
 */
