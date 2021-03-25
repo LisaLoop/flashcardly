@@ -1,6 +1,11 @@
 let page = document.getElementById('options_page');
 const languageDecks = ["ES", "FR"];
 
+
+let messageBox = document.createElement('div');
+    messageBox.classList.add("options-box-title");
+    page.appendChild(messageBox);
+
 function constructOptions(languageDecks) {
   for (let language of languageDecks) {
     let button = document.createElement('button');
@@ -16,29 +21,49 @@ function constructOptions(languageDecks) {
   }
 }
 
-function getDecksFromSettings(callback) {
-  chrome.storage.sync.get(['language'], function (result) {
+function getCurrentDeckName(callback) {
+  console.log("languageDecks[0]: ",languageDecks[0])
+  getOptionOrDefault('language', languageDecks[0], callback)
+}
+function getCurrentPosition(callback) {
+  getOptionOrDefault('currentPosition', 0, callback)
+}
+function getDecksFromSettings(deckName, callback) {
+  console.log("deckName: ", deckName);
+  var spanishWords = getSpanishWords();
+  getOptionOrDefault(deckName, spanishWords , callback)
+}
+function getShowTopSitesState(callback){
+  getOptionOrDefault('showTopSites', false, callback)
+}
+
+function getOptionOrDefault(optionName, defaultValue, callback) {
+  chrome.storage.sync.get([optionName], function (result) {
     if (chrome.runtime.lastError) {
-      console.log("chrome.runtime.lastError: ", chrome.runtime.lastError)
-      callback([languageDecks[0]])
+      console.log("getOptionOrDefault: chrome.runtime.lastError: ", chrome.runtime.lastError)
+      // TODO set
+      callback(defaultValue);
     } else {
-      if ('language' in result) {
-        callback([result.language]);
+      if (optionName in result) {
+        callback([result[optionName]]);
       } else {
-        callback([languageDecks[0]]);
+      
+        callback(defaultValue);
       }
     }
   });
-  return languageDecks
+}
+
+function saveDeckInLocalStorage(deckName, dataSet, callback){
+  let options = {};
+  options[deckName] = dataSet
+  chrome.storage.sync.set(options, callback)
 }
 
 function setShowTopSitesState(state) {
   chrome.storage.sync.set({ showTopSites: state }, function () {
     console.log(state);
   })
-}
-function getShowTopSitesState(callback) {
-  chrome.storage.sync.get(['showTopSites'], callback)
 }
 
 function toggleTopSites() {

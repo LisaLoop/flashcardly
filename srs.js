@@ -16,7 +16,7 @@
          edit grid on the settings page for that deck.
         - this information is saved in local storage and associated to the card. 
        
-
+- BUG: screen bg is black for a moment while bg color loads
 - Viewed card history 
  - allows a user to view the last n cards that appeared
 - Show currently selected deck in new tab
@@ -77,14 +77,27 @@ const showRandomWord = (words) => {
 const init = () => {
     optionsEventHandler();
     toggleTopSites();
-    getActiveWords((words) => {
-        showRandomWord(words);
-        let card = document.getElementById("card")
-        card.addEventListener("click", flipCard)
-        document.body.style.backgroundColor = colorPair.primary;
-        let button = document.querySelector('#flip_card');
-        button.addEventListener("click", swapCard)
+    getCurrentDeckName(function(deckName) {
+        getDecksFromSettings(deckName[0], function(words){
+            getActiveWords((words) => {
+                showRandomWord(words);
+                let card = document.getElementById("card")
+                card.addEventListener("click", flipCard)
+                document.body.style.backgroundColor = colorPair.primary;
+                let button = document.querySelector('#flip_card');
+                button.addEventListener("click", swapCard)
+            });
+        }) 
     });
+    
+    // get decks
+        // if decks are missing, use default decks
+            // save 
+            // return default decks
+        // else 
+            // given a dataSet call 
+            // getActiveWords
+   
 
 }
 
