@@ -165,4 +165,4 @@ function optionsEventHandler() {
     })
 }
 
-window.onload = init;
+window.onload = () => setTimeout(init);

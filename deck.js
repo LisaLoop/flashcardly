@@ -5,12 +5,9 @@ const getActiveWords = (callback) => {
     languages.ES = getSpanishWords();
     languages.FR = getFrenchWords();
     let words = [];
-    getCurrentDeckName((currentDeckList) => {
-        for (let language of currentDeckList) {
-            let dataset = languages[language]
-            words = words.concat(dataset)
-        }
-        
+    getCurrentDeckName((language) => {
+        let dataset = languages[language]
+        words = words.concat(dataset)
         callback(words)
     });
 
