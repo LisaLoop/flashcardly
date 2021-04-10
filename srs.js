@@ -87,7 +87,6 @@ const init = () => {
                 showRandomWord(words);
                 let card = document.getElementById("card")
                 card.addEventListener("click", flipCard)
-                console.log(colorPair);
                 changeColors();
                 let button = document.querySelector('#flip_card');
                 button.addEventListener("click", swapCard)
