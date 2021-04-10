@@ -39,8 +39,6 @@ STRETCH GOALS
 
 */
 
-
-
 const flipCard = () => {
     let front = document.querySelector('#card');
     front.classList.toggle("is-flipped");
@@ -52,13 +50,10 @@ const showFrontCard = () => {
 }
 
 const swapCard = () => {
-    document.querySelector('body').style.backgroundColor = makeColors().primary;
     getActiveWords((words) => {
         showFrontCard();
-        setTimeout(() => {
-            showRandomWord(words)
-        }, 300)
-
+        changeColors();
+        showRandomWord(words)
     });
 }
 
@@ -73,31 +68,41 @@ const showRandomWord = (words) => {
 
 }
 
+const changeColors = () => {
+    const colors = makeColors();
+    document.querySelector('body').style.backgroundColor = colors.primary;
+    const iconWidgets = document.querySelectorAll('.widget-icon');
+                Array.from(iconWidgets)
+                    .filter((icon) => icon.style)
+                    .forEach((icon) => { icon.style.backgroundColor = colors.complementary; });
+
+}
 
 const init = () => {
     optionsEventHandler();
     toggleTopSites();
-    getCurrentDeckName(function(deckName) {
-        getDecksFromSettings(deckName[0], function(words){
+    getCurrentDeckName(function (deckName) {
+        getDecksFromSettings(deckName[0], function (words) {
             getActiveWords((words) => {
                 showRandomWord(words);
                 let card = document.getElementById("card")
                 card.addEventListener("click", flipCard)
-                document.body.style.backgroundColor = colorPair.primary;
+                console.log(colorPair);
+                changeColors();
                 let button = document.querySelector('#flip_card');
                 button.addEventListener("click", swapCard)
             });
-        }) 
+        })
     });
-    
+
     // get decks
-        // if decks are missing, use default decks
-            // save 
-            // return default decks
-        // else 
-            // given a dataSet call 
-            // getActiveWords
-   
+    // if decks are missing, use default decks
+    // save 
+    // return default decks
+    // else 
+    // given a dataSet call 
+    // getActiveWords
+
 
 }
 
