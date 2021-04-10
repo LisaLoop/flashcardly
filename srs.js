@@ -45,8 +45,12 @@ const flipCard = () => {
 }
 
 const showFrontCard = () => {
-    let front = document.querySelector('#card');
-    front.classList.remove('is-flipped');
+    let current = document.querySelector('#card');
+    current.classList.remove('is-flipped');
+
+    const next = current.cloneNode(true);
+    next.addEventListener("click", flipCard);
+    current.replaceWith(next);
 }
 
 const swapCard = () => {

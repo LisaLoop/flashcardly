@@ -6,19 +6,36 @@ let messageBox = document.createElement('div');
     messageBox.classList.add("options-box-title");
     page.appendChild(messageBox);
 
-function constructOptions(languageDecks) {
-  for (let language of languageDecks) {
-    let button = document.createElement('button');
-    button.classList.add('options-box-button')
-    button.innerHTML = language;
+function updateLanguageButtons (language) {
+  document.querySelectorAll('.options-box-button').forEach(button => {
+    button.disabled = button.textContent === language;
+  });
+}
 
-    button.addEventListener('click', function () {
-      chrome.storage.sync.set({ language: language }, function () {
-        messageBox.textContent = `${language} chosen. Your preferences have been saved.`
-      })
-    });
-    page.appendChild(button);
-  }
+function constructOptions(languageDecks) {
+  /*
+    1. get the currently-selected language
+    2. show the currently-selected language
+    3. build the options list
+    4. disable the currently selected option (next steps)
+    5. display the page components
+  */
+  getCurrentDeckName(selectedLanguage => {
+    messageBox.textContent = `${selectedLanguage} selected.`;
+    for (let language of languageDecks) {
+      let button = document.createElement('button');
+      button.classList.add('options-box-button');
+      button.innerHTML = language;
+      button.addEventListener('click', function () {
+        chrome.storage.sync.set({ language: language }, function () {
+          messageBox.textContent = `${language} chosen. Your preferences have been saved.`
+          updateLanguageButtons(language);
+        })
+      });
+      page.appendChild(button);
+      updateLanguageButtons(selectedLanguage);
+    }
+  });
 }
 
 function getCurrentDeckName(callback) {
