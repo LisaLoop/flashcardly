@@ -1,13 +1,13 @@
 {
-    "name": "Flashcardly",
+    "name": "Flashcardly!",
     "options_page": "options.html",
     "chrome_url_overrides" : {
         "newtab": "index.html"
       },
-    "version": "1.0",
+    "version": "0.0.0.1",
     "description": "Study Flashcards while browsing the web!",
     "permissions": [
-        "storage","declarativeContent","activeTab","tabs","topSites"
+        "storage","declarativeContent","tabs","topSites"
     ],
     "manifest_version": 2,
     "browser_action": {
