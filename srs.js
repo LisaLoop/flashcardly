@@ -55,13 +55,13 @@ const changeColors = () => {
 const init = () => {
     optionsEventHandler();
     toggleTopSites();
+    changeColors();
     getCurrentDeckName(function (deckName) {
         getDecksFromSettings(deckName[0], function (words) {
             getActiveWords((words) => {
                 showRandomWord(words);
                 let card = document.getElementById("card")
                 card.addEventListener("click", flipCard)
-                changeColors();
                 let button = document.querySelector('#flip_card');
                 button.addEventListener("click", swapCard)
             });

@@ -3,7 +3,7 @@ const languageDecks = ["ES", "FR"];
 
 
 let messageBox = document.createElement('div');
-    messageBox.classList.add("options-box-title");
+    messageBox.classList.add("options-box-subtitle");
     page.appendChild(messageBox);
 
 function updateLanguageButtons (language) {

@@ -8,7 +8,7 @@ body * {
     font-style: normal;
 }
 body {
-    background-color: black;
+    /* background-color: black; */
     color:white;
     padding:20px;
 }
@@ -138,13 +138,17 @@ body {
     background-color:blueviolet;
 }
 
-.options-box-container {
-    border:2px solid red;
+.options-page-container {
+    background-color: rgb(30,30,30);
 }
 
 .options-box-title {
     font-size: 44pt;
     margin-bottom: 20pt;
+}
+.options-box-subtitle {
+    font-size: 22pt;
+    margin-top:10pt;
 }
 .options-box-button {
     font-size: 32pt;
