@@ -6,7 +6,6 @@ body * {
     font-family: raleway, sans-serif;
     font-weight: 400;
     font-style: normal;
-    /* font-size: 44pt; */
 }
 body {
     background-color: black;
@@ -37,6 +36,7 @@ body {
     margin:0 auto;
     vertical-align: middle;
     margin-top:1vh;
+    /* this width should be the same as site list */
     width: 500px;
     height: 300px;
     line-height: 1;
@@ -50,7 +50,6 @@ body {
 
 .card-icon {
     width:30%;
-    /* height:30; */
     margin:0 auto;
     margin-bottom:25px;
     margin-top:50px;
@@ -88,17 +87,24 @@ body {
     font-size: 14px;
     text-decoration: none;
     font-weight: 700;
-    text-overflow: ellipsis;
 }
 
 .widget {
     text-align: center;
-    width:90px;
-    overflow: hidden;
+    padding:10px;
+    width: 80px;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+.widget:hover {
+    border-radius: 4px;
+    background-color: rgba(255,255,255,0.5);
+    cursor: pointer;
 }
 
 .widget-icon {
-    width:50px;
+    width: 50px;
     height:50px;
     border-radius: 50%;
     line-height: 4.5;
@@ -107,10 +113,11 @@ body {
 
 .site-list {
     display: flex;
-    justify-content: space-between;
-    width: 30%;
+    /* keep this width the same as the card */
+    width: 500px;
+    justify-content: flex-start;
     margin: 0 auto;
-    flex-flow: wrap;
+    flex-wrap: wrap;
 }
 
 .action-panel {

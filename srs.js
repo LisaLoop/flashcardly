@@ -1,42 +1,12 @@
-/*SRS: Spaced Repetition System*/
-
-// Random word appears on card on tab open
-// User can click card to reveal backside of card
-// 1 card per new tab
-
-// TODO: 
 /*
-- SRS  
-    - the first time the extension is loaded the selected deck is loaded into user's local storage.
-      when we render cards we render them from local storage. 
-      - Every time we render a card we store the last time it was rendered 
-      - The user can modify the card status as easy 
-        which will disable the word from appearing in the deck for 999 days 
-         unless the user enables it before that time in an
-         edit grid on the settings page for that deck.
-        - this information is saved in local storage and associated to the card. 
-       
-- BUG: screen bg is black for a moment while bg color loads
-- Viewed card history 
- - allows a user to view the last n cards that appeared
-- Show currently selected deck in new tab
-- change options 
-        - change language deck 
-            - show what the currently selected deck is
-            - when the user changes the currently selected deck
-            there should be some message letting her know 
-            that the deck changed successfuly.
-    - Add a close or back button to go back to the open tab
-     - if possible without losing the state  
-        - style buttons and text
-- Google analytics
-
-STRETCH GOALS
-- Put a list to hide certain links from top sites, customize top sites
-- A user can add any site to the list of top sites
-- The default shows language, education websites (wikipedia, us)
-- attribution link
-
+- welcome screen w/instructions 
+- black bg before app loads
+- unintuitive options (options should be like a modal with a close icon)
+- lack of discoverability of the card flipping
+- better flip icon instead of the shuffle icon
+- button to flip card and another button to change cards
+- label for top sites toggle button
+- user should see ui in their local language 
 */
 
 const flipCard = () => {
@@ -76,9 +46,9 @@ const changeColors = () => {
     const colors = makeColors();
     document.querySelector('body').style.backgroundColor = colors.primary;
     const iconWidgets = document.querySelectorAll('.widget-icon');
-                Array.from(iconWidgets)
-                    .filter((icon) => icon.style)
-                    .forEach((icon) => { icon.style.backgroundColor = colors.complementary; });
+    Array.from(iconWidgets)
+        .filter((icon) => icon.style)
+        .forEach((icon) => { icon.style.backgroundColor = "rgb(230,230,230)"; });
 
 }
 
@@ -98,15 +68,6 @@ const init = () => {
         })
     });
 
-    // get decks
-    // if decks are missing, use default decks
-    // save 
-    // return default decks
-    // else 
-    // given a dataSet call 
-    // getActiveWords
-
-
 }
 
 const makeColors = () => {
@@ -123,37 +84,34 @@ const colorPair = makeColors();
 
 const getTopSites = (callback) => {
     chrome.topSites.get((sites) => {
-        // const filteredSites = sites.filter(site => !site.url.includes('chrome-extension://'))
         callback(sites)
     })
 }
-// 
+
 const makeSiteWidget = (site) => {
     let siteUrl = site.url
     let hostname = (new URL(siteUrl)).hostname;
-    // console.log("siteUrl: ", siteUrl);
-    // console.log("hostname: ", hostname);
     let letters = hostname
         .replace('www.', '')
         .replace('.com', '')
         .replace('.edu', '')
         .replace('.org', '')
         .toUpperCase()
-    // .substr(0, 9);
+    
     return `
     <div id="widget" class="widget">
-                <a href="${siteUrl}"><div 
-                    style="background-color: ${colorPair.complementary}; 
-                        background-image: url(${siteUrl}favicon.ico);
-                        background-position:center center;
-                        background-size: cover;
-                        background-repeat: no-repeat;"  
+        <a href="${siteUrl}">
+            <div 
+                style="background-image: url(https://s2.googleusercontent.com/s2/favicons?sz=32&domain=${encodeURIComponent(siteUrl)});
+                    background-position:center center;
+                    background-repeat: no-repeat;"  
                     class="widget-icon">
-
-                </div></a>
-                <a class="widget-url" href="${siteUrl}">${letters}</a>
-            </div>`
+            </div>
+        </a>
+        <a class="widget-url" href="${siteUrl}">${letters}</a>
+    </div>`
 }
+
 
 getTopSites((sites) => {
     let html = [];
